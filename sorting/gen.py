@@ -1,15 +1,32 @@
 from random import *
 
-n = 50
-eps = 1.0/n
-maxr = n/2
+n_sizes = [100, 1000, 10000]
+#n_sizes = [1, 2, 3]
 
-f = open("data.in","w")
-f.write(str(eps) + " " + str(n))
+for n in n_sizes:
+    eps = 1.0/n
+    maxr = n/2
+    arq = "_data-%s.in"%(n)
+    f = open(arq,"w")
+    f.write(str(eps) + " " + str(n))
+    for i in range(n):
+        f.write(" " + str(randint(1,maxr)))
+    f.write("\n")
+    f.close()
 
-for i in range(n):
-    f.write(" " + str(randint(1,maxr)))
-f.write("\n")
+# ============================
+# CODIGO ANTERIOR
+# ============================
+# n = 10000
+# eps = 1.0/n
+# maxr = n/2
 
-f.close()
+# f = open("data2.in","w")
+# f.write(str(eps) + " " + str(n))
+
+# for i in range(n):
+#     f.write(" " + str(randint(1,maxr)))
+# f.write("\n")
+
+# f.close()
 
