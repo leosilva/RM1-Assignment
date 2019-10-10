@@ -1,0 +1,20 @@
+TAREFAS
+—————
+
+	- Pesquisar sobre fundamentação e contextualização de falhas de memória
+	- Pesquisar sobre os algoritmos de ordenação utilizados
+	- Parâmetros (cada algoritmo)
+		* Qtd números:
+			- 100
+			- 1000
+			- 10000
+		* Rodadas: 1000
+		* Probabilidade:
+			- Variável (original)
+			- Fixa
+	- Hipóteses
+		* 
+	- Análise dos resultados:
+		* Os algoritmos diferem em quantidade de comparações e trocas
+		* Índice de qualidade
+		* 
