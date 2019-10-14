@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{Finocchi2004}
+Irene Finocchi and Giuseppe~F Italiano.
+\newblock {Sorting and searching in the presence of memory faults (without
+  redundancy)}.
+\newblock In {\em Conference Proceedings of the Annual ACM Symposium on Theory
+  of Computing}, number January, pages 101--110, 2004.
+
+\bibitem{Hamdioui2003}
+Said Hamdioui, Zaid Al-Ars, Ad~J. {Van De Goor}, and Mike Rodgers.
+\newblock {Dynamic faults in random-access-memories: Concept, fault models and
+  tests}.
+\newblock In {\em Journal of Electronic Testing: Theory and Applications
+  (JETTA)}, volume~19, pages 195--205. 2003.
+
+\bibitem{Nelson1990}
+Victor~P Nelson.
+\newblock {Fault-Tolerant Computing: Fundamental Concepts}.
+\newblock 1990.
+
+\end{thebibliography}
