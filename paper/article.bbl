@@ -1,5 +1,10 @@
 \begin{thebibliography}{1}
 
+\bibitem{Cormen2009}
+TH~Cormen, CE~Leiserson, RL~Rivest, and C~Stein.
+\newblock {\em {Introduction to algorithms.}}
+\newblock MIT Press, 2009.
+
 \bibitem{Finocchi2004}
 Irene Finocchi and Giuseppe~F Italiano.
 \newblock {Sorting and searching in the presence of memory faults (without
@@ -17,6 +22,6 @@ Said Hamdioui, Zaid Al-Ars, Ad~J. {Van De Goor}, and Mike Rodgers.
 \bibitem{Nelson1990}
 Victor~P Nelson.
 \newblock {Fault-Tolerant Computing: Fundamental Concepts}.
-\newblock 1990.
+\newblock {\em Computer}, 23(7):19--25, 1990.
 
 \end{thebibliography}

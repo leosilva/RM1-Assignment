@@ -10,49 +10,49 @@ Warning--I didn't find a database entry for "b3"
 Warning--I didn't find a database entry for "b4"
 Warning--I didn't find a database entry for "b5"
 Warning--I didn't find a database entry for "b6"
+Warning--can't use both author and editor fields in Cormen2009
 Warning--there's a number but no series in Finocchi2004
 Warning--can't use both volume and number fields in Hamdioui2003
 Warning--empty publisher in Hamdioui2003
-Warning--empty journal in Nelson1990
-You've used 3 entries,
+You've used 4 entries,
             2118 wiz_defined-function locations,
-            523 strings with 4571 characters,
-and the built_in function-call counts, 1233 in all, are:
-= -- 124
-> -- 43
+            536 strings with 4752 characters,
+and the built_in function-call counts, 1627 in all, are:
+= -- 161
+> -- 66
 < -- 4
-+ -- 17
-- -- 14
-* -- 80
-:= -- 186
-add.period$ -- 10
-call.type$ -- 3
-change.case$ -- 16
++ -- 26
+- -- 22
+* -- 116
+:= -- 251
+add.period$ -- 13
+call.type$ -- 4
+change.case$ -- 22
 chr.to.int$ -- 0
-cite$ -- 7
-duplicate$ -- 57
-empty$ -- 100
-format.name$ -- 14
-if$ -- 272
+cite$ -- 8
+duplicate$ -- 70
+empty$ -- 130
+format.name$ -- 22
+if$ -- 352
 int.to.chr$ -- 0
-int.to.str$ -- 3
-missing$ -- 3
-newline$ -- 18
-num.names$ -- 6
-pop$ -- 21
+int.to.str$ -- 4
+missing$ -- 5
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 27
 preamble$ -- 1
-purify$ -- 13
+purify$ -- 19
 quote$ -- 0
-skip$ -- 47
+skip$ -- 53
 stack$ -- 0
-substring$ -- 79
-swap$ -- 24
+substring$ -- 103
+swap$ -- 27
 text.length$ -- 4
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 12
+type$ -- 14
 warning$ -- 4
-while$ -- 12
-width$ -- 4
-write$ -- 35
+while$ -- 16
+width$ -- 5
+write$ -- 47
 (There were 11 warnings)
