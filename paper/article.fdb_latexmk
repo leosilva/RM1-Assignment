@@ -1,14 +1,14 @@
 # Fdb version 3
-["bibtex article"] 1571653831 "article.aux" "article.bbl" "article" 1571653831
-  "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "RM1_Assignment.bib" 1571653830 5405 3477182378dda41b3348c0e3b579246d ""
-  "article.aux" 1571653757 2907 ba0f4eb291ba46f52b45c1cda5e84b60 "pdflatex"
+["bibtex article"] 1571657104 "article.aux" "article.bbl" "article" 1571657143
+  "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
+  "RM1_Assignment.bib" 1571655784 7275 12d31a3aca4fd87a099afac5975f30be ""
+  "article.aux" 1571657105 3079 cea8ebcf43a9679f0d04a684c7ec9226 "pdflatex"
   (generated)
   "article.bbl"
   "article.blg"
-["pdflatex"] 1571653756 "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.tex" "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf" "article" 1571653831
-  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.aux" 1571653757 2907 ba0f4eb291ba46f52b45c1cda5e84b60 ""
-  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.tex" 1571073137 13711 2c1102bfc0f8b2b3b6d98b2060523775 ""
+["pdflatex"] 1571657105 "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.tex" "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf" "article" 1571657143
+  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.aux" 1571657105 3079 cea8ebcf43a9679f0d04a684c7ec9226 ""
+  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.tex" 1571657139 13712 4d5f74a22a37a28f3b1e3a500cb3a7df ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
   "/usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/courier/pcrr7t.tfm" 1136768653 960 379cc0019370a9e0208a0a3f949f847a ""
@@ -104,14 +104,14 @@
   "Abstract.tex" 1571062777 366 a86ae302fed10437154972c982cb9706 ""
   "IEEEtran.cls" 1570459949 288304 b67b6fc6c2abb39f9b461923f5199343 ""
   "Introduction.tex" 1571062422 1496 16abac5a0aa415665d2d0a4c420c9e09 ""
-  "MemoryFaults.tex" 1571073119 1253 fabb5d3057057f60eba172fb43d565c2 ""
-  "SortingAlgorithms.tex" 1571653753 607 40d8f0107b78e8d232c5cbb3486dcfe1 ""
-  "article.aux" 1571653757 2907 ba0f4eb291ba46f52b45c1cda5e84b60 "pdflatex"
-  "article.bbl" 1571653831 926 f9edb02f1260f09bb1ebffaf0f7c3840 "bibtex article"
-  "article.tex" 1571073137 13711 2c1102bfc0f8b2b3b6d98b2060523775 ""
+  "MemoryFaults.tex" 1571654256 1253 fabb5d3057057f60eba172fb43d565c2 ""
+  "SortingAlgorithms.tex" 1571657143 2169 2476fab8087897185d6c0c46729f42e5 ""
+  "article.aux" 1571657105 3079 cea8ebcf43a9679f0d04a684c7ec9226 "pdflatex"
+  "article.bbl" 1571657105 1365 e979df598e1abe1459adf84f0922fc40 "bibtex article"
+  "article.tex" 1571657139 13712 4d5f74a22a37a28f3b1e3a500cb3a7df ""
   (generated)
-  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.log"
   "article.pdf"
-  "article.aux"
-  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf"
   "article.log"
+  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.log"
+  "/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf"
+  "article.aux"

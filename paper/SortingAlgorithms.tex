@@ -4,11 +4,27 @@ This work uses four sorting algorithms: quicksort, mergesort, insertionsort, and
 
 \subsection{Quicksort}
 
-Quicksort is an algorithm whose execution time is $\theta(n^2)$ in the worst case over \textit{n} numbers as input. Despite that execution time, quicksort is often the best option for sorting because of its remarkable average efficiency: $\theta(n lg n)$ \cite{Cormen2009}. This algorithm was created by Hoare \cite{}.
+Sorting algorithms are widely used in many aspects of data processing, information searches, business finance, computer encryption, etc. Quicksort algorithm, created by Hoare \cite{Hoare1962}, is considered as one of the fastest and best sorting algorithms \cite{Wang2011}. The algorithm is based on the paradigm of divide and conquer.
 
+This algorithm has an execution time is $\theta(n^2)$ in the worst case over \textit{n} numbers as input. Despite that execution time, quicksort is often the best option for sorting because of its remarkable average efficiency: $\theta(n lg n)$ \cite{Cormen2009}.
 
+The basic steps of this algorithm are \cite{Wang2011}:
+\begin{itemize}
+    \item Pick an element, which is called a pivot, from the list waiting to be sorted;
+    \item Perform partition operation to realize that all elements in the list with values smaller than the pivot came before the pivot. Otherwise, all elements in the list with values bigger than the pivot come after it (elements which are equal to pivot can go either way). After this partition, the pivot is in the final position of the list;
+    \item Recursively sort the sub-list of smaller elements and the sub-list of the bigger elements.
+\end{itemize}
 
 \subsection{Mergesort}
+
+Mergesort was invented by John Von Newman and is one of the most elegant algorithms to appear in the sorting literature. It is the first sorting algorithm to have $\theta(n lg n)$ time complexity bound. It is important to observe that this algorithm spends a lot of time on data transfer operations. In fact, standard Mergesort incurs about 2n data move operations \cite{Abhyankar2011}.
+
+Conceptually, Mergesort works as follows \cite{Abhyankar2011}:
+\begin{itemize}
+    \item Divide the unsorted array into two sub arrays of about half the size;
+    \item Sort each sub array recursively;
+    \item Merge the two sub arrays back into one array.
+\end{itemize}
 
 \subsection{Insertionsort}
 

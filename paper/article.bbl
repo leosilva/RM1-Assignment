@@ -1,27 +1,38 @@
 \begin{thebibliography}{1}
 
-\bibitem{Cormen2009}
-TH~Cormen, CE~Leiserson, RL~Rivest, and C~Stein.
-\newblock {\em {Introduction to algorithms.}}
-\newblock MIT Press, 2009.
-
 \bibitem{Finocchi2004}
-Irene Finocchi and Giuseppe~F Italiano.
-\newblock {Sorting and searching in the presence of memory faults (without
-  redundancy)}.
-\newblock In {\em Conference Proceedings of the Annual ACM Symposium on Theory
-  of Computing}, number January, pages 101--110, 2004.
+I.~Finocchi and G.~F. Italiano, ``{Sorting and searching in the presence of
+  memory faults (without redundancy)},'' in {\em Conference Proceedings of the
+  Annual ACM Symposium on Theory of Computing}, no.~January, pp.~101--110,
+  2004.
 
 \bibitem{Hamdioui2003}
-Said Hamdioui, Zaid Al-Ars, Ad~J. {Van De Goor}, and Mike Rodgers.
-\newblock {Dynamic faults in random-access-memories: Concept, fault models and
-  tests}.
-\newblock In {\em Journal of Electronic Testing: Theory and Applications
-  (JETTA)}, volume~19, pages 195--205. 2003.
+S.~Hamdioui, Z.~Al-Ars, A.~J. {Van De Goor}, and M.~Rodgers, ``{Dynamic faults
+  in random-access-memories: Concept, fault models and tests},'' in {\em
+  Journal of Electronic Testing: Theory and Applications (JETTA)}, vol.~19,
+  pp.~195--205, 2003.
 
 \bibitem{Nelson1990}
-Victor~P Nelson.
-\newblock {Fault-Tolerant Computing: Fundamental Concepts}.
-\newblock {\em Computer}, 23(7):19--25, 1990.
+V.~P. Nelson, ``{Fault-Tolerant Computing: Fundamental Concepts},'' {\em
+  Computer}, vol.~23, no.~7, pp.~19--25, 1990.
+
+\bibitem{Hoare1962}
+{C. A. R. Hoare}, ``{Quicksort},'' {\em The Computer Journal}, vol.~5, no.~1,
+  pp.~10--16, 1962.
+
+\bibitem{Wang2011}
+X.~Wang, ``{Analysis of the time complexity of quick sort algorithm},'' {\em
+  Proceedings - 2011 4th International Conference on Information Management,
+  Innovation Management and Industrial Engineering, ICIII 2011}, vol.~1,
+  pp.~408--410, 2011.
+
+\bibitem{Cormen2009}
+T.~Cormen, C.~Leiserson, R.~Rivest, and C.~Stein, {\em {Introduction to
+  algorithms.}}
+\newblock MIT Press, 2009.
+
+\bibitem{Abhyankar2011}
+D.~Abhyankar and M.~Ingle, ``{A Novel Mergesort},'' vol.~1, no.~3, pp.~17--22,
+  2011.
 
 \end{thebibliography}
