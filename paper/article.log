@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  21 OCT 2019 08:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  21 OCT 2019 11:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -185,6 +185,12 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \c@ALC@depth=\count110
 \ALC@tlm=\skip47
 \algorithmicindent=\skip48
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2019/01/01 v2.4 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count111
+\multirow@dima=\skip50
+\bigstrutjot=\dimen135
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
  (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
@@ -198,8 +204,8 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
-\Gin@req@height=\dimen135
-\Gin@req@width=\dimen136
+\Gin@req@height=\dimen136
+\Gin@req@width=\dimen137
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
 Package textcomp Info: Sub-encoding information:
@@ -373,38 +379,38 @@ Package: setspace 2011/12/19 v6.7a set line spacing
 ) (/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.aux)
 \openout1 = `article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    ... okay on input line 14.
 
 -- Lines per column: 56 (exact).
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen137
+\scratchcounter=\count112
+\scratchdimen=\dimen138
 \scratchbox=\box31
-\nofMPsegments=\count112
-\nofMParguments=\count113
+\nofMPsegments=\count113
+\nofMParguments=\count114
 \everyMPshowfont=\toks21
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen138
-\MPnumerator=\count115
-\makeMPintoPDFobject=\count116
+\MPscratchCnt=\count115
+\MPscratchDim=\dimen139
+\MPnumerator=\count116
+\makeMPintoPDFobject=\count117
 \everyMPtoPDFconversion=\toks22
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -441,60 +447,61 @@ Package grfext Info: Graphics extension search list:
 (grfext)             \AppendGraphicsExtensions on input line 456.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
-))
-LaTeX Font Info:    Try loading font information for U+msa on input line 40.
+)) (./Abstract.tex) (./Introduction.tex) (./MemoryFaults.tex
+LaTeX Font Info:    Try loading font information for U+msa on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 40.
+LaTeX Font Info:    Try loading font information for U+msb on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) (./Abstract.tex) (./Introduction.tex) (./MemoryFaults.tex) (./SortingAlgorithms.tex [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) [2]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 94.
+) [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./SortingAlgorithms.tex) (./StudySettings.tex) [2]
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 93.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 ) [3]
 
-LaTeX Warning: Citation `b7' on page 4 undefined on input line 143.
+LaTeX Warning: Citation `b7' on page 4 undefined on input line 142.
 
+[4]
 
-LaTeX Warning: Reference `fig' on page 4 undefined on input line 179.
+LaTeX Warning: Reference `fig' on page 5 undefined on input line 178.
 
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 210.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 209.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 210.
- [4]
-
-LaTeX Warning: Citation `b1' on page 5 undefined on input line 223.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 209.
 
 
-LaTeX Warning: Citation `b2' on page 5 undefined on input line 224.
+LaTeX Warning: Citation `b1' on page 5 undefined on input line 222.
+
+
+LaTeX Warning: Citation `b2' on page 5 undefined on input line 223.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 224.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 224.
+
+
+LaTeX Warning: Citation `b3' on page 5 undefined on input line 224.
 
 
 LaTeX Warning: Citation `b3' on page 5 undefined on input line 225.
 
 
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 225.
+LaTeX Warning: Citation `b4' on page 5 undefined on input line 233.
 
 
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 225.
+LaTeX Warning: Citation `b5' on page 5 undefined on input line 234.
 
 
-LaTeX Warning: Citation `b3' on page 5 undefined on input line 226.
+LaTeX Warning: Citation `b6' on page 5 undefined on input line 239.
 
-
-LaTeX Warning: Citation `b4' on page 5 undefined on input line 234.
-
-
-LaTeX Warning: Citation `b5' on page 5 undefined on input line 235.
-
-
-LaTeX Warning: Citation `b6' on page 5 undefined on input line 240.
-
-(/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.bbl)
+(/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.bbl [5])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -506,24 +513,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[5] (/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.aux)
+[6] (/Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4517 strings out of 492616
- 66827 string characters out of 6129481
- 134458 words of memory out of 5000000
- 8336 multiletter control sequences out of 15000+600000
- 48710 words of font info for 99 fonts, out of 8000000 for 9000
+ 4545 strings out of 492616
+ 67441 string characters out of 6129481
+ 138034 words of memory out of 5000000
+ 8369 multiletter control sequences out of 15000+600000
+ 42480 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,35p,685b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf (5 pages, 118653 bytes).
+Output written on /Users/leosilva/Documents/Estudo/Doutorado/Coimbra/2019:2020/Disciplinas/ResearchMethods1/Assignment/paper/article.pdf (6 pages, 122654 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 64 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

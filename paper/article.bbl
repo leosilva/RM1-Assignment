@@ -12,6 +12,11 @@ S.~Hamdioui, Z.~Al-Ars, A.~J. {Van De Goor}, and M.~Rodgers, ``{Dynamic faults
   Journal of Electronic Testing: Theory and Applications (JETTA)}, vol.~19,
   pp.~195--205, 2003.
 
+\bibitem{NitinArora}
+NitinArora and S.~Kumar, ``{A Novel Sorting Algorithm and Comparison with
+  Bubble sort and Insertion sort},'' {\em International Journal of Computer
+  Applications}, vol.~45, no.~1, p.~2.
+
 \bibitem{Nelson1990}
 V.~P. Nelson, ``{Fault-Tolerant Computing: Fundamental Concepts},'' {\em
   Computer}, vol.~23, no.~7, pp.~19--25, 1990.
@@ -34,5 +39,9 @@ T.~Cormen, C.~Leiserson, R.~Rivest, and C.~Stein, {\em {Introduction to
 \bibitem{Abhyankar2011}
 D.~Abhyankar and M.~Ingle, ``{A Novel Mergesort},'' vol.~1, no.~3, pp.~17--22,
   2011.
+
+\bibitem{Prajapati2017}
+P.~Prajapati, N.~Bhatt, and N.~Bhatt, ``{Performance Comparison of Different
+  Sorting Algorithms},'' vol.~VI, no.~Vi, pp.~39--41, 2017.
 
 \end{thebibliography}

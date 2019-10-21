@@ -1,12 +1,12 @@
 \section{Sorting Algorithms}
 
-This work uses four sorting algorithms: quicksort, mergesort, insertionsort, and bubblesort. In the following subsections, we'll give an overview of them.
+Sorting algorithms are widely used in many aspects of data processing, information searches, business finance, computer encryption, etc. This work uses four sorting algorithms: quicksort, mergesort, insertionsort, and bubblesort. In the following subsections, we'll give an overview of them.
 
 \subsection{Quicksort}
 
-Sorting algorithms are widely used in many aspects of data processing, information searches, business finance, computer encryption, etc. Quicksort algorithm, created by Hoare \cite{Hoare1962}, is considered as one of the fastest and best sorting algorithms \cite{Wang2011}. The algorithm is based on the paradigm of divide and conquer.
+Quicksort algorithm, created by Hoare \cite{Hoare1962}, is considered as one of the fastest and best sorting algorithms \cite{Wang2011}. The algorithm is based on the paradigm of divide and conquer.
 
-This algorithm has an execution time is $\theta(n^2)$ in the worst case over \textit{n} numbers as input. Despite that execution time, quicksort is often the best option for sorting because of its remarkable average efficiency: $\theta(n lg n)$ \cite{Cormen2009}.
+This algorithm has a execution time of $\theta(n^2)$ in the worst case over \textit{n} numbers as input. Despite that execution time, quicksort is often the best option for sorting because of its remarkable average efficiency: $\theta(n lg n)$ \cite{Cormen2009}.
 
 The basic steps of this algorithm are \cite{Wang2011}:
 \begin{itemize}
@@ -17,7 +17,7 @@ The basic steps of this algorithm are \cite{Wang2011}:
 
 \subsection{Mergesort}
 
-Mergesort was invented by John Von Newman and is one of the most elegant algorithms to appear in the sorting literature. It is the first sorting algorithm to have $\theta(n lg n)$ time complexity bound. It is important to observe that this algorithm spends a lot of time on data transfer operations. In fact, standard Mergesort incurs about 2n data move operations \cite{Abhyankar2011}.
+Mergesort was invented by John Von Newman and is one of the most elegant algorithms to appear in the sorting literature. It is the first sorting algorithm to have $\theta(n lg n)$ execution time bound. It is important to observe that this algorithm spends a lot of time on data transfer operations. In fact, standard Mergesort incurs about 2n data move operations \cite{Abhyankar2011}.
 
 Conceptually, Mergesort works as follows \cite{Abhyankar2011}:
 \begin{itemize}
@@ -28,4 +28,36 @@ Conceptually, Mergesort works as follows \cite{Abhyankar2011}:
 
 \subsection{Insertionsort}
 
+This algorithm sorts the array by shifting the elements one at time. It is efficient in sorting a small number of elements. The overall execution time of this algorithm is $\theta(n^2)$ \cite{Cormen2009}. The basic sorting steps are:
+\begin{itemize}
+    \item If there are more than one element, pick the next element;
+    \item Compare with all the elements in sorted sub-list;
+    \item Shift all the elements in sorted sub-list that is greater than the value to be sorted;
+    \item Insert the value;
+    \item Repeat until list is sorted.
+\end{itemize}
+
 \subsection{Bubblesort}
+
+Bubblesort involves the repeated comparison and, if necessary, the exchange of adjacent elements. With this algorithm, the number of comparisons is always the same because the two for loops repeat the specified number of times whether the list is initially ordered or not \cite{NitinArora}.
+
+Table \ref{table1} below shows the time complexity comparison between the sorting algorithms presented.
+
+\begin{table}[htbp]
+    \caption{Sorting algorithms complexity time comparison \cite{Prajapati2017}}
+    \begin{center}
+    \begin{tabular}{|c|c|c|c|}
+    \hline
+    \multirow{2}{*}{\textbf{Algorithm}}&\multicolumn{3}{|c|}{\textbf{Time Complexity}} \\
+    \cline{2-4} 
+    & \textbf{\textit{Best Case}} & \textbf{\textit{Average Case}}& \textbf{\textit{Worst Case}} \\
+    \hline
+    Bubblesort & $O(n^2)$ & $O(n^2)$ & $O(n^2)$ \\
+    Insertionsort & $O(n)$ & $O(n^2)$ & $O(n^2)$ \\
+    Quicksort & $O(nlgn)$ & $O(nlgn)$ & $O(n^2)$ \\
+    Mergesort & $O(nlgn)$ & $O(nlgn)$ & $O(nlgn)$ \\
+    \hline
+    \end{tabular}
+    \label{table1}
+    \end{center}
+    \end{table}
