@@ -4,9 +4,10 @@ n_sizes = [100, 1000, 10000]
 #n_sizes = [1, 2, 3]
 
 for n in n_sizes:
-    eps = 1.0/n
+    #eps = 1.0/n
+    eps = 0.05
     maxr = n/2
-    arq = "_data-%s.in"%(n)
+    arq = "_data-005-%s.in"%(n)
     f = open(arq,"w")
     f.write(str(eps) + " " + str(n))
     for i in range(n):
