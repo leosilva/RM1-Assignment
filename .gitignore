@@ -2,3 +2,8 @@ data-normal/
 data-001/
 data-002/
 data-005/
+
+# General macOS
+.DS_Store
+.AppleDouble
+.LSOverride
