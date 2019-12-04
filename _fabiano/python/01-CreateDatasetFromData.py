@@ -26,7 +26,7 @@ def calcular_k_unordered_sequence(data):
 
 
 # define as pastas contendo os dados
-pasta_origem = '../data'
+pasta_origem = '../../../../data'
 pastas = os.listdir(pasta_origem)
 
 #abre o arquivo onde serao salvos os dados extraidos
@@ -80,11 +80,10 @@ for pasta_prob_erro in pastas:
                             l4_largest_sorted_subarray = int(lines[3])
 
                             #se for a prob. erro default (1/n) ajusta a descricao no arquivo
-                            if (prob_erro == '1/n'):
-                                prob_erro_csv = '%g' % (1.0/int(n))
-                                # prob_erro_csv = '1/%s'% (n)
-                            else:
-                                prob_erro_csv = prob_erro
+                            prob_erro_csv = prob_erro
+                            # if (prob_erro == '1/n'):
+                            #     prob_erro_csv = '%g' % (1.0/int(n))
+
                             #
                             k_unordered_sequence = calcular_k_unordered_sequence(l2_sorting_with_fault)
                             #
