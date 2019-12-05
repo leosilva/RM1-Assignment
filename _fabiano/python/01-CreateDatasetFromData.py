@@ -36,7 +36,7 @@ if os.path.exists(path_arq_destino):
     os.remove(path_arq_destino)
 
 arq_destino = open(path_arq_destino, 'w+')
-arq_destino.write('%s;%s;%s;%s;%s;%s\n' % ('algoritmo', 'probabilidade_erro', 'size_of_array', 'largest_sorted_subarray', 'k_unordered_sequence', 'percentual_k_unordered') )
+arq_destino.write('%s;%s;%s;%s;%s;%s;%s\n' % ('algoritmo', 'probabilidade_erro', 'size_of_array', 'largest_sorted_subarray', 'k_unordered_sequence', 'percentual_k_unordered', 'percentual_maior_array') )
 
 #
 for pasta_prob_erro in pastas:
@@ -84,11 +84,15 @@ for pasta_prob_erro in pastas:
                             # if (prob_erro == '1/n'):
                             #     prob_erro_csv = '%g' % (1.0/int(n))
 
+
+                            #calcula o percentual do maior array
+                            percentual_maior_array = 100.0 * int(l4_largest_sorted_subarray) / int(n)
+
                             #
                             k_unordered_sequence = calcular_k_unordered_sequence(l2_sorting_with_fault)
                             #
                             percentual_k_unordered = 100.0 * int(k_unordered_sequence) / int(n)
                             #
-                            arq_destino.write( '%s;%s;%s;%s;%s;%.2f\n' % (algoritmo, prob_erro_csv, n, l4_largest_sorted_subarray, k_unordered_sequence, percentual_k_unordered ))
+                            arq_destino.write( '%s;%s;%s;%s;%s;%.2f;%.2f\n' % (algoritmo, prob_erro_csv, n, l4_largest_sorted_subarray, k_unordered_sequence, percentual_k_unordered, percentual_maior_array ))
 
                             # break
