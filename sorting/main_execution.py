@@ -24,8 +24,8 @@ def createDir(path, sorting_alg, data_size):
 alg = [
     #'quick', 
     #'bubble', 
-    'merge', 
-    #'insertion'
+    #'merge', 
+    'insertion'
     ]
 perc_rate = [
     'normal',
