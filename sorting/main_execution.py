@@ -22,18 +22,23 @@ def createDir(path, sorting_alg, data_size):
 
 #print(os.path.dirname(os.path.abspath(__file__)))
 alg = [
-    'quick', 
-    'bubble', 
-    'merge', 
-    'insertion']
+    #'quick', 
+    #'bubble', 
+    #'merge', 
+    'insertion'
+    ]
 perc_rate = [
     'normal',
     #'001',
     #'002',
     #'005'
 ]
-d_size = ['100', '1000', '10000']
-repetitions = '1000'
+d_size = [
+    #'100',
+    '1000',
+    '10000'
+    ]
+repetitions = '3000'
 
 print('Iniciando execucao...')
 for n in alg:
