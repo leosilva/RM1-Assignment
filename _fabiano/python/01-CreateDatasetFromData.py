@@ -81,8 +81,8 @@ for pasta_prob_erro in pastas:
 
                             #se for a prob. erro default (1/n) ajusta a descricao no arquivo
                             prob_erro_csv = prob_erro
-                            # if (prob_erro == '1/n'):
-                            #     prob_erro_csv = '%g' % (1.0/int(n))
+                            if (prob_erro == '1/n'):
+                                prob_erro_csv = '%g' % (1.0/int(n))
 
 
                             #calcula o percentual do maior array
