@@ -23,8 +23,8 @@ def createDir(path, sorting_alg, data_size):
 #print(os.path.dirname(os.path.abspath(__file__)))
 alg = [
     #'quick', 
-    'bubble', 
-    #'merge', 
+    #'bubble', 
+    'merge', 
     #'insertion'
     ]
 perc_rate = [
