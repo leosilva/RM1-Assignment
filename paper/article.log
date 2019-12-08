@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  6 DEC 2019 14:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  8 DEC 2019 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -372,42 +372,81 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/verbatimbox/verbatimbox.sty
+Package: verbatimbox 2014/03/12 v3.13 Routines for placing verbatim text into boxes, useful in places where the verbatim environment is inaccessible. Secondarily, for adding vertical buffer around an object.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks21
+\verbatim@line=\toks22
+\verbatim@in@stream=\read1
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/readarray/readarray.sty
+Package: readarray 2016/11/07\ 2.0\ Routines for inputting 2D and 3D array data and recalling it on an element-by-element basis.
+ (/usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.sty (/usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.tex
+\loi_cnt_foreach_nest=\count112
+\loi_nestcnt=\count113
+)
+Package: listofitems 2019/03/03 v1.61 Grab items in lists using user-specified sep char (CT)
+)
+\c@@index=\count114
+\c@@plane=\count115
+\c@@row=\count116
+\c@@col=\count117
+\c@use@args=\count118
+\c@@record=\count119
+\c@arg@index=\count120
+\c@break@count=\count121
+\c@index@count=\count122
+\c@loop@count=\count123
+\Arg@toks=\toks23
+\@arrayident@toks=\toks24
+\rdar@file=\read2
+
+readarray: bounds checking OFF
+)
+\savedverbbox=\box31
+\c@VerbboxLineNo=\count124
+\boxtopsep=\dimen138
+\boxbottomsep=\dimen139
+\ps@tempdima=\dimen140
+\ps@tempboxa=\box32
+\boxtop@sep=\skip51
+\boxbottom@sep=\skip52
 ) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
 \openout1 = `article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 16.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 16.
 
 -- Lines per column: 50 (exact).
 (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count112
-\scratchdimen=\dimen138
-\scratchbox=\box31
-\nofMPsegments=\count113
-\nofMParguments=\count114
-\everyMPshowfont=\toks21
-\MPscratchCnt=\count115
-\MPscratchDim=\dimen139
-\MPnumerator=\count116
-\makeMPintoPDFobject=\count117
-\everyMPtoPDFconversion=\toks22
+\scratchcounter=\count125
+\scratchdimen=\dimen141
+\scratchbox=\box33
+\nofMPsegments=\count126
+\nofMParguments=\count127
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count128
+\MPscratchDim=\dimen142
+\MPnumerator=\count129
+\makeMPintoPDFobject=\count130
+\everyMPtoPDFconversion=\toks26
 ) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
@@ -452,25 +491,29 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Try loading font information for U+msb on input line 6.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/SortingAlgorithms.tex [2]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MaterialsAndMethods.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Results.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Discussion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex) [3]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 99.
+) [1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/SortingAlgorithms.tex [2]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MaterialsAndMethods.tex
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 44.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) [4]
+)
+Overfull \hbox (2.84935pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
 
-LaTeX Warning: Citation `b7' on page 5 undefined on input line 148.
+) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Results.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Discussion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex) [3] [4] [5]
+
+LaTeX Warning: Citation `b7' on page 6 undefined on input line 150.
 
 
-LaTeX Warning: Reference `fig' on page 5 undefined on input line 184.
+LaTeX Warning: Reference `fig' on page 6 undefined on input line 186.
 
-[5]
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 215.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 217.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <11> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 215.
- (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl)
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 217.
+ [6] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -482,24 +525,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[6] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
+[7] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 4567 strings out of 492616
- 68509 string characters out of 6129481
- 135059 words of memory out of 5000000
- 8377 multiletter control sequences out of 15000+600000
+ 4926 strings out of 492616
+ 73731 string characters out of 6129481
+ 150473 words of memory out of 5000000
+ 8719 multiletter control sequences out of 15000+600000
  44554 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,35p,650b,285s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (6 pages, 122700 bytes).
+Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (7 pages, 128212 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 69 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
