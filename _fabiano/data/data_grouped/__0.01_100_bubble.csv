@@ -1,0 +1,12 @@
+algoritmo;probabilidade_erro;size_of_array;largest_sorted_subarray;k_unordered_sequence;percentual_k_unordered;percentual_maior_array
+bubble;0.01;100;78;2;2.0;78.0
+bubble;0.01;100;61;5;5.0;61.0
+bubble;0.01;100;61;5;5.0;61.0
+bubble;0.01;100;76;3;3.0;76.0
+bubble;0.01;100;61;5;5.0;61.0
+bubble;0.01;100;76;3;3.0;76.0
+bubble;0.01;100;76;3;3.0;76.0
+bubble;0.01;100;72;3;3.0;72.0
+bubble;0.01;100;72;3;3.0;72.0
+bubble;0.01;100;31;4;4.0;31.0
+bubble;0.01;100;68;3;3.0;68.0
