@@ -83,7 +83,6 @@ for prob in probs:
     if (data.shape[0] > 0):
         # print(data.head())
 
-
         graf_title = 'Estatísticas por Algoritmo para Probabilidade de Erro %s' % (prob)
         file_title = 'Estatisticas_por_Algoritmo_Prob_%s' % (prob)
 
