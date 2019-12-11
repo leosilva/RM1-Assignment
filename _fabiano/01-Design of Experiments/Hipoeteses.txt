@@ -1,0 +1,44 @@
+Projeto do Experimento: (Design of Experiments)
+===============================================
+
+1) Conhecer o funcionamento dos algoritmos (trocas, comparações etc)
+
+2) Definir as variáveis:
+     i) Independentes:
+            a) Probabilidade de Erro
+            b) Tamanho do Array
+            c) Algoritmo de ordenação
+
+    ii) Dependentes: (Medidas)
+            a) Maior subarray gerado
+                  a.1) Tamanho
+                  a.2) Percentual em relação ao Tamanho do Array Original
+            b) Quantidade de elementos desornados
+                  b.1) Quantidade
+                  b.2) Percentual em relação ao Tamanho do Array Original
+ 
+3) Criar hipóteses: (conf. estudado no item "1")
+      i) Como cada algoritmo deverá se comportar com as falhas de memórias? 
+     ii) Qual deverá ter um melhor desempenho em relação às variáveis dependentes?
+    iii) Qual deverá ser o pior? etc
+
+4) Definir quais as configurações e os cenários do experimento
+      i) Quais probabilidades utilizadas
+     ii) Quais tamanhos de Array
+    iii) Quantidade de execuções para cada: 
+            - Algoritmo + Probabilidade de Erro + Tamanho do Array
+
+5) Gerar os programas necessários para executar o experimento
+      i) Registrar o que nós implementamos
+
+6) Executar o experimentos para coletar os dados com as medidas (variáveis dependentes)
+      i) Registrar como executamos os programas gerados
+     ii) Registrar como os dados foram gerados e disponibilizados para análise  
+
+7) Realizar a análise dos dados obtidos
+      i) Análise Estatística das variáveis dependentes (medidas):
+            - Distribuição dos dados
+            - Médias e desvios padrões
+     ii) Gerar gráficos e tabelas de apoio
+
+8) Registrar as conclusões obtidas com o experimento, confirmando ou não as hipóteses
