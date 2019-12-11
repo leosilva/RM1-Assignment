@@ -21,6 +21,7 @@ Projeto do Experimento: (Design of Experiments)
       i) Como cada algoritmo deverá se comportar com as falhas de memórias? 
      ii) Qual deverá ter um melhor desempenho em relação às variáveis dependentes?
     iii) Qual deverá ser o pior? etc
+     iv) Pode-se gerar algum modelo de estimativa de falhas?
 
 4) Definir quais as configurações e os cenários do experimento
       i) Quais probabilidades utilizadas
