@@ -41,6 +41,7 @@ sizes = ['100','1000','10000']
 
 df_tudo = pd.DataFrame()
 
+#le os arquivos de entrada
 for prob in probs:
     for size in sizes:
         filtro_arq = '%s_%s_' % (prob, size)
@@ -76,10 +77,11 @@ df_dados_csv = pd.DataFrame()
 for prob in probs:
     data = df_tudo[df_tudo.probabilidade_erro == float(prob)]
 
-    df_means = data.groupby(['size_of_array', 'algoritmo']).mean()
-    df_std = data.groupby(['size_of_array', 'algoritmo']).std()
-    df_min = data.groupby(['size_of_array', 'algoritmo']).min()
-    df_max = data.groupby(['size_of_array', 'algoritmo']).max()
+    group_by = ['probabilidade_erro', 'algoritmo']
+    df_means = data.groupby(group_by).mean()
+    df_std = data.groupby(group_by).std()
+    df_min = data.groupby(group_by).min()
+    df_max = data.groupby(group_by).max()
 
     # colunas_join = ['largest_sorted_subarray','k_unordered_sequence','percentual_k_unordered','percentual_maior_array']
     colunas_join = ['percentual_k_unordered','percentual_maior_array']
@@ -94,38 +96,38 @@ for prob in probs:
     if (data.shape[0] > 0):
         # print(data.head())
 
-        file_title = 'Estatisticas_por_Algoritmo_Prob_%s' % (prob)
+        file_title = 'Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_%s' % (prob)
 
         if (gerar_csvs_com_dados_dos_graficos):
             df_dados_csv.to_csv('graficos/comparacao_entre_algoritmos/csv/%s.csv' % (file_title))
 
         if (gerar_graficos):
-            graf_title = 'Estatísticas por Algoritmo para Probabilidade de Erro %s' % (prob)
+            graf_title = 'Estatísticas por Algoritmo Juntando Todos os Tamanhos - Probabilidade de Erro %s' % (prob)
+
             fig = plt.figure(figsize=[larg_fig, alt_fig])
             plt.suptitle(graf_title + '\nBarplot / Média / Desvio Padrão / Mín. / Máx.', fontsize=30)
             plt.rcParams.update({'font.size': font_size})
 
-
             #grafico de barras para % Desordenados
             ax = plt.subplot(rows, cols, indx)
-            graf.gerarBarplot(ax=ax, x='size_of_array',
+            graf.gerarBarplot(ax=ax, x='probabilidade_erro',
                               y='percentual_k_unordered',
                               hue='algoritmo',
                               data=data,
                               title='% Desordenados',
-                              palette=color_map)
-            graf.inserirValoresNoBarplot(ax)
+                                  palette=color_map)
+            graf.inserirValoresNasBarras(ax, df_means['percentual_k_unordered'] )
             indx += 1
 
             #grafico de barras para % Maior Array
             ax = plt.subplot(rows, cols, indx)
-            graf.gerarBarplot(ax=ax, x='size_of_array',
+            graf.gerarBarplot(ax=ax, x='probabilidade_erro',
                               y='percentual_maior_array',
                               hue='algoritmo',
                               data=data,
                               title='% Maior Array',
                               palette=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_means['percentual_maior_array'].values)
             indx += 1
 
             # grafico de barras para a média das % Desordenados
@@ -133,7 +135,7 @@ for prob in probs:
             plt.ylabel('Média - percentual_k_unordered')
             data_graf = df_means['percentual_k_unordered'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_means['percentual_k_unordered'].values)
             indx += 1
 
             # grafico de barras para a média das % Maior Array
@@ -141,7 +143,7 @@ for prob in probs:
             plt.ylabel('Média - percentual_maior_array')
             data_graf = df_means['percentual_maior_array'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_means['percentual_maior_array'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Desordenados
@@ -149,7 +151,7 @@ for prob in probs:
             plt.ylabel('Desvio P. - percentual_k_unordered')
             data_graf = df_std['percentual_k_unordered'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_std['percentual_k_unordered'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Maior Array
@@ -157,7 +159,7 @@ for prob in probs:
             plt.ylabel('Desvio P. - percentual_maior_array')
             data_graf = df_std['percentual_maior_array'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_std['percentual_maior_array'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Desordenados
@@ -165,7 +167,7 @@ for prob in probs:
             plt.ylabel('Mín. - percentual_k_unordered')
             data_graf = df_min['percentual_k_unordered'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_min['percentual_k_unordered'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Maior Array
@@ -173,7 +175,7 @@ for prob in probs:
             plt.ylabel('Mín. - percentual_maior_array')
             data_graf = df_min['percentual_maior_array'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_min['percentual_maior_array'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Desordenados
@@ -181,7 +183,7 @@ for prob in probs:
             plt.ylabel('Máx. - percentual_k_unordered')
             data_graf = df_max['percentual_k_unordered'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_max['percentual_k_unordered'].values)
             indx += 1
 
             # grafico de barras para a std_dev das % Maior Array
@@ -189,10 +191,8 @@ for prob in probs:
             plt.ylabel('Máx. - percentual_maior_array')
             data_graf = df_max['percentual_maior_array'].unstack()
             data_graf.plot(kind='bar', ax=ax, color=color_map)
-            graf.inserirValoresNoBarplot(ax)
+            graf.inserirValoresNasBarras(ax, df_max['percentual_maior_array'].values)
             indx += 1
 
             #salva o gráfico
             plt.savefig('graficos/comparacao_entre_algoritmos/%s.png' % (file_title), bbox_inches='tight', pad_inches=2)  # , format='png', orientation='landscape', papertype='letter')
-
-

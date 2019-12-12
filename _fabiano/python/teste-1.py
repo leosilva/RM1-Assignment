@@ -39,13 +39,22 @@ df_tudo.sort_values(by=['size_of_array','algoritmo'], inplace=True, ascending=[T
 
 # print(df_tudo.head())
 
-df_means = df_tudo.groupby(['size_of_array','algoritmo']).mean()
+df_means = df_tudo.groupby('algoritmo').mean()
 print(df_means.head())
 
-data = df_means['percentual_k_unordered'].unstack()
+data = df_means['percentual_k_unordered']
 print(data)
 
-data.plot(kind='bar')
+# plt.figure(figsize=(12, 8))
+ax = data.plot(kind='bar')
+
+rects = ax.patches
+# Make some labels.
+labels = ["%.2f" % i for i in data.values]
+ax.set_xticklabels(labels)
+for rect, label in zip(rects, labels):
+    height = rect.get_height()
+    ax.text(rect.get_x() + rect.get_width() / 2.0, 0.5, label, ha='center', va='bottom')
 plt.show()
 
 
