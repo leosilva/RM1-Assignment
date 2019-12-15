@@ -1,0 +1,2912 @@
+=============================================================================
+Coeficiente de Confiança = 0.99
+=============================================================================
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.1117 ≤ µ ≤ 67.8463  media=66.4790   h=1.3673    std_error=0.5308    std_dev=16.7774
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = merge
+54.4769 ≤ µ ≤ 57.3631  media=55.9200   h=1.4431    std_error=0.5602    std_dev=17.7068
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = quick
+37.3794 ≤ µ ≤ 39.4726  media=38.4260   h=1.0466    std_error=0.4063    std_dev=12.8434
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6227 ≤ µ ≤ 20.2393  media=19.9310   h=0.3083    std_error=0.1197    std_dev=3.7847
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = bubble
+249.4667 ≤ µ ≤ 261.9413  media=255.7040   h=6.2373    std_error=2.4213    std_dev=76.5302
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = merge
+58.1199 ≤ µ ≤ 59.3321  media=58.7260   h=0.6061    std_error=0.2353    std_dev=7.4369
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = quick
+64.4811 ≤ µ ≤ 66.5909  media=65.5360   h=1.0549    std_error=0.4095    std_dev=12.9424
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = insertion
+26.3291 ≤ µ ≤ 27.0349  media=26.6820   h=0.3529    std_error=0.1370    std_dev=4.3307
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = bubble
+566.3767 ≤ µ ≤ 596.3953  media=581.3860   h=15.0093    std_error=5.8266    std_dev=184.1617
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = merge
+70.0290 ≤ µ ≤ 72.0810  media=71.0550   h=1.0260    std_error=0.3983    std_dev=12.5875
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = quick
+92.5659 ≤ µ ≤ 95.2021  media=93.8840   h=1.3181    std_error=0.5117    std_dev=16.1731
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = insertion
+35.3089 ≤ µ ≤ 35.9771  media=35.6430   h=0.3341    std_error=0.1297    std_dev=4.0985
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = bubble
+62.7163 ≤ µ ≤ 65.6977  media=64.2070   h=1.4907    std_error=0.5787    std_dev=18.2924
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = merge
+27.4048 ≤ µ ≤ 29.3512  media=28.3780   h=0.9732    std_error=0.3778    std_dev=11.9417
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = quick
+25.0154 ≤ µ ≤ 26.1546  media=25.5850   h=0.5696    std_error=0.2211    std_dev=6.9888
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.8955 ≤ µ ≤ 17.4545  media=17.1750   h=0.2795    std_error=0.1085    std_dev=3.4305
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = bubble
+171.8717 ≤ µ ≤ 181.7923  media=176.8320   h=4.9603    std_error=1.9256    std_dev=60.8622
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = merge
+34.9473 ≤ µ ≤ 36.3307  media=35.6390   h=0.6917    std_error=0.2685    std_dev=8.4874
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = quick
+39.7061 ≤ µ ≤ 40.4099  media=40.0580   h=0.3519    std_error=0.1366    std_dev=4.3179
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = insertion
+19.7548 ≤ µ ≤ 20.3592  media=20.0570   h=0.3022    std_error=0.1173    std_dev=3.7067
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = bubble
+351.6130 ≤ µ ≤ 369.4610  media=360.5370   h=8.9240    std_error=3.4643    std_dev=109.4964
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = merge
+40.0616 ≤ µ ≤ 41.3584  media=40.7100   h=0.6484    std_error=0.2517    std_dev=7.9560
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = quick
+55.6210 ≤ µ ≤ 56.8390  media=56.2300   h=0.6090    std_error=0.2364    std_dev=7.4731
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = insertion
+25.8598 ≤ µ ≤ 26.3302  media=26.0950   h=0.2352    std_error=0.0913    std_dev=2.8872
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.4235 ≤ µ ≤ 29.8485  media=29.1360   h=0.7125    std_error=0.2766    std_dev=8.7427
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = merge
+15.7739 ≤ µ ≤ 16.5081  media=16.1410   h=0.3671    std_error=0.1425    std_dev=4.5035
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = quick
+14.7216 ≤ µ ≤ 15.4404  media=15.0810   h=0.3594    std_error=0.1395    std_dev=4.4078
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.0663 ≤ µ ≤ 11.5177  media=11.2920   h=0.2257    std_error=0.0876    std_dev=2.7703
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = bubble
+92.2216 ≤ µ ≤ 97.0284  media=94.6250   h=2.4034    std_error=0.9330    std_dev=29.4902
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = merge
+17.6231 ≤ µ ≤ 18.0409  media=17.8320   h=0.2089    std_error=0.0811    std_dev=2.5624
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = quick
+23.1549 ≤ µ ≤ 23.8031  media=23.4790   h=0.3241    std_error=0.1258    std_dev=3.9759
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = insertion
+13.6433 ≤ µ ≤ 13.9807  media=13.8120   h=0.1687    std_error=0.0655    std_dev=2.0714
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = bubble
+157.6404 ≤ µ ≤ 163.9336  media=160.7870   h=3.1466    std_error=1.2215    std_dev=38.6072
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = merge
+19.0686 ≤ µ ≤ 19.5894  media=19.3290   h=0.2604    std_error=0.1011    std_dev=3.1945
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = quick
+29.5614 ≤ µ ≤ 30.1806  media=29.8710   h=0.3096    std_error=0.1202    std_dev=3.8006
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = insertion
+17.8059 ≤ µ ≤ 18.0841  media=17.9450   h=0.1391    std_error=0.0540    std_dev=1.7070
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = bubble
+631.2286 ≤ µ ≤ 646.6248  media=638.9267   h=7.6981    std_error=2.9884    std_dev=163.6560
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = merge
+307.2673 ≤ µ ≤ 317.3281  media=312.2977   h=5.0304    std_error=1.9528    std_dev=106.9428
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = quick
+275.0357 ≤ µ ≤ 283.5689  media=279.3023   h=4.2666    std_error=1.6563    std_dev=90.7065
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = insertion
+72.5021 ≤ µ ≤ 73.7385  media=73.1203   h=0.6182    std_error=0.2400    std_dev=13.1416
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+8201.7588 ≤ µ ≤ 8351.2452  media=8276.5020   h=74.7432    std_error=29.0152    std_dev=1588.9657
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = merge
+2632.4115 ≤ µ ≤ 2725.3619  media=2678.8867   h=46.4752    std_error=18.0416    std_dev=988.0153
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = quick
+2219.5047 ≤ µ ≤ 2293.3107  media=2256.4077   h=36.9030    std_error=14.3257    std_dev=784.5183
+
+largest_sorted_subarray
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+254.6629 ≤ µ ≤ 258.9025  media=256.7827   h=2.1198    std_error=0.8229    std_dev=45.0659
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.98
+=============================================================================
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.2444 ≤ µ ≤ 67.7136  media=66.4790   h=1.2346    std_error=0.5308    std_dev=16.7774
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = merge
+54.6170 ≤ µ ≤ 57.2230  media=55.9200   h=1.3030    std_error=0.5602    std_dev=17.7068
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = quick
+37.4809 ≤ µ ≤ 39.3711  media=38.4260   h=0.9451    std_error=0.4063    std_dev=12.8434
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6526 ≤ µ ≤ 20.2094  media=19.9310   h=0.2784    std_error=0.1197    std_dev=3.7847
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = bubble
+250.0721 ≤ µ ≤ 261.3359  media=255.7040   h=5.6319    std_error=2.4213    std_dev=76.5302
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = merge
+58.1787 ≤ µ ≤ 59.2733  media=58.7260   h=0.5473    std_error=0.2353    std_dev=7.4369
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = quick
+64.5835 ≤ µ ≤ 66.4885  media=65.5360   h=0.9525    std_error=0.4095    std_dev=12.9424
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = insertion
+26.3633 ≤ µ ≤ 27.0007  media=26.6820   h=0.3187    std_error=0.1370    std_dev=4.3307
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = bubble
+567.8333 ≤ µ ≤ 594.9387  media=581.3860   h=13.5527    std_error=5.8266    std_dev=184.1617
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = merge
+70.1286 ≤ µ ≤ 71.9814  media=71.0550   h=0.9264    std_error=0.3983    std_dev=12.5875
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = quick
+92.6938 ≤ µ ≤ 95.0742  media=93.8840   h=1.1902    std_error=0.5117    std_dev=16.1731
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = insertion
+35.3413 ≤ µ ≤ 35.9447  media=35.6430   h=0.3017    std_error=0.1297    std_dev=4.0985
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = bubble
+62.8609 ≤ µ ≤ 65.5531  media=64.2070   h=1.3461    std_error=0.5787    std_dev=18.2924
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = merge
+27.4992 ≤ µ ≤ 29.2568  media=28.3780   h=0.8788    std_error=0.3778    std_dev=11.9417
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = quick
+25.0707 ≤ µ ≤ 26.0993  media=25.5850   h=0.5143    std_error=0.2211    std_dev=6.9888
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9226 ≤ µ ≤ 17.4274  media=17.1750   h=0.2524    std_error=0.1085    std_dev=3.4305
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = bubble
+172.3531 ≤ µ ≤ 181.3109  media=176.8320   h=4.4789    std_error=1.9256    std_dev=60.8622
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = merge
+35.0145 ≤ µ ≤ 36.2635  media=35.6390   h=0.6245    std_error=0.2685    std_dev=8.4874
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = quick
+39.7403 ≤ µ ≤ 40.3757  media=40.0580   h=0.3177    std_error=0.1366    std_dev=4.3179
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = insertion
+19.7842 ≤ µ ≤ 20.3298  media=20.0570   h=0.2728    std_error=0.1173    std_dev=3.7067
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = bubble
+352.4790 ≤ µ ≤ 368.5950  media=360.5370   h=8.0580    std_error=3.4643    std_dev=109.4964
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = merge
+40.1245 ≤ µ ≤ 41.2955  media=40.7100   h=0.5855    std_error=0.2517    std_dev=7.9560
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = quick
+55.6801 ≤ µ ≤ 56.7799  media=56.2300   h=0.5499    std_error=0.2364    std_dev=7.4731
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = insertion
+25.8826 ≤ µ ≤ 26.3074  media=26.0950   h=0.2124    std_error=0.0913    std_dev=2.8872
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.4926 ≤ µ ≤ 29.7794  media=29.1360   h=0.6434    std_error=0.2766    std_dev=8.7427
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = merge
+15.8095 ≤ µ ≤ 16.4725  media=16.1410   h=0.3315    std_error=0.1425    std_dev=4.5035
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = quick
+14.7565 ≤ µ ≤ 15.4055  media=15.0810   h=0.3245    std_error=0.1395    std_dev=4.4078
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.0882 ≤ µ ≤ 11.4958  media=11.2920   h=0.2038    std_error=0.0876    std_dev=2.7703
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = bubble
+92.4548 ≤ µ ≤ 96.7952  media=94.6250   h=2.1702    std_error=0.9330    std_dev=29.4902
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = merge
+17.6434 ≤ µ ≤ 18.0206  media=17.8320   h=0.1886    std_error=0.0811    std_dev=2.5624
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = quick
+23.1864 ≤ µ ≤ 23.7716  media=23.4790   h=0.2926    std_error=0.1258    std_dev=3.9759
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = insertion
+13.6596 ≤ µ ≤ 13.9644  media=13.8120   h=0.1524    std_error=0.0655    std_dev=2.0714
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = bubble
+157.9458 ≤ µ ≤ 163.6282  media=160.7870   h=2.8412    std_error=1.2215    std_dev=38.6072
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = merge
+19.0938 ≤ µ ≤ 19.5642  media=19.3290   h=0.2352    std_error=0.1011    std_dev=3.1945
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = quick
+29.5914 ≤ µ ≤ 30.1506  media=29.8710   h=0.2796    std_error=0.1202    std_dev=3.8006
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = insertion
+17.8194 ≤ µ ≤ 18.0706  media=17.9450   h=0.1256    std_error=0.0540    std_dev=1.7070
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = bubble
+631.9757 ≤ µ ≤ 645.8777  media=638.9267   h=6.9510    std_error=2.9884    std_dev=163.6560
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = merge
+307.7555 ≤ µ ≤ 316.8399  media=312.2977   h=4.5422    std_error=1.9528    std_dev=106.9428
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = quick
+275.4497 ≤ µ ≤ 283.1549  media=279.3023   h=3.8526    std_error=1.6563    std_dev=90.7065
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = insertion
+72.5621 ≤ µ ≤ 73.6785  media=73.1203   h=0.5582    std_error=0.2400    std_dev=13.1416
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+8209.0126 ≤ µ ≤ 8343.9914  media=8276.5020   h=67.4894    std_error=29.0152    std_dev=1588.9657
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = merge
+2636.9219 ≤ µ ≤ 2720.8515  media=2678.8867   h=41.9648    std_error=18.0416    std_dev=988.0153
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = quick
+2223.0861 ≤ µ ≤ 2289.7293  media=2256.4077   h=33.3216    std_error=14.3257    std_dev=784.5183
+
+largest_sorted_subarray
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+254.8686 ≤ µ ≤ 258.6968  media=256.7827   h=1.9141    std_error=0.8229    std_dev=45.0659
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.95
+=============================================================================
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.4386 ≤ µ ≤ 67.5194  media=66.4790   h=1.0404    std_error=0.5308    std_dev=16.7774
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = merge
+54.8220 ≤ µ ≤ 57.0180  media=55.9200   h=1.0980    std_error=0.5602    std_dev=17.7068
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = quick
+37.6297 ≤ µ ≤ 39.2223  media=38.4260   h=0.7963    std_error=0.4063    std_dev=12.8434
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6964 ≤ µ ≤ 20.1656  media=19.9310   h=0.2346    std_error=0.1197    std_dev=3.7847
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = bubble
+250.9583 ≤ µ ≤ 260.4497  media=255.7040   h=4.7457    std_error=2.4213    std_dev=76.5302
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = merge
+58.2648 ≤ µ ≤ 59.1872  media=58.7260   h=0.4612    std_error=0.2353    std_dev=7.4369
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = quick
+64.7334 ≤ µ ≤ 66.3386  media=65.5360   h=0.8026    std_error=0.4095    std_dev=12.9424
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = insertion
+26.4135 ≤ µ ≤ 26.9505  media=26.6820   h=0.2685    std_error=0.1370    std_dev=4.3307
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = bubble
+569.9659 ≤ µ ≤ 592.8061  media=581.3860   h=11.4201    std_error=5.8266    std_dev=184.1617
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = merge
+70.2743 ≤ µ ≤ 71.8357  media=71.0550   h=0.7807    std_error=0.3983    std_dev=12.5875
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = quick
+92.8811 ≤ µ ≤ 94.8869  media=93.8840   h=1.0029    std_error=0.5117    std_dev=16.1731
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = insertion
+35.3888 ≤ µ ≤ 35.8972  media=35.6430   h=0.2542    std_error=0.1297    std_dev=4.0985
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = bubble
+63.0727 ≤ µ ≤ 65.3413  media=64.2070   h=1.1343    std_error=0.5787    std_dev=18.2924
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = merge
+27.6375 ≤ µ ≤ 29.1185  media=28.3780   h=0.7405    std_error=0.3778    std_dev=11.9417
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = quick
+25.1516 ≤ µ ≤ 26.0184  media=25.5850   h=0.4334    std_error=0.2211    std_dev=6.9888
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9623 ≤ µ ≤ 17.3877  media=17.1750   h=0.2127    std_error=0.1085    std_dev=3.4305
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = bubble
+173.0578 ≤ µ ≤ 180.6062  media=176.8320   h=3.7742    std_error=1.9256    std_dev=60.8622
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = merge
+35.1127 ≤ µ ≤ 36.1653  media=35.6390   h=0.5263    std_error=0.2685    std_dev=8.4874
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = quick
+39.7903 ≤ µ ≤ 40.3257  media=40.0580   h=0.2677    std_error=0.1366    std_dev=4.3179
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = insertion
+19.8271 ≤ µ ≤ 20.2869  media=20.0570   h=0.2299    std_error=0.1173    std_dev=3.7067
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = bubble
+353.7470 ≤ µ ≤ 367.3270  media=360.5370   h=6.7900    std_error=3.4643    std_dev=109.4964
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = merge
+40.2167 ≤ µ ≤ 41.2033  media=40.7100   h=0.4933    std_error=0.2517    std_dev=7.9560
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = quick
+55.7667 ≤ µ ≤ 56.6933  media=56.2300   h=0.4633    std_error=0.2364    std_dev=7.4731
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = insertion
+25.9161 ≤ µ ≤ 26.2739  media=26.0950   h=0.1789    std_error=0.0913    std_dev=2.8872
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.5939 ≤ µ ≤ 29.6781  media=29.1360   h=0.5421    std_error=0.2766    std_dev=8.7427
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = merge
+15.8617 ≤ µ ≤ 16.4203  media=16.1410   h=0.2793    std_error=0.1425    std_dev=4.5035
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = quick
+14.8076 ≤ µ ≤ 15.3544  media=15.0810   h=0.2734    std_error=0.1395    std_dev=4.4078
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.1203 ≤ µ ≤ 11.4637  media=11.2920   h=0.1717    std_error=0.0876    std_dev=2.7703
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = bubble
+92.7963 ≤ µ ≤ 96.4537  media=94.6250   h=1.8287    std_error=0.9330    std_dev=29.4902
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = merge
+17.6730 ≤ µ ≤ 17.9910  media=17.8320   h=0.1590    std_error=0.0811    std_dev=2.5624
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = quick
+23.2324 ≤ µ ≤ 23.7256  media=23.4790   h=0.2466    std_error=0.1258    std_dev=3.9759
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = insertion
+13.6836 ≤ µ ≤ 13.9404  media=13.8120   h=0.1284    std_error=0.0655    std_dev=2.0714
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = bubble
+158.3929 ≤ µ ≤ 163.1811  media=160.7870   h=2.3941    std_error=1.2215    std_dev=38.6072
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = merge
+19.1308 ≤ µ ≤ 19.5272  media=19.3290   h=0.1982    std_error=0.1011    std_dev=3.1945
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = quick
+29.6354 ≤ µ ≤ 30.1066  media=29.8710   h=0.2356    std_error=0.1202    std_dev=3.8006
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = insertion
+17.8392 ≤ µ ≤ 18.0508  media=17.9450   h=0.1058    std_error=0.0540    std_dev=1.7070
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = bubble
+633.0694 ≤ µ ≤ 644.7840  media=638.9267   h=5.8573    std_error=2.9884    std_dev=163.6560
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = merge
+308.4702 ≤ µ ≤ 316.1252  media=312.2977   h=3.8275    std_error=1.9528    std_dev=106.9428
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = quick
+276.0560 ≤ µ ≤ 282.5486  media=279.3023   h=3.2463    std_error=1.6563    std_dev=90.7065
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = insertion
+72.6499 ≤ µ ≤ 73.5907  media=73.1203   h=0.4704    std_error=0.2400    std_dev=13.1416
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+8219.6322 ≤ µ ≤ 8333.3718  media=8276.5020   h=56.8698    std_error=29.0152    std_dev=1588.9657
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = merge
+2643.5252 ≤ µ ≤ 2714.2482  media=2678.8867   h=35.3615    std_error=18.0416    std_dev=988.0153
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = quick
+2228.3293 ≤ µ ≤ 2284.4861  media=2256.4077   h=28.0784    std_error=14.3257    std_dev=784.5183
+
+largest_sorted_subarray
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+255.1698 ≤ µ ≤ 258.3956  media=256.7827   h=1.6129    std_error=0.8229    std_dev=45.0659
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.9
+=============================================================================
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.6058 ≤ µ ≤ 67.3522  media=66.4790   h=0.8732    std_error=0.5308    std_dev=16.7774
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = merge
+54.9985 ≤ µ ≤ 56.8415  media=55.9200   h=0.9215    std_error=0.5602    std_dev=17.7068
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = quick
+37.7576 ≤ µ ≤ 39.0944  media=38.4260   h=0.6684    std_error=0.4063    std_dev=12.8434
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.7341 ≤ µ ≤ 20.1279  media=19.9310   h=0.1969    std_error=0.1197    std_dev=3.7847
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = bubble
+251.7210 ≤ µ ≤ 259.6870  media=255.7040   h=3.9830    std_error=2.4213    std_dev=76.5302
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = merge
+58.3389 ≤ µ ≤ 59.1131  media=58.7260   h=0.3871    std_error=0.2353    std_dev=7.4369
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = quick
+64.8624 ≤ µ ≤ 66.2096  media=65.5360   h=0.6736    std_error=0.4095    std_dev=12.9424
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = insertion
+26.4566 ≤ µ ≤ 26.9074  media=26.6820   h=0.2254    std_error=0.1370    std_dev=4.3307
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = bubble
+571.8012 ≤ µ ≤ 590.9708  media=581.3860   h=9.5848    std_error=5.8266    std_dev=184.1617
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = merge
+70.3998 ≤ µ ≤ 71.7102  media=71.0550   h=0.6552    std_error=0.3983    std_dev=12.5875
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = quick
+93.0423 ≤ µ ≤ 94.7257  media=93.8840   h=0.8417    std_error=0.5117    std_dev=16.1731
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = insertion
+35.4296 ≤ µ ≤ 35.8564  media=35.6430   h=0.2134    std_error=0.1297    std_dev=4.0985
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = bubble
+63.2550 ≤ µ ≤ 65.1590  media=64.2070   h=0.9520    std_error=0.5787    std_dev=18.2924
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = merge
+27.7565 ≤ µ ≤ 28.9995  media=28.3780   h=0.6215    std_error=0.3778    std_dev=11.9417
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = quick
+25.2213 ≤ µ ≤ 25.9487  media=25.5850   h=0.3637    std_error=0.2211    std_dev=6.9888
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9965 ≤ µ ≤ 17.3535  media=17.1750   h=0.1785    std_error=0.1085    std_dev=3.4305
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = bubble
+173.6644 ≤ µ ≤ 179.9996  media=176.8320   h=3.1676    std_error=1.9256    std_dev=60.8622
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = merge
+35.1973 ≤ µ ≤ 36.0807  media=35.6390   h=0.4417    std_error=0.2685    std_dev=8.4874
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = quick
+39.8333 ≤ µ ≤ 40.2827  media=40.0580   h=0.2247    std_error=0.1366    std_dev=4.3179
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = insertion
+19.8640 ≤ µ ≤ 20.2500  media=20.0570   h=0.1930    std_error=0.1173    std_dev=3.7067
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = bubble
+354.8382 ≤ µ ≤ 366.2358  media=360.5370   h=5.6988    std_error=3.4643    std_dev=109.4964
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = merge
+40.2960 ≤ µ ≤ 41.1240  media=40.7100   h=0.4140    std_error=0.2517    std_dev=7.9560
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = quick
+55.8411 ≤ µ ≤ 56.6189  media=56.2300   h=0.3889    std_error=0.2364    std_dev=7.4731
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = insertion
+25.9448 ≤ µ ≤ 26.2452  media=26.0950   h=0.1502    std_error=0.0913    std_dev=2.8872
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.6810 ≤ µ ≤ 29.5910  media=29.1360   h=0.4550    std_error=0.2766    std_dev=8.7427
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = merge
+15.9066 ≤ µ ≤ 16.3754  media=16.1410   h=0.2344    std_error=0.1425    std_dev=4.5035
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = quick
+14.8515 ≤ µ ≤ 15.3105  media=15.0810   h=0.2295    std_error=0.1395    std_dev=4.4078
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.1479 ≤ µ ≤ 11.4361  media=11.2920   h=0.1441    std_error=0.0876    std_dev=2.7703
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = bubble
+93.0902 ≤ µ ≤ 96.1598  media=94.6250   h=1.5348    std_error=0.9330    std_dev=29.4902
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = merge
+17.6986 ≤ µ ≤ 17.9654  media=17.8320   h=0.1334    std_error=0.0811    std_dev=2.5624
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = quick
+23.2721 ≤ µ ≤ 23.6859  media=23.4790   h=0.2069    std_error=0.1258    std_dev=3.9759
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = insertion
+13.7043 ≤ µ ≤ 13.9197  media=13.8120   h=0.1077    std_error=0.0655    std_dev=2.0714
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = bubble
+158.7776 ≤ µ ≤ 162.7964  media=160.7870   h=2.0094    std_error=1.2215    std_dev=38.6072
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = merge
+19.1627 ≤ µ ≤ 19.4953  media=19.3290   h=0.1663    std_error=0.1011    std_dev=3.1945
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = quick
+29.6733 ≤ µ ≤ 30.0687  media=29.8710   h=0.1977    std_error=0.1202    std_dev=3.8006
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = insertion
+17.8562 ≤ µ ≤ 18.0338  media=17.9450   h=0.0888    std_error=0.0540    std_dev=1.7070
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = bubble
+634.0108 ≤ µ ≤ 643.8426  media=638.9267   h=4.9159    std_error=2.9884    std_dev=163.6560
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = merge
+309.0853 ≤ µ ≤ 315.5101  media=312.2977   h=3.2124    std_error=1.9528    std_dev=106.9428
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = quick
+276.5777 ≤ µ ≤ 282.0269  media=279.3023   h=2.7246    std_error=1.6563    std_dev=90.7065
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = insertion
+72.7255 ≤ µ ≤ 73.5151  media=73.1203   h=0.3948    std_error=0.2400    std_dev=13.1416
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+8228.7720 ≤ µ ≤ 8324.2320  media=8276.5020   h=47.7300    std_error=29.0152    std_dev=1588.9657
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = merge
+2649.2083 ≤ µ ≤ 2708.5651  media=2678.8867   h=29.6784    std_error=18.0416    std_dev=988.0153
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = quick
+2232.8419 ≤ µ ≤ 2279.9735  media=2256.4077   h=23.5658    std_error=14.3257    std_dev=784.5183
+
+largest_sorted_subarray
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+255.4290 ≤ µ ≤ 258.1364  media=256.7827   h=1.3537    std_error=0.8229    std_dev=45.0659
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.99
+=============================================================================
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.1117 ≤ µ ≤ 67.8463  media=66.4790   h=1.3673    std_error=0.5308    std_dev=16.7774
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = merge
+54.4769 ≤ µ ≤ 57.3631  media=55.9200   h=1.4431    std_error=0.5602    std_dev=17.7068
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = quick
+37.3794 ≤ µ ≤ 39.4726  media=38.4260   h=1.0466    std_error=0.4063    std_dev=12.8434
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6227 ≤ µ ≤ 20.2393  media=19.9310   h=0.3083    std_error=0.1197    std_dev=3.7847
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = bubble
+24.9468 ≤ µ ≤ 26.1940  media=25.5704   h=0.6236    std_error=0.2421    std_dev=7.6530
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = merge
+5.8121 ≤ µ ≤ 5.9331  media=5.8726   h=0.0605    std_error=0.0235    std_dev=0.7437
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.4482 ≤ µ ≤ 6.6590  media=6.5536   h=0.1054    std_error=0.0409    std_dev=1.2942
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = insertion
+2.6329 ≤ µ ≤ 2.7035  media=2.6682   h=0.0353    std_error=0.0137    std_dev=0.4331
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = bubble
+5.6637 ≤ µ ≤ 5.9641  media=5.8139   h=0.1502    std_error=0.0583    std_dev=1.8416
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = merge
+0.7002 ≤ µ ≤ 0.7208  media=0.7105   h=0.0103    std_error=0.0040    std_dev=0.1259
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = quick
+0.9257 ≤ µ ≤ 0.9519  media=0.9388   h=0.0131    std_error=0.0051    std_dev=0.1617
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = insertion
+0.3531 ≤ µ ≤ 0.3597  media=0.3564   h=0.0033    std_error=0.0013    std_dev=0.0410
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = bubble
+62.7163 ≤ µ ≤ 65.6977  media=64.2070   h=1.4907    std_error=0.5787    std_dev=18.2924
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = merge
+27.4048 ≤ µ ≤ 29.3512  media=28.3780   h=0.9732    std_error=0.3778    std_dev=11.9417
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = quick
+25.0154 ≤ µ ≤ 26.1546  media=25.5850   h=0.5696    std_error=0.2211    std_dev=6.9888
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.8955 ≤ µ ≤ 17.4545  media=17.1750   h=0.2795    std_error=0.1085    std_dev=3.4305
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = bubble
+17.1871 ≤ µ ≤ 18.1793  media=17.6832   h=0.4961    std_error=0.1926    std_dev=6.0862
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = merge
+3.4946 ≤ µ ≤ 3.6332  media=3.5639   h=0.0693    std_error=0.0269    std_dev=0.8487
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = quick
+3.9705 ≤ µ ≤ 4.0411  media=4.0058   h=0.0353    std_error=0.0137    std_dev=0.4318
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = insertion
+1.9756 ≤ µ ≤ 2.0358  media=2.0057   h=0.0301    std_error=0.0117    std_dev=0.3707
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = bubble
+3.5163 ≤ µ ≤ 3.6945  media=3.6054   h=0.0891    std_error=0.0346    std_dev=1.0950
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = merge
+0.4007 ≤ µ ≤ 0.4135  media=0.4071   h=0.0064    std_error=0.0025    std_dev=0.0796
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = quick
+0.5561 ≤ µ ≤ 0.5685  media=0.5623   h=0.0062    std_error=0.0024    std_dev=0.0747
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = insertion
+0.2587 ≤ µ ≤ 0.2633  media=0.2610   h=0.0023    std_error=0.0009    std_dev=0.0289
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.4235 ≤ µ ≤ 29.8485  media=29.1360   h=0.7125    std_error=0.2766    std_dev=8.7427
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = merge
+15.7739 ≤ µ ≤ 16.5081  media=16.1410   h=0.3671    std_error=0.1425    std_dev=4.5035
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = quick
+14.7216 ≤ µ ≤ 15.4404  media=15.0810   h=0.3594    std_error=0.1395    std_dev=4.4078
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.0663 ≤ µ ≤ 11.5177  media=11.2920   h=0.2257    std_error=0.0876    std_dev=2.7703
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = bubble
+9.2222 ≤ µ ≤ 9.7028  media=9.4625   h=0.2403    std_error=0.0933    std_dev=2.9490
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = merge
+1.7623 ≤ µ ≤ 1.8041  media=1.7832   h=0.0209    std_error=0.0081    std_dev=0.2562
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = quick
+2.3154 ≤ µ ≤ 2.3804  media=2.3479   h=0.0325    std_error=0.0126    std_dev=0.3976
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = insertion
+1.3642 ≤ µ ≤ 1.3982  media=1.3812   h=0.0170    std_error=0.0066    std_dev=0.2071
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1.5765 ≤ µ ≤ 1.6393  media=1.6079   h=0.0314    std_error=0.0122    std_dev=0.3861
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = merge
+0.1907 ≤ µ ≤ 0.1959  media=0.1933   h=0.0026    std_error=0.0010    std_dev=0.0319
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = quick
+0.2956 ≤ µ ≤ 0.3018  media=0.2987   h=0.0031    std_error=0.0012    std_dev=0.0380
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = insertion
+0.1781 ≤ µ ≤ 0.1807  media=0.1794   h=0.0013    std_error=0.0005    std_dev=0.0171
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = bubble
+63.1230 ≤ µ ≤ 64.6624  media=63.8927   h=0.7697    std_error=0.2988    std_dev=16.3656
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = merge
+30.7267 ≤ µ ≤ 31.7329  media=31.2298   h=0.5031    std_error=0.1953    std_dev=10.6943
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = quick
+27.5036 ≤ µ ≤ 28.3568  media=27.9302   h=0.4266    std_error=0.1656    std_dev=9.0706
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = insertion
+7.2502 ≤ µ ≤ 7.3738  media=7.3120   h=0.0618    std_error=0.0240    std_dev=1.3142
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+82.0174 ≤ µ ≤ 83.5126  media=82.7650   h=0.7476    std_error=0.2902    std_dev=15.8897
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = merge
+26.3242 ≤ µ ≤ 27.2536  media=26.7889   h=0.4647    std_error=0.1804    std_dev=9.8802
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = quick
+22.1950 ≤ µ ≤ 22.9332  media=22.5641   h=0.3691    std_error=0.1433    std_dev=7.8452
+
+percentual_maior_array
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+2.5467 ≤ µ ≤ 2.5889  media=2.5678   h=0.0211    std_error=0.0082    std_dev=0.4507
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.98
+=============================================================================
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.2444 ≤ µ ≤ 67.7136  media=66.4790   h=1.2346    std_error=0.5308    std_dev=16.7774
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = merge
+54.6170 ≤ µ ≤ 57.2230  media=55.9200   h=1.3030    std_error=0.5602    std_dev=17.7068
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = quick
+37.4809 ≤ µ ≤ 39.3711  media=38.4260   h=0.9451    std_error=0.4063    std_dev=12.8434
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6526 ≤ µ ≤ 20.2094  media=19.9310   h=0.2784    std_error=0.1197    std_dev=3.7847
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = bubble
+25.0073 ≤ µ ≤ 26.1335  media=25.5704   h=0.5631    std_error=0.2421    std_dev=7.6530
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = merge
+5.8179 ≤ µ ≤ 5.9273  media=5.8726   h=0.0547    std_error=0.0235    std_dev=0.7437
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.4585 ≤ µ ≤ 6.6487  media=6.5536   h=0.0951    std_error=0.0409    std_dev=1.2942
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = insertion
+2.6363 ≤ µ ≤ 2.7001  media=2.6682   h=0.0319    std_error=0.0137    std_dev=0.4331
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = bubble
+5.6783 ≤ µ ≤ 5.9495  media=5.8139   h=0.1356    std_error=0.0583    std_dev=1.8416
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = merge
+0.7012 ≤ µ ≤ 0.7198  media=0.7105   h=0.0093    std_error=0.0040    std_dev=0.1259
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = quick
+0.9269 ≤ µ ≤ 0.9507  media=0.9388   h=0.0119    std_error=0.0051    std_dev=0.1617
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = insertion
+0.3534 ≤ µ ≤ 0.3594  media=0.3564   h=0.0030    std_error=0.0013    std_dev=0.0410
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = bubble
+62.8609 ≤ µ ≤ 65.5531  media=64.2070   h=1.3461    std_error=0.5787    std_dev=18.2924
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = merge
+27.4992 ≤ µ ≤ 29.2568  media=28.3780   h=0.8788    std_error=0.3778    std_dev=11.9417
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = quick
+25.0707 ≤ µ ≤ 26.0993  media=25.5850   h=0.5143    std_error=0.2211    std_dev=6.9888
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9226 ≤ µ ≤ 17.4274  media=17.1750   h=0.2524    std_error=0.1085    std_dev=3.4305
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = bubble
+17.2352 ≤ µ ≤ 18.1312  media=17.6832   h=0.4480    std_error=0.1926    std_dev=6.0862
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = merge
+3.5013 ≤ µ ≤ 3.6265  media=3.5639   h=0.0626    std_error=0.0269    std_dev=0.8487
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = quick
+3.9739 ≤ µ ≤ 4.0377  media=4.0058   h=0.0319    std_error=0.0137    std_dev=0.4318
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = insertion
+1.9785 ≤ µ ≤ 2.0329  media=2.0057   h=0.0272    std_error=0.0117    std_dev=0.3707
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = bubble
+3.5249 ≤ µ ≤ 3.6859  media=3.6054   h=0.0805    std_error=0.0346    std_dev=1.0950
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = merge
+0.4013 ≤ µ ≤ 0.4129  media=0.4071   h=0.0058    std_error=0.0025    std_dev=0.0796
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = quick
+0.5567 ≤ µ ≤ 0.5679  media=0.5623   h=0.0056    std_error=0.0024    std_dev=0.0747
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = insertion
+0.2589 ≤ µ ≤ 0.2631  media=0.2610   h=0.0021    std_error=0.0009    std_dev=0.0289
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.4926 ≤ µ ≤ 29.7794  media=29.1360   h=0.6434    std_error=0.2766    std_dev=8.7427
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = merge
+15.8095 ≤ µ ≤ 16.4725  media=16.1410   h=0.3315    std_error=0.1425    std_dev=4.5035
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = quick
+14.7565 ≤ µ ≤ 15.4055  media=15.0810   h=0.3245    std_error=0.1395    std_dev=4.4078
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.0882 ≤ µ ≤ 11.4958  media=11.2920   h=0.2038    std_error=0.0876    std_dev=2.7703
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = bubble
+9.2455 ≤ µ ≤ 9.6795  media=9.4625   h=0.2170    std_error=0.0933    std_dev=2.9490
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = merge
+1.7644 ≤ µ ≤ 1.8020  media=1.7832   h=0.0188    std_error=0.0081    std_dev=0.2562
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = quick
+2.3186 ≤ µ ≤ 2.3772  media=2.3479   h=0.0293    std_error=0.0126    std_dev=0.3976
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = insertion
+1.3658 ≤ µ ≤ 1.3966  media=1.3812   h=0.0154    std_error=0.0066    std_dev=0.2071
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1.5795 ≤ µ ≤ 1.6363  media=1.6079   h=0.0284    std_error=0.0122    std_dev=0.3861
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = merge
+0.1910 ≤ µ ≤ 0.1956  media=0.1933   h=0.0023    std_error=0.0010    std_dev=0.0319
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = quick
+0.2959 ≤ µ ≤ 0.3015  media=0.2987   h=0.0028    std_error=0.0012    std_dev=0.0380
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = insertion
+0.1782 ≤ µ ≤ 0.1806  media=0.1794   h=0.0012    std_error=0.0005    std_dev=0.0171
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = bubble
+63.1977 ≤ µ ≤ 64.5877  media=63.8927   h=0.6950    std_error=0.2988    std_dev=16.3656
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = merge
+30.7755 ≤ µ ≤ 31.6841  media=31.2298   h=0.4543    std_error=0.1953    std_dev=10.6943
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = quick
+27.5450 ≤ µ ≤ 28.3154  media=27.9302   h=0.3852    std_error=0.1656    std_dev=9.0706
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = insertion
+7.2562 ≤ µ ≤ 7.3678  media=7.3120   h=0.0558    std_error=0.0240    std_dev=1.3142
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+82.0900 ≤ µ ≤ 83.4400  media=82.7650   h=0.6750    std_error=0.2902    std_dev=15.8897
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = merge
+26.3693 ≤ µ ≤ 27.2085  media=26.7889   h=0.4196    std_error=0.1804    std_dev=9.8802
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = quick
+22.2308 ≤ µ ≤ 22.8974  media=22.5641   h=0.3333    std_error=0.1433    std_dev=7.8452
+
+percentual_maior_array
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+2.5487 ≤ µ ≤ 2.5869  media=2.5678   h=0.0191    std_error=0.0082    std_dev=0.4507
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.95
+=============================================================================
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.4386 ≤ µ ≤ 67.5194  media=66.4790   h=1.0404    std_error=0.5308    std_dev=16.7774
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = merge
+54.8220 ≤ µ ≤ 57.0180  media=55.9200   h=1.0980    std_error=0.5602    std_dev=17.7068
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = quick
+37.6297 ≤ µ ≤ 39.2223  media=38.4260   h=0.7963    std_error=0.4063    std_dev=12.8434
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.6964 ≤ µ ≤ 20.1656  media=19.9310   h=0.2346    std_error=0.1197    std_dev=3.7847
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = bubble
+25.0959 ≤ µ ≤ 26.0449  media=25.5704   h=0.4745    std_error=0.2421    std_dev=7.6530
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = merge
+5.8265 ≤ µ ≤ 5.9187  media=5.8726   h=0.0461    std_error=0.0235    std_dev=0.7437
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.4734 ≤ µ ≤ 6.6338  media=6.5536   h=0.0802    std_error=0.0409    std_dev=1.2942
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = insertion
+2.6413 ≤ µ ≤ 2.6951  media=2.6682   h=0.0269    std_error=0.0137    std_dev=0.4331
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = bubble
+5.6996 ≤ µ ≤ 5.9282  media=5.8139   h=0.1143    std_error=0.0583    std_dev=1.8416
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = merge
+0.7027 ≤ µ ≤ 0.7183  media=0.7105   h=0.0078    std_error=0.0040    std_dev=0.1259
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = quick
+0.9288 ≤ µ ≤ 0.9488  media=0.9388   h=0.0100    std_error=0.0051    std_dev=0.1617
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = insertion
+0.3539 ≤ µ ≤ 0.3589  media=0.3564   h=0.0025    std_error=0.0013    std_dev=0.0410
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = bubble
+63.0727 ≤ µ ≤ 65.3413  media=64.2070   h=1.1343    std_error=0.5787    std_dev=18.2924
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = merge
+27.6375 ≤ µ ≤ 29.1185  media=28.3780   h=0.7405    std_error=0.3778    std_dev=11.9417
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = quick
+25.1516 ≤ µ ≤ 26.0184  media=25.5850   h=0.4334    std_error=0.2211    std_dev=6.9888
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9623 ≤ µ ≤ 17.3877  media=17.1750   h=0.2127    std_error=0.1085    std_dev=3.4305
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = bubble
+17.3057 ≤ µ ≤ 18.0607  media=17.6832   h=0.3775    std_error=0.1926    std_dev=6.0862
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = merge
+3.5112 ≤ µ ≤ 3.6166  media=3.5639   h=0.0527    std_error=0.0269    std_dev=0.8487
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = quick
+3.9789 ≤ µ ≤ 4.0327  media=4.0058   h=0.0269    std_error=0.0137    std_dev=0.4318
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = insertion
+1.9828 ≤ µ ≤ 2.0286  media=2.0057   h=0.0229    std_error=0.0117    std_dev=0.3707
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = bubble
+3.5376 ≤ µ ≤ 3.6732  media=3.6054   h=0.0678    std_error=0.0346    std_dev=1.0950
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = merge
+0.4022 ≤ µ ≤ 0.4120  media=0.4071   h=0.0049    std_error=0.0025    std_dev=0.0796
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = quick
+0.5576 ≤ µ ≤ 0.5670  media=0.5623   h=0.0047    std_error=0.0024    std_dev=0.0747
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = insertion
+0.2592 ≤ µ ≤ 0.2628  media=0.2610   h=0.0018    std_error=0.0009    std_dev=0.0289
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.5939 ≤ µ ≤ 29.6781  media=29.1360   h=0.5421    std_error=0.2766    std_dev=8.7427
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = merge
+15.8617 ≤ µ ≤ 16.4203  media=16.1410   h=0.2793    std_error=0.1425    std_dev=4.5035
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = quick
+14.8076 ≤ µ ≤ 15.3544  media=15.0810   h=0.2734    std_error=0.1395    std_dev=4.4078
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.1203 ≤ µ ≤ 11.4637  media=11.2920   h=0.1717    std_error=0.0876    std_dev=2.7703
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = bubble
+9.2796 ≤ µ ≤ 9.6454  media=9.4625   h=0.1829    std_error=0.0933    std_dev=2.9490
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = merge
+1.7673 ≤ µ ≤ 1.7991  media=1.7832   h=0.0159    std_error=0.0081    std_dev=0.2562
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = quick
+2.3232 ≤ µ ≤ 2.3726  media=2.3479   h=0.0247    std_error=0.0126    std_dev=0.3976
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = insertion
+1.3683 ≤ µ ≤ 1.3941  media=1.3812   h=0.0129    std_error=0.0066    std_dev=0.2071
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1.5840 ≤ µ ≤ 1.6318  media=1.6079   h=0.0239    std_error=0.0122    std_dev=0.3861
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = merge
+0.1913 ≤ µ ≤ 0.1953  media=0.1933   h=0.0020    std_error=0.0010    std_dev=0.0319
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = quick
+0.2963 ≤ µ ≤ 0.3011  media=0.2987   h=0.0024    std_error=0.0012    std_dev=0.0380
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = insertion
+0.1784 ≤ µ ≤ 0.1804  media=0.1794   h=0.0010    std_error=0.0005    std_dev=0.0171
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = bubble
+63.3071 ≤ µ ≤ 64.4783  media=63.8927   h=0.5856    std_error=0.2988    std_dev=16.3656
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = merge
+30.8470 ≤ µ ≤ 31.6126  media=31.2298   h=0.3828    std_error=0.1953    std_dev=10.6943
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = quick
+27.6056 ≤ µ ≤ 28.2548  media=27.9302   h=0.3246    std_error=0.1656    std_dev=9.0706
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = insertion
+7.2650 ≤ µ ≤ 7.3590  media=7.3120   h=0.0470    std_error=0.0240    std_dev=1.3142
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+82.1962 ≤ µ ≤ 83.3338  media=82.7650   h=0.5688    std_error=0.2902    std_dev=15.8897
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = merge
+26.4353 ≤ µ ≤ 27.1425  media=26.7889   h=0.3536    std_error=0.1804    std_dev=9.8802
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = quick
+22.2832 ≤ µ ≤ 22.8450  media=22.5641   h=0.2809    std_error=0.1433    std_dev=7.8452
+
+percentual_maior_array
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+2.5517 ≤ µ ≤ 2.5839  media=2.5678   h=0.0161    std_error=0.0082    std_dev=0.4507
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.9
+=============================================================================
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = bubble
+65.6058 ≤ µ ≤ 67.3522  media=66.4790   h=0.8732    std_error=0.5308    std_dev=16.7774
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = merge
+54.9985 ≤ µ ≤ 56.8415  media=55.9200   h=0.9215    std_error=0.5602    std_dev=17.7068
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = quick
+37.7576 ≤ µ ≤ 39.0944  media=38.4260   h=0.6684    std_error=0.4063    std_dev=12.8434
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = insertion
+19.7341 ≤ µ ≤ 20.1279  media=19.9310   h=0.1969    std_error=0.1197    std_dev=3.7847
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = bubble
+25.1721 ≤ µ ≤ 25.9687  media=25.5704   h=0.3983    std_error=0.2421    std_dev=7.6530
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = merge
+5.8339 ≤ µ ≤ 5.9113  media=5.8726   h=0.0387    std_error=0.0235    std_dev=0.7437
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.4863 ≤ µ ≤ 6.6209  media=6.5536   h=0.0673    std_error=0.0409    std_dev=1.2942
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = insertion
+2.6457 ≤ µ ≤ 2.6907  media=2.6682   h=0.0225    std_error=0.0137    std_dev=0.4331
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = bubble
+5.7180 ≤ µ ≤ 5.9098  media=5.8139   h=0.0959    std_error=0.0583    std_dev=1.8416
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = merge
+0.7039 ≤ µ ≤ 0.7171  media=0.7105   h=0.0066    std_error=0.0040    std_dev=0.1259
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = quick
+0.9304 ≤ µ ≤ 0.9472  media=0.9388   h=0.0084    std_error=0.0051    std_dev=0.1617
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = insertion
+0.3543 ≤ µ ≤ 0.3585  media=0.3564   h=0.0021    std_error=0.0013    std_dev=0.0410
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = bubble
+63.2550 ≤ µ ≤ 65.1590  media=64.2070   h=0.9520    std_error=0.5787    std_dev=18.2924
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = merge
+27.7565 ≤ µ ≤ 28.9995  media=28.3780   h=0.6215    std_error=0.3778    std_dev=11.9417
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = quick
+25.2213 ≤ µ ≤ 25.9487  media=25.5850   h=0.3637    std_error=0.2211    std_dev=6.9888
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = insertion
+16.9965 ≤ µ ≤ 17.3535  media=17.1750   h=0.1785    std_error=0.1085    std_dev=3.4305
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = bubble
+17.3664 ≤ µ ≤ 18.0000  media=17.6832   h=0.3168    std_error=0.1926    std_dev=6.0862
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = merge
+3.5196 ≤ µ ≤ 3.6082  media=3.5639   h=0.0443    std_error=0.0269    std_dev=0.8487
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = quick
+3.9833 ≤ µ ≤ 4.0283  media=4.0058   h=0.0225    std_error=0.0137    std_dev=0.4318
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = insertion
+1.9865 ≤ µ ≤ 2.0249  media=2.0057   h=0.0192    std_error=0.0117    std_dev=0.3707
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = bubble
+3.5485 ≤ µ ≤ 3.6623  media=3.6054   h=0.0569    std_error=0.0346    std_dev=1.0950
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = merge
+0.4030 ≤ µ ≤ 0.4112  media=0.4071   h=0.0041    std_error=0.0025    std_dev=0.0796
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = quick
+0.5584 ≤ µ ≤ 0.5662  media=0.5623   h=0.0039    std_error=0.0024    std_dev=0.0747
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = insertion
+0.2595 ≤ µ ≤ 0.2625  media=0.2610   h=0.0015    std_error=0.0009    std_dev=0.0289
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = bubble
+28.6810 ≤ µ ≤ 29.5910  media=29.1360   h=0.4550    std_error=0.2766    std_dev=8.7427
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = merge
+15.9066 ≤ µ ≤ 16.3754  media=16.1410   h=0.2344    std_error=0.1425    std_dev=4.5035
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = quick
+14.8515 ≤ µ ≤ 15.3105  media=15.0810   h=0.2295    std_error=0.1395    std_dev=4.4078
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = insertion
+11.1479 ≤ µ ≤ 11.4361  media=11.2920   h=0.1441    std_error=0.0876    std_dev=2.7703
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = bubble
+9.3090 ≤ µ ≤ 9.6160  media=9.4625   h=0.1535    std_error=0.0933    std_dev=2.9490
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = merge
+1.7699 ≤ µ ≤ 1.7965  media=1.7832   h=0.0133    std_error=0.0081    std_dev=0.2562
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = quick
+2.3272 ≤ µ ≤ 2.3686  media=2.3479   h=0.0207    std_error=0.0126    std_dev=0.3976
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = insertion
+1.3703 ≤ µ ≤ 1.3921  media=1.3812   h=0.0109    std_error=0.0066    std_dev=0.2071
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1.5878 ≤ µ ≤ 1.6280  media=1.6079   h=0.0201    std_error=0.0122    std_dev=0.3861
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = merge
+0.1917 ≤ µ ≤ 0.1949  media=0.1933   h=0.0016    std_error=0.0010    std_dev=0.0319
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = quick
+0.2967 ≤ µ ≤ 0.3007  media=0.2987   h=0.0020    std_error=0.0012    std_dev=0.0380
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = insertion
+0.1786 ≤ µ ≤ 0.1802  media=0.1794   h=0.0008    std_error=0.0005    std_dev=0.0171
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = bubble
+63.4012 ≤ µ ≤ 64.3842  media=63.8927   h=0.4915    std_error=0.2988    std_dev=16.3656
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = merge
+30.9085 ≤ µ ≤ 31.5511  media=31.2298   h=0.3213    std_error=0.1953    std_dev=10.6943
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = quick
+27.6578 ≤ µ ≤ 28.2026  media=27.9302   h=0.2724    std_error=0.1656    std_dev=9.0706
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = insertion
+7.2725 ≤ µ ≤ 7.3515  media=7.3120   h=0.0395    std_error=0.0240    std_dev=1.3142
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+82.2876 ≤ µ ≤ 83.2424  media=82.7650   h=0.4774    std_error=0.2902    std_dev=15.8897
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = merge
+26.4921 ≤ µ ≤ 27.0857  media=26.7889   h=0.2968    std_error=0.1804    std_dev=9.8802
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = quick
+22.3284 ≤ µ ≤ 22.7998  media=22.5641   h=0.2357    std_error=0.1433    std_dev=7.8452
+
+percentual_maior_array
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+2.5543 ≤ µ ≤ 2.5813  media=2.5678   h=0.0135    std_error=0.0082    std_dev=0.4507
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.99
+=============================================================================
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.4875 ≤ µ ≤ 2.7105  media=2.5990   h=0.1115    std_error=0.0433    std_dev=1.3683
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1058 ≤ µ ≤ 3.3582  media=3.2320   h=0.1262    std_error=0.0490    std_dev=1.5480
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = quick
+5.2908 ≤ µ ≤ 5.5752  media=5.4330   h=0.1422    std_error=0.0552    std_dev=1.7440
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.2418 ≤ µ ≤ 11.7282  media=11.4850   h=0.2432    std_error=0.0944    std_dev=2.9853
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = bubble
+37.8724 ≤ µ ≤ 38.6256  media=38.2490   h=0.3766    std_error=0.1462    std_dev=4.6203
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = merge
+72.3794 ≤ µ ≤ 73.2366  media=72.8080   h=0.4286    std_error=0.1664    std_dev=5.2581
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = quick
+63.0019 ≤ µ ≤ 63.8881  media=63.4450   h=0.4431    std_error=0.1720    std_dev=5.4353
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = insertion
+144.2984 ≤ µ ≤ 145.4236  media=144.8610   h=0.5626    std_error=0.2184    std_dev=6.9045
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = bubble
+346.5226 ≤ µ ≤ 348.8874  media=347.7050   h=1.1824    std_error=0.4590    std_dev=14.5068
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = merge
+995.1610 ≤ µ ≤ 1000.2270  media=997.6940   h=2.5330    std_error=0.9833    std_dev=31.0786
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = quick
+655.8244 ≤ µ ≤ 659.6416  media=657.7330   h=1.9086    std_error=0.7409    std_dev=23.4181
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = insertion
+1442.8779 ≤ µ ≤ 1447.5441  media=1445.2110   h=2.3331    std_error=0.9057    std_dev=28.6276
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8126 ≤ µ ≤ 4.0614  media=3.9370   h=0.1244    std_error=0.0483    std_dev=1.5274
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4453 ≤ µ ≤ 7.8967  media=7.6710   h=0.2257    std_error=0.0876    std_dev=2.7682
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3108 ≤ µ ≤ 9.5592  media=9.4350   h=0.1242    std_error=0.0482    std_dev=1.5224
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4377 ≤ µ ≤ 14.7983  media=14.6180   h=0.1803    std_error=0.0700    std_dev=2.2132
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = bubble
+61.3510 ≤ µ ≤ 62.2470  media=61.7990   h=0.4480    std_error=0.1739    std_dev=5.4953
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = merge
+132.7227 ≤ µ ≤ 133.9473  media=133.3350   h=0.6123    std_error=0.2377    std_dev=7.5132
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = quick
+103.8994 ≤ µ ≤ 104.9906  media=104.4450   h=0.5456    std_error=0.2118    std_dev=6.6940
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = insertion
+185.2312 ≤ µ ≤ 186.2508  media=185.7410   h=0.5098    std_error=0.1979    std_dev=6.2564
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = bubble
+602.5912 ≤ µ ≤ 605.7448  media=604.1680   h=1.5768    std_error=0.6121    std_dev=19.3470
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = merge
+1725.0135 ≤ µ ≤ 1729.9785  media=1727.4960   h=2.4825    std_error=0.9637    std_dev=30.4595
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = quick
+1077.1452 ≤ µ ≤ 1081.2148  media=1079.1800   h=2.0348    std_error=0.7899    std_dev=24.9654
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = insertion
+1878.0298 ≤ µ ≤ 1882.7022  media=1880.3660   h=2.3362    std_error=0.9069    std_dev=28.6641
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.5776 ≤ µ ≤ 12.9404  media=12.7590   h=0.1814    std_error=0.0704    std_dev=2.2255
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = merge
+17.0806 ≤ µ ≤ 17.7174  media=17.3990   h=0.3184    std_error=0.1236    std_dev=3.9051
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8264 ≤ µ ≤ 17.3596  media=17.0930   h=0.2666    std_error=0.1035    std_dev=3.2721
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5544 ≤ µ ≤ 21.9156  media=21.7350   h=0.1806    std_error=0.0701    std_dev=2.2142
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = bubble
+116.7527 ≤ µ ≤ 117.9913  media=117.3720   h=0.6193    std_error=0.2404    std_dev=7.5989
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = merge
+244.3757 ≤ µ ≤ 245.5963  media=244.9860   h=0.6103    std_error=0.2369    std_dev=7.4872
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = quick
+188.1553 ≤ µ ≤ 189.5567  media=188.8560   h=0.7007    std_error=0.2720    std_dev=8.5964
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = insertion
+254.8912 ≤ µ ≤ 256.1348  media=255.5130   h=0.6218    std_error=0.2414    std_dev=7.6295
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1176.5839 ≤ µ ≤ 1180.6421  media=1178.6130   h=2.0291    std_error=0.7877    std_dev=24.8972
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = merge
+2830.0352 ≤ µ ≤ 2834.1768  media=2832.1060   h=2.0708    std_error=0.8039    std_dev=25.4085
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = quick
+1943.2954 ≤ µ ≤ 1948.2026  media=1945.7490   h=2.4536    std_error=0.9525    std_dev=30.1045
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = insertion
+2555.4375 ≤ µ ≤ 2560.0645  media=2557.7510   h=2.3135    std_error=0.8981    std_dev=28.3864
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = bubble
+4.5072 ≤ µ ≤ 4.6622  media=4.5847   h=0.0775    std_error=0.0301    std_dev=1.6483
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = merge
+8.1244 ≤ µ ≤ 8.3382  media=8.2313   h=0.1069    std_error=0.0415    std_dev=2.2727
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = quick
+9.2384 ≤ µ ≤ 9.5356  media=9.3870   h=0.1486    std_error=0.0577    std_dev=3.1604
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = insertion
+47.2126 ≤ µ ≤ 47.7000  media=47.4563   h=0.2437    std_error=0.0946    std_dev=5.1817
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+5.3547 ≤ µ ≤ 5.5727  media=5.4637   h=0.1090    std_error=0.0423    std_dev=2.3150
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = merge
+10.6391 ≤ µ ≤ 10.9823  media=10.8107   h=0.1716    std_error=0.0666    std_dev=3.6454
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = quick
+13.8073 ≤ µ ≤ 14.1773  media=13.9923   h=0.1850    std_error=0.0718    std_dev=3.9334
+
+k_unordered_sequence
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+178.9373 ≤ µ ≤ 180.0667  media=179.5020   h=0.5647    std_error=0.2192    std_dev=12.0049
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.98
+=============================================================================
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.4983 ≤ µ ≤ 2.6997  media=2.5990   h=0.1007    std_error=0.0433    std_dev=1.3683
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1180 ≤ µ ≤ 3.3460  media=3.2320   h=0.1140    std_error=0.0490    std_dev=1.5480
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3046 ≤ µ ≤ 5.5614  media=5.4330   h=0.1284    std_error=0.0552    std_dev=1.7440
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.2654 ≤ µ ≤ 11.7046  media=11.4850   h=0.2196    std_error=0.0944    std_dev=2.9853
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = bubble
+37.9089 ≤ µ ≤ 38.5891  media=38.2490   h=0.3401    std_error=0.1462    std_dev=4.6203
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = merge
+72.4210 ≤ µ ≤ 73.1950  media=72.8080   h=0.3870    std_error=0.1664    std_dev=5.2581
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = quick
+63.0449 ≤ µ ≤ 63.8451  media=63.4450   h=0.4001    std_error=0.1720    std_dev=5.4353
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = insertion
+144.3530 ≤ µ ≤ 145.3690  media=144.8610   h=0.5080    std_error=0.2184    std_dev=6.9045
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = bubble
+346.6374 ≤ µ ≤ 348.7726  media=347.7050   h=1.0676    std_error=0.4590    std_dev=14.5068
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = merge
+995.4068 ≤ µ ≤ 999.9812  media=997.6940   h=2.2872    std_error=0.9833    std_dev=31.0786
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = quick
+656.0097 ≤ µ ≤ 659.4563  media=657.7330   h=1.7233    std_error=0.7409    std_dev=23.4181
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = insertion
+1443.1043 ≤ µ ≤ 1447.3177  media=1445.2110   h=2.1067    std_error=0.9057    std_dev=28.6276
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8247 ≤ µ ≤ 4.0493  media=3.9370   h=0.1123    std_error=0.0483    std_dev=1.5274
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4672 ≤ µ ≤ 7.8748  media=7.6710   h=0.2038    std_error=0.0876    std_dev=2.7682
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3229 ≤ µ ≤ 9.5471  media=9.4350   h=0.1121    std_error=0.0482    std_dev=1.5224
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4552 ≤ µ ≤ 14.7808  media=14.6180   h=0.1628    std_error=0.0700    std_dev=2.2132
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = bubble
+61.3945 ≤ µ ≤ 62.2035  media=61.7990   h=0.4045    std_error=0.1739    std_dev=5.4953
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = merge
+132.7821 ≤ µ ≤ 133.8879  media=133.3350   h=0.5529    std_error=0.2377    std_dev=7.5132
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = quick
+103.9524 ≤ µ ≤ 104.9376  media=104.4450   h=0.4926    std_error=0.2118    std_dev=6.6940
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = insertion
+185.2807 ≤ µ ≤ 186.2013  media=185.7410   h=0.4603    std_error=0.1979    std_dev=6.2564
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = bubble
+602.7443 ≤ µ ≤ 605.5917  media=604.1680   h=1.4237    std_error=0.6121    std_dev=19.3470
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = merge
+1725.2544 ≤ µ ≤ 1729.7376  media=1727.4960   h=2.2416    std_error=0.9637    std_dev=30.4595
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = quick
+1077.3427 ≤ µ ≤ 1081.0173  media=1079.1800   h=1.8373    std_error=0.7899    std_dev=24.9654
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = insertion
+1878.2566 ≤ µ ≤ 1882.4754  media=1880.3660   h=2.1094    std_error=0.9069    std_dev=28.6641
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.5952 ≤ µ ≤ 12.9228  media=12.7590   h=0.1638    std_error=0.0704    std_dev=2.2255
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1115 ≤ µ ≤ 17.6865  media=17.3990   h=0.2875    std_error=0.1236    std_dev=3.9051
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8523 ≤ µ ≤ 17.3337  media=17.0930   h=0.2407    std_error=0.1035    std_dev=3.2721
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5719 ≤ µ ≤ 21.8981  media=21.7350   h=0.1631    std_error=0.0701    std_dev=2.2142
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = bubble
+116.8128 ≤ µ ≤ 117.9312  media=117.3720   h=0.5592    std_error=0.2404    std_dev=7.5989
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = merge
+244.4350 ≤ µ ≤ 245.5370  media=244.9860   h=0.5510    std_error=0.2369    std_dev=7.4872
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = quick
+188.2233 ≤ µ ≤ 189.4887  media=188.8560   h=0.6327    std_error=0.2720    std_dev=8.5964
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = insertion
+254.9515 ≤ µ ≤ 256.0745  media=255.5130   h=0.5615    std_error=0.2414    std_dev=7.6295
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1176.7808 ≤ µ ≤ 1180.4452  media=1178.6130   h=1.8322    std_error=0.7877    std_dev=24.8972
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = merge
+2830.2361 ≤ µ ≤ 2833.9759  media=2832.1060   h=1.8699    std_error=0.8039    std_dev=25.4085
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = quick
+1943.5335 ≤ µ ≤ 1947.9645  media=1945.7490   h=2.2155    std_error=0.9525    std_dev=30.1045
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = insertion
+2555.6620 ≤ µ ≤ 2559.8400  media=2557.7510   h=2.0890    std_error=0.8981    std_dev=28.3864
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = bubble
+4.5147 ≤ µ ≤ 4.6547  media=4.5847   h=0.0700    std_error=0.0301    std_dev=1.6483
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = merge
+8.1348 ≤ µ ≤ 8.3278  media=8.2313   h=0.0965    std_error=0.0415    std_dev=2.2727
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = quick
+9.2528 ≤ µ ≤ 9.5212  media=9.3870   h=0.1342    std_error=0.0577    std_dev=3.1604
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = insertion
+47.2363 ≤ µ ≤ 47.6763  media=47.4563   h=0.2200    std_error=0.0946    std_dev=5.1817
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+5.3653 ≤ µ ≤ 5.5621  media=5.4637   h=0.0984    std_error=0.0423    std_dev=2.3150
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = merge
+10.6558 ≤ µ ≤ 10.9656  media=10.8107   h=0.1549    std_error=0.0666    std_dev=3.6454
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = quick
+13.8253 ≤ µ ≤ 14.1593  media=13.9923   h=0.1670    std_error=0.0718    std_dev=3.9334
+
+k_unordered_sequence
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+178.9921 ≤ µ ≤ 180.0119  media=179.5020   h=0.5099    std_error=0.2192    std_dev=12.0049
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.95
+=============================================================================
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.5141 ≤ µ ≤ 2.6839  media=2.5990   h=0.0849    std_error=0.0433    std_dev=1.3683
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1360 ≤ µ ≤ 3.3280  media=3.2320   h=0.0960    std_error=0.0490    std_dev=1.5480
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3248 ≤ µ ≤ 5.5412  media=5.4330   h=0.1082    std_error=0.0552    std_dev=1.7440
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.3000 ≤ µ ≤ 11.6700  media=11.4850   h=0.1850    std_error=0.0944    std_dev=2.9853
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = bubble
+37.9624 ≤ µ ≤ 38.5356  media=38.2490   h=0.2866    std_error=0.1462    std_dev=4.6203
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = merge
+72.4819 ≤ µ ≤ 73.1341  media=72.8080   h=0.3261    std_error=0.1664    std_dev=5.2581
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = quick
+63.1079 ≤ µ ≤ 63.7821  media=63.4450   h=0.3371    std_error=0.1720    std_dev=5.4353
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = insertion
+144.4329 ≤ µ ≤ 145.2891  media=144.8610   h=0.4281    std_error=0.2184    std_dev=6.9045
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = bubble
+346.8054 ≤ µ ≤ 348.6046  media=347.7050   h=0.8996    std_error=0.4590    std_dev=14.5068
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = merge
+995.7667 ≤ µ ≤ 999.6213  media=997.6940   h=1.9273    std_error=0.9833    std_dev=31.0786
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = quick
+656.2808 ≤ µ ≤ 659.1852  media=657.7330   h=1.4522    std_error=0.7409    std_dev=23.4181
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = insertion
+1443.4358 ≤ µ ≤ 1446.9862  media=1445.2110   h=1.7752    std_error=0.9057    std_dev=28.6276
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8423 ≤ µ ≤ 4.0317  media=3.9370   h=0.0947    std_error=0.0483    std_dev=1.5274
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4993 ≤ µ ≤ 7.8427  media=7.6710   h=0.1717    std_error=0.0876    std_dev=2.7682
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3405 ≤ µ ≤ 9.5295  media=9.4350   h=0.0945    std_error=0.0482    std_dev=1.5224
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4808 ≤ µ ≤ 14.7552  media=14.6180   h=0.1372    std_error=0.0700    std_dev=2.2132
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = bubble
+61.4582 ≤ µ ≤ 62.1398  media=61.7990   h=0.3408    std_error=0.1739    std_dev=5.4953
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = merge
+132.8691 ≤ µ ≤ 133.8009  media=133.3350   h=0.4659    std_error=0.2377    std_dev=7.5132
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = quick
+104.0299 ≤ µ ≤ 104.8601  media=104.4450   h=0.4151    std_error=0.2118    std_dev=6.6940
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = insertion
+185.3531 ≤ µ ≤ 186.1289  media=185.7410   h=0.3879    std_error=0.1979    std_dev=6.2564
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = bubble
+602.9683 ≤ µ ≤ 605.3677  media=604.1680   h=1.1997    std_error=0.6121    std_dev=19.3470
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = merge
+1725.6071 ≤ µ ≤ 1729.3849  media=1727.4960   h=1.8889    std_error=0.9637    std_dev=30.4595
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = quick
+1077.6318 ≤ µ ≤ 1080.7282  media=1079.1800   h=1.5482    std_error=0.7899    std_dev=24.9654
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = insertion
+1878.5885 ≤ µ ≤ 1882.1435  media=1880.3660   h=1.7775    std_error=0.9069    std_dev=28.6641
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.6210 ≤ µ ≤ 12.8970  media=12.7590   h=0.1380    std_error=0.0704    std_dev=2.2255
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1567 ≤ µ ≤ 17.6413  media=17.3990   h=0.2423    std_error=0.1236    std_dev=3.9051
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8901 ≤ µ ≤ 17.2959  media=17.0930   h=0.2029    std_error=0.1035    std_dev=3.2721
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5976 ≤ µ ≤ 21.8724  media=21.7350   h=0.1374    std_error=0.0701    std_dev=2.2142
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = bubble
+116.9008 ≤ µ ≤ 117.8432  media=117.3720   h=0.4712    std_error=0.2404    std_dev=7.5989
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = merge
+244.5217 ≤ µ ≤ 245.4503  media=244.9860   h=0.4643    std_error=0.2369    std_dev=7.4872
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = quick
+188.3229 ≤ µ ≤ 189.3891  media=188.8560   h=0.5331    std_error=0.2720    std_dev=8.5964
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = insertion
+255.0399 ≤ µ ≤ 255.9861  media=255.5130   h=0.4731    std_error=0.2414    std_dev=7.6295
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1177.0691 ≤ µ ≤ 1180.1569  media=1178.6130   h=1.5439    std_error=0.7877    std_dev=24.8972
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = merge
+2830.5304 ≤ µ ≤ 2833.6816  media=2832.1060   h=1.5756    std_error=0.8039    std_dev=25.4085
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = quick
+1943.8821 ≤ µ ≤ 1947.6159  media=1945.7490   h=1.8669    std_error=0.9525    std_dev=30.1045
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = insertion
+2555.9907 ≤ µ ≤ 2559.5113  media=2557.7510   h=1.7603    std_error=0.8981    std_dev=28.3864
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = bubble
+4.5257 ≤ µ ≤ 4.6437  media=4.5847   h=0.0590    std_error=0.0301    std_dev=1.6483
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = merge
+8.1500 ≤ µ ≤ 8.3126  media=8.2313   h=0.0813    std_error=0.0415    std_dev=2.2727
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = quick
+9.2739 ≤ µ ≤ 9.5001  media=9.3870   h=0.1131    std_error=0.0577    std_dev=3.1604
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = insertion
+47.2709 ≤ µ ≤ 47.6417  media=47.4563   h=0.1854    std_error=0.0946    std_dev=5.1817
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+5.3808 ≤ µ ≤ 5.5466  media=5.4637   h=0.0829    std_error=0.0423    std_dev=2.3150
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = merge
+10.6802 ≤ µ ≤ 10.9412  media=10.8107   h=0.1305    std_error=0.0666    std_dev=3.6454
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = quick
+13.8516 ≤ µ ≤ 14.1330  media=13.9923   h=0.1407    std_error=0.0718    std_dev=3.9334
+
+k_unordered_sequence
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+179.0724 ≤ µ ≤ 179.9316  media=179.5020   h=0.4296    std_error=0.2192    std_dev=12.0049
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.9
+=============================================================================
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.5278 ≤ µ ≤ 2.6702  media=2.5990   h=0.0712    std_error=0.0433    std_dev=1.3683
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1514 ≤ µ ≤ 3.3126  media=3.2320   h=0.0806    std_error=0.0490    std_dev=1.5480
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3422 ≤ µ ≤ 5.5238  media=5.4330   h=0.0908    std_error=0.0552    std_dev=1.7440
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.3297 ≤ µ ≤ 11.6403  media=11.4850   h=0.1553    std_error=0.0944    std_dev=2.9853
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = bubble
+38.0085 ≤ µ ≤ 38.4895  media=38.2490   h=0.2405    std_error=0.1462    std_dev=4.6203
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = merge
+72.5343 ≤ µ ≤ 73.0817  media=72.8080   h=0.2737    std_error=0.1664    std_dev=5.2581
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = quick
+63.1621 ≤ µ ≤ 63.7279  media=63.4450   h=0.2829    std_error=0.1720    std_dev=5.4353
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = insertion
+144.5017 ≤ µ ≤ 145.2203  media=144.8610   h=0.3593    std_error=0.2184    std_dev=6.9045
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = bubble
+346.9499 ≤ µ ≤ 348.4601  media=347.7050   h=0.7551    std_error=0.4590    std_dev=14.5068
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = merge
+996.0765 ≤ µ ≤ 999.3115  media=997.6940   h=1.6175    std_error=0.9833    std_dev=31.0786
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = quick
+656.5142 ≤ µ ≤ 658.9518  media=657.7330   h=1.2188    std_error=0.7409    std_dev=23.4181
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = insertion
+1443.7211 ≤ µ ≤ 1446.7009  media=1445.2110   h=1.4899    std_error=0.9057    std_dev=28.6276
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8575 ≤ µ ≤ 4.0165  media=3.9370   h=0.0795    std_error=0.0483    std_dev=1.5274
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = merge
+7.5269 ≤ µ ≤ 7.8151  media=7.6710   h=0.1441    std_error=0.0876    std_dev=2.7682
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3557 ≤ µ ≤ 9.5143  media=9.4350   h=0.0793    std_error=0.0482    std_dev=1.5224
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.5028 ≤ µ ≤ 14.7332  media=14.6180   h=0.1152    std_error=0.0700    std_dev=2.2132
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = bubble
+61.5129 ≤ µ ≤ 62.0851  media=61.7990   h=0.2861    std_error=0.1739    std_dev=5.4953
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = merge
+132.9440 ≤ µ ≤ 133.7260  media=133.3350   h=0.3910    std_error=0.2377    std_dev=7.5132
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = quick
+104.0966 ≤ µ ≤ 104.7934  media=104.4450   h=0.3484    std_error=0.2118    std_dev=6.6940
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = insertion
+185.4155 ≤ µ ≤ 186.0665  media=185.7410   h=0.3255    std_error=0.1979    std_dev=6.2564
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = bubble
+603.1611 ≤ µ ≤ 605.1749  media=604.1680   h=1.0069    std_error=0.6121    std_dev=19.3470
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = merge
+1725.9107 ≤ µ ≤ 1729.0813  media=1727.4960   h=1.5853    std_error=0.9637    std_dev=30.4595
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = quick
+1077.8806 ≤ µ ≤ 1080.4794  media=1079.1800   h=1.2994    std_error=0.7899    std_dev=24.9654
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = insertion
+1878.8741 ≤ µ ≤ 1881.8579  media=1880.3660   h=1.4919    std_error=0.9069    std_dev=28.6641
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.6432 ≤ µ ≤ 12.8748  media=12.7590   h=0.1158    std_error=0.0704    std_dev=2.2255
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1957 ≤ µ ≤ 17.6023  media=17.3990   h=0.2033    std_error=0.1236    std_dev=3.9051
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = quick
+16.9227 ≤ µ ≤ 17.2633  media=17.0930   h=0.1703    std_error=0.1035    std_dev=3.2721
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.6197 ≤ µ ≤ 21.8503  media=21.7350   h=0.1153    std_error=0.0701    std_dev=2.2142
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = bubble
+116.9765 ≤ µ ≤ 117.7675  media=117.3720   h=0.3955    std_error=0.2404    std_dev=7.5989
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = merge
+244.5963 ≤ µ ≤ 245.3757  media=244.9860   h=0.3897    std_error=0.2369    std_dev=7.4872
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = quick
+188.4086 ≤ µ ≤ 189.3034  media=188.8560   h=0.4474    std_error=0.2720    std_dev=8.5964
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = insertion
+255.1159 ≤ µ ≤ 255.9101  media=255.5130   h=0.3971    std_error=0.2414    std_dev=7.6295
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = bubble
+1177.3172 ≤ µ ≤ 1179.9088  media=1178.6130   h=1.2958    std_error=0.7877    std_dev=24.8972
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = merge
+2830.7836 ≤ µ ≤ 2833.4284  media=2832.1060   h=1.3224    std_error=0.8039    std_dev=25.4085
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = quick
+1944.1821 ≤ µ ≤ 1947.3159  media=1945.7490   h=1.5669    std_error=0.9525    std_dev=30.1045
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = insertion
+2556.2736 ≤ µ ≤ 2559.2284  media=2557.7510   h=1.4774    std_error=0.8981    std_dev=28.3864
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = bubble
+4.5352 ≤ µ ≤ 4.6342  media=4.5847   h=0.0495    std_error=0.0301    std_dev=1.6483
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = merge
+8.1630 ≤ µ ≤ 8.2996  media=8.2313   h=0.0683    std_error=0.0415    std_dev=2.2727
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = quick
+9.2921 ≤ µ ≤ 9.4819  media=9.3870   h=0.0949    std_error=0.0577    std_dev=3.1604
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = insertion
+47.3007 ≤ µ ≤ 47.6119  media=47.4563   h=0.1556    std_error=0.0946    std_dev=5.1817
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+5.3941 ≤ µ ≤ 5.5333  media=5.4637   h=0.0696    std_error=0.0423    std_dev=2.3150
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = merge
+10.7011 ≤ µ ≤ 10.9203  media=10.8107   h=0.1096    std_error=0.0666    std_dev=3.6454
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = quick
+13.8742 ≤ µ ≤ 14.1104  media=13.9923   h=0.1181    std_error=0.0718    std_dev=3.9334
+
+k_unordered_sequence
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+179.1414 ≤ µ ≤ 179.8626  media=179.5020   h=0.3606    std_error=0.2192    std_dev=12.0049
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.99
+=============================================================================
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.4875 ≤ µ ≤ 2.7105  media=2.5990   h=0.1115    std_error=0.0433    std_dev=1.3683
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1058 ≤ µ ≤ 3.3582  media=3.2320   h=0.1262    std_error=0.0490    std_dev=1.5480
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = quick
+5.2908 ≤ µ ≤ 5.5752  media=5.4330   h=0.1422    std_error=0.0552    std_dev=1.7440
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.2418 ≤ µ ≤ 11.7282  media=11.4850   h=0.2432    std_error=0.0944    std_dev=2.9853
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = bubble
+3.7873 ≤ µ ≤ 3.8625  media=3.8249   h=0.0376    std_error=0.0146    std_dev=0.4620
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = merge
+7.2380 ≤ µ ≤ 7.3236  media=7.2808   h=0.0428    std_error=0.0166    std_dev=0.5258
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.3002 ≤ µ ≤ 6.3888  media=6.3445   h=0.0443    std_error=0.0172    std_dev=0.5435
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 1000;  Alg = insertion
+14.4299 ≤ µ ≤ 14.5423  media=14.4861   h=0.0562    std_error=0.0218    std_dev=0.6904
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = bubble
+3.4652 ≤ µ ≤ 3.4888  media=3.4770   h=0.0118    std_error=0.0046    std_dev=0.1451
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = merge
+9.9517 ≤ µ ≤ 10.0021  media=9.9769   h=0.0252    std_error=0.0098    std_dev=0.3108
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = quick
+6.5582 ≤ µ ≤ 6.5964  media=6.5773   h=0.0191    std_error=0.0074    std_dev=0.2342
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.01;  Size = 10000;  Alg = insertion
+14.4287 ≤ µ ≤ 14.4755  media=14.4521   h=0.0234    std_error=0.0091    std_dev=0.2863
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8126 ≤ µ ≤ 4.0614  media=3.9370   h=0.1244    std_error=0.0483    std_dev=1.5274
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4453 ≤ µ ≤ 7.8967  media=7.6710   h=0.2257    std_error=0.0876    std_dev=2.7682
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3108 ≤ µ ≤ 9.5592  media=9.4350   h=0.1242    std_error=0.0482    std_dev=1.5224
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4377 ≤ µ ≤ 14.7983  media=14.6180   h=0.1803    std_error=0.0700    std_dev=2.2132
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = bubble
+6.1351 ≤ µ ≤ 6.2247  media=6.1799   h=0.0448    std_error=0.0174    std_dev=0.5495
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = merge
+13.2722 ≤ µ ≤ 13.3948  media=13.3335   h=0.0613    std_error=0.0238    std_dev=0.7513
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = quick
+10.3899 ≤ µ ≤ 10.4991  media=10.4445   h=0.0546    std_error=0.0212    std_dev=0.6694
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 1000;  Alg = insertion
+18.5231 ≤ µ ≤ 18.6251  media=18.5741   h=0.0510    std_error=0.0198    std_dev=0.6256
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = bubble
+6.0260 ≤ µ ≤ 6.0574  media=6.0417   h=0.0157    std_error=0.0061    std_dev=0.1935
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = merge
+17.2503 ≤ µ ≤ 17.2997  media=17.2750   h=0.0247    std_error=0.0096    std_dev=0.3046
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = quick
+10.7714 ≤ µ ≤ 10.8122  media=10.7918   h=0.0204    std_error=0.0079    std_dev=0.2497
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.02;  Size = 10000;  Alg = insertion
+18.7803 ≤ µ ≤ 18.8271  media=18.8037   h=0.0234    std_error=0.0091    std_dev=0.2866
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.5776 ≤ µ ≤ 12.9404  media=12.7590   h=0.1814    std_error=0.0704    std_dev=2.2255
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = merge
+17.0806 ≤ µ ≤ 17.7174  media=17.3990   h=0.3184    std_error=0.1236    std_dev=3.9051
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8264 ≤ µ ≤ 17.3596  media=17.0930   h=0.2666    std_error=0.1035    std_dev=3.2721
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5544 ≤ µ ≤ 21.9156  media=21.7350   h=0.1806    std_error=0.0701    std_dev=2.2142
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = bubble
+11.6754 ≤ µ ≤ 11.7990  media=11.7372   h=0.0618    std_error=0.0240    std_dev=0.7599
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = merge
+24.4375 ≤ µ ≤ 24.5597  media=24.4986   h=0.0611    std_error=0.0237    std_dev=0.7487
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = quick
+18.8155 ≤ µ ≤ 18.9557  media=18.8856   h=0.0701    std_error=0.0272    std_dev=0.8596
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 1000;  Alg = insertion
+25.4892 ≤ µ ≤ 25.6134  media=25.5513   h=0.0621    std_error=0.0241    std_dev=0.7630
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = bubble
+11.7657 ≤ µ ≤ 11.8065  media=11.7861   h=0.0204    std_error=0.0079    std_dev=0.2490
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = merge
+28.3005 ≤ µ ≤ 28.3417  media=28.3211   h=0.0206    std_error=0.0080    std_dev=0.2541
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = quick
+19.4330 ≤ µ ≤ 19.4820  media=19.4575   h=0.0245    std_error=0.0095    std_dev=0.3010
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.05;  Size = 10000;  Alg = insertion
+25.5543 ≤ µ ≤ 25.6007  media=25.5775   h=0.0232    std_error=0.0090    std_dev=0.2839
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = bubble
+0.4508 ≤ µ ≤ 0.4662  media=0.4585   h=0.0077    std_error=0.0030    std_dev=0.1648
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = merge
+0.8123 ≤ µ ≤ 0.8339  media=0.8231   h=0.0108    std_error=0.0042    std_dev=0.2273
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = quick
+0.9238 ≤ µ ≤ 0.9536  media=0.9387   h=0.0149    std_error=0.0058    std_dev=0.3160
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.001;  Size = 1000;  Alg = insertion
+4.7211 ≤ µ ≤ 4.7701  media=4.7456   h=0.0245    std_error=0.0095    std_dev=0.5182
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+0.0536 ≤ µ ≤ 0.0556  media=0.0546   h=0.0010    std_error=0.0004    std_dev=0.0232
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = merge
+0.1063 ≤ µ ≤ 0.1099  media=0.1081   h=0.0018    std_error=0.0007    std_dev=0.0365
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = quick
+0.1381 ≤ µ ≤ 0.1417  media=0.1399   h=0.0018    std_error=0.0007    std_dev=0.0393
+
+percentual_k_unordered
+Coef. Confiança = 0.99;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+1.7893 ≤ µ ≤ 1.8007  media=1.7950   h=0.0057    std_error=0.0022    std_dev=0.1200
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.98
+=============================================================================
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.4983 ≤ µ ≤ 2.6997  media=2.5990   h=0.1007    std_error=0.0433    std_dev=1.3683
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1180 ≤ µ ≤ 3.3460  media=3.2320   h=0.1140    std_error=0.0490    std_dev=1.5480
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3046 ≤ µ ≤ 5.5614  media=5.4330   h=0.1284    std_error=0.0552    std_dev=1.7440
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.2654 ≤ µ ≤ 11.7046  media=11.4850   h=0.2196    std_error=0.0944    std_dev=2.9853
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = bubble
+3.7909 ≤ µ ≤ 3.8589  media=3.8249   h=0.0340    std_error=0.0146    std_dev=0.4620
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = merge
+7.2422 ≤ µ ≤ 7.3194  media=7.2808   h=0.0386    std_error=0.0166    std_dev=0.5258
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.3045 ≤ µ ≤ 6.3845  media=6.3445   h=0.0400    std_error=0.0172    std_dev=0.5435
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 1000;  Alg = insertion
+14.4354 ≤ µ ≤ 14.5368  media=14.4861   h=0.0507    std_error=0.0218    std_dev=0.6904
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = bubble
+3.4663 ≤ µ ≤ 3.4877  media=3.4770   h=0.0107    std_error=0.0046    std_dev=0.1451
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = merge
+9.9541 ≤ µ ≤ 9.9997  media=9.9769   h=0.0228    std_error=0.0098    std_dev=0.3108
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = quick
+6.5601 ≤ µ ≤ 6.5945  media=6.5773   h=0.0172    std_error=0.0074    std_dev=0.2342
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.01;  Size = 10000;  Alg = insertion
+14.4309 ≤ µ ≤ 14.4733  media=14.4521   h=0.0212    std_error=0.0091    std_dev=0.2863
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8247 ≤ µ ≤ 4.0493  media=3.9370   h=0.1123    std_error=0.0483    std_dev=1.5274
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4672 ≤ µ ≤ 7.8748  media=7.6710   h=0.2038    std_error=0.0876    std_dev=2.7682
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3229 ≤ µ ≤ 9.5471  media=9.4350   h=0.1121    std_error=0.0482    std_dev=1.5224
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4552 ≤ µ ≤ 14.7808  media=14.6180   h=0.1628    std_error=0.0700    std_dev=2.2132
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = bubble
+6.1394 ≤ µ ≤ 6.2204  media=6.1799   h=0.0405    std_error=0.0174    std_dev=0.5495
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = merge
+13.2781 ≤ µ ≤ 13.3889  media=13.3335   h=0.0554    std_error=0.0238    std_dev=0.7513
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = quick
+10.3952 ≤ µ ≤ 10.4938  media=10.4445   h=0.0493    std_error=0.0212    std_dev=0.6694
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 1000;  Alg = insertion
+18.5280 ≤ µ ≤ 18.6202  media=18.5741   h=0.0461    std_error=0.0198    std_dev=0.6256
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = bubble
+6.0275 ≤ µ ≤ 6.0559  media=6.0417   h=0.0142    std_error=0.0061    std_dev=0.1935
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = merge
+17.2527 ≤ µ ≤ 17.2973  media=17.2750   h=0.0223    std_error=0.0096    std_dev=0.3046
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = quick
+10.7734 ≤ µ ≤ 10.8102  media=10.7918   h=0.0184    std_error=0.0079    std_dev=0.2497
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.02;  Size = 10000;  Alg = insertion
+18.7825 ≤ µ ≤ 18.8249  media=18.8037   h=0.0212    std_error=0.0091    std_dev=0.2866
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.5952 ≤ µ ≤ 12.9228  media=12.7590   h=0.1638    std_error=0.0704    std_dev=2.2255
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1115 ≤ µ ≤ 17.6865  media=17.3990   h=0.2875    std_error=0.1236    std_dev=3.9051
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8523 ≤ µ ≤ 17.3337  media=17.0930   h=0.2407    std_error=0.1035    std_dev=3.2721
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5719 ≤ µ ≤ 21.8981  media=21.7350   h=0.1631    std_error=0.0701    std_dev=2.2142
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = bubble
+11.6814 ≤ µ ≤ 11.7930  media=11.7372   h=0.0558    std_error=0.0240    std_dev=0.7599
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = merge
+24.4435 ≤ µ ≤ 24.5537  media=24.4986   h=0.0551    std_error=0.0237    std_dev=0.7487
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = quick
+18.8223 ≤ µ ≤ 18.9489  media=18.8856   h=0.0633    std_error=0.0272    std_dev=0.8596
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 1000;  Alg = insertion
+25.4952 ≤ µ ≤ 25.6074  media=25.5513   h=0.0561    std_error=0.0241    std_dev=0.7630
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = bubble
+11.7677 ≤ µ ≤ 11.8045  media=11.7861   h=0.0184    std_error=0.0079    std_dev=0.2490
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = merge
+28.3025 ≤ µ ≤ 28.3397  media=28.3211   h=0.0186    std_error=0.0080    std_dev=0.2541
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = quick
+19.4354 ≤ µ ≤ 19.4796  media=19.4575   h=0.0221    std_error=0.0095    std_dev=0.3010
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.05;  Size = 10000;  Alg = insertion
+25.5566 ≤ µ ≤ 25.5984  media=25.5775   h=0.0209    std_error=0.0090    std_dev=0.2839
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = bubble
+0.4515 ≤ µ ≤ 0.4655  media=0.4585   h=0.0070    std_error=0.0030    std_dev=0.1648
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = merge
+0.8133 ≤ µ ≤ 0.8329  media=0.8231   h=0.0098    std_error=0.0042    std_dev=0.2273
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = quick
+0.9252 ≤ µ ≤ 0.9522  media=0.9387   h=0.0135    std_error=0.0058    std_dev=0.3160
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.001;  Size = 1000;  Alg = insertion
+4.7235 ≤ µ ≤ 4.7677  media=4.7456   h=0.0221    std_error=0.0095    std_dev=0.5182
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+0.0537 ≤ µ ≤ 0.0555  media=0.0546   h=0.0009    std_error=0.0004    std_dev=0.0232
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = merge
+0.1065 ≤ µ ≤ 0.1097  media=0.1081   h=0.0016    std_error=0.0007    std_dev=0.0365
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = quick
+0.1383 ≤ µ ≤ 0.1415  media=0.1399   h=0.0016    std_error=0.0007    std_dev=0.0393
+
+percentual_k_unordered
+Coef. Confiança = 0.98;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+1.7899 ≤ µ ≤ 1.8001  media=1.7950   h=0.0051    std_error=0.0022    std_dev=0.1200
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.95
+=============================================================================
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.5141 ≤ µ ≤ 2.6839  media=2.5990   h=0.0849    std_error=0.0433    std_dev=1.3683
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1360 ≤ µ ≤ 3.3280  media=3.2320   h=0.0960    std_error=0.0490    std_dev=1.5480
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3248 ≤ µ ≤ 5.5412  media=5.4330   h=0.1082    std_error=0.0552    std_dev=1.7440
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.3000 ≤ µ ≤ 11.6700  media=11.4850   h=0.1850    std_error=0.0944    std_dev=2.9853
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = bubble
+3.7963 ≤ µ ≤ 3.8535  media=3.8249   h=0.0286    std_error=0.0146    std_dev=0.4620
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = merge
+7.2483 ≤ µ ≤ 7.3133  media=7.2808   h=0.0325    std_error=0.0166    std_dev=0.5258
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.3108 ≤ µ ≤ 6.3782  media=6.3445   h=0.0337    std_error=0.0172    std_dev=0.5435
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 1000;  Alg = insertion
+14.4434 ≤ µ ≤ 14.5288  media=14.4861   h=0.0427    std_error=0.0218    std_dev=0.6904
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = bubble
+3.4680 ≤ µ ≤ 3.4860  media=3.4770   h=0.0090    std_error=0.0046    std_dev=0.1451
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = merge
+9.9577 ≤ µ ≤ 9.9961  media=9.9769   h=0.0192    std_error=0.0098    std_dev=0.3108
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = quick
+6.5628 ≤ µ ≤ 6.5918  media=6.5773   h=0.0145    std_error=0.0074    std_dev=0.2342
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.01;  Size = 10000;  Alg = insertion
+14.4343 ≤ µ ≤ 14.4699  media=14.4521   h=0.0178    std_error=0.0091    std_dev=0.2863
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8423 ≤ µ ≤ 4.0317  media=3.9370   h=0.0947    std_error=0.0483    std_dev=1.5274
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = merge
+7.4993 ≤ µ ≤ 7.8427  media=7.6710   h=0.1717    std_error=0.0876    std_dev=2.7682
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3405 ≤ µ ≤ 9.5295  media=9.4350   h=0.0945    std_error=0.0482    std_dev=1.5224
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.4808 ≤ µ ≤ 14.7552  media=14.6180   h=0.1372    std_error=0.0700    std_dev=2.2132
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = bubble
+6.1458 ≤ µ ≤ 6.2140  media=6.1799   h=0.0341    std_error=0.0174    std_dev=0.5495
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = merge
+13.2869 ≤ µ ≤ 13.3801  media=13.3335   h=0.0466    std_error=0.0238    std_dev=0.7513
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = quick
+10.4029 ≤ µ ≤ 10.4861  media=10.4445   h=0.0416    std_error=0.0212    std_dev=0.6694
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 1000;  Alg = insertion
+18.5353 ≤ µ ≤ 18.6129  media=18.5741   h=0.0388    std_error=0.0198    std_dev=0.6256
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = bubble
+6.0297 ≤ µ ≤ 6.0537  media=6.0417   h=0.0120    std_error=0.0061    std_dev=0.1935
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = merge
+17.2562 ≤ µ ≤ 17.2938  media=17.2750   h=0.0188    std_error=0.0096    std_dev=0.3046
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = quick
+10.7763 ≤ µ ≤ 10.8073  media=10.7918   h=0.0155    std_error=0.0079    std_dev=0.2497
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.02;  Size = 10000;  Alg = insertion
+18.7859 ≤ µ ≤ 18.8215  media=18.8037   h=0.0178    std_error=0.0091    std_dev=0.2866
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.6210 ≤ µ ≤ 12.8970  media=12.7590   h=0.1380    std_error=0.0704    std_dev=2.2255
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1567 ≤ µ ≤ 17.6413  media=17.3990   h=0.2423    std_error=0.1236    std_dev=3.9051
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = quick
+16.8901 ≤ µ ≤ 17.2959  media=17.0930   h=0.2029    std_error=0.1035    std_dev=3.2721
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.5976 ≤ µ ≤ 21.8724  media=21.7350   h=0.1374    std_error=0.0701    std_dev=2.2142
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = bubble
+11.6902 ≤ µ ≤ 11.7842  media=11.7372   h=0.0470    std_error=0.0240    std_dev=0.7599
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = merge
+24.4521 ≤ µ ≤ 24.5451  media=24.4986   h=0.0465    std_error=0.0237    std_dev=0.7487
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = quick
+18.8323 ≤ µ ≤ 18.9389  media=18.8856   h=0.0533    std_error=0.0272    std_dev=0.8596
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 1000;  Alg = insertion
+25.5041 ≤ µ ≤ 25.5985  media=25.5513   h=0.0472    std_error=0.0241    std_dev=0.7630
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = bubble
+11.7706 ≤ µ ≤ 11.8016  media=11.7861   h=0.0155    std_error=0.0079    std_dev=0.2490
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = merge
+28.3054 ≤ µ ≤ 28.3368  media=28.3211   h=0.0157    std_error=0.0080    std_dev=0.2541
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = quick
+19.4389 ≤ µ ≤ 19.4761  media=19.4575   h=0.0186    std_error=0.0095    std_dev=0.3010
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.05;  Size = 10000;  Alg = insertion
+25.5599 ≤ µ ≤ 25.5951  media=25.5775   h=0.0176    std_error=0.0090    std_dev=0.2839
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = bubble
+0.4526 ≤ µ ≤ 0.4644  media=0.4585   h=0.0059    std_error=0.0030    std_dev=0.1648
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = merge
+0.8149 ≤ µ ≤ 0.8313  media=0.8231   h=0.0082    std_error=0.0042    std_dev=0.2273
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = quick
+0.9273 ≤ µ ≤ 0.9501  media=0.9387   h=0.0114    std_error=0.0058    std_dev=0.3160
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.001;  Size = 1000;  Alg = insertion
+4.7270 ≤ µ ≤ 4.7642  media=4.7456   h=0.0186    std_error=0.0095    std_dev=0.5182
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+0.0538 ≤ µ ≤ 0.0554  media=0.0546   h=0.0008    std_error=0.0004    std_dev=0.0232
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = merge
+0.1067 ≤ µ ≤ 0.1095  media=0.1081   h=0.0014    std_error=0.0007    std_dev=0.0365
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = quick
+0.1385 ≤ µ ≤ 0.1413  media=0.1399   h=0.0014    std_error=0.0007    std_dev=0.0393
+
+percentual_k_unordered
+Coef. Confiança = 0.95;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+1.7907 ≤ µ ≤ 1.7993  media=1.7950   h=0.0043    std_error=0.0022    std_dev=0.1200
+
+
+
+=============================================================================
+Coeficiente de Confiança = 0.9
+=============================================================================
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = bubble
+2.5278 ≤ µ ≤ 2.6702  media=2.5990   h=0.0712    std_error=0.0433    std_dev=1.3683
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = merge
+3.1514 ≤ µ ≤ 3.3126  media=3.2320   h=0.0806    std_error=0.0490    std_dev=1.5480
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = quick
+5.3422 ≤ µ ≤ 5.5238  media=5.4330   h=0.0908    std_error=0.0552    std_dev=1.7440
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 100;  Alg = insertion
+11.3297 ≤ µ ≤ 11.6403  media=11.4850   h=0.1553    std_error=0.0944    std_dev=2.9853
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = bubble
+3.8009 ≤ µ ≤ 3.8489  media=3.8249   h=0.0240    std_error=0.0146    std_dev=0.4620
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = merge
+7.2535 ≤ µ ≤ 7.3081  media=7.2808   h=0.0273    std_error=0.0166    std_dev=0.5258
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = quick
+6.3162 ≤ µ ≤ 6.3728  media=6.3445   h=0.0283    std_error=0.0172    std_dev=0.5435
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 1000;  Alg = insertion
+14.4502 ≤ µ ≤ 14.5220  media=14.4861   h=0.0359    std_error=0.0218    std_dev=0.6904
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = bubble
+3.4694 ≤ µ ≤ 3.4846  media=3.4770   h=0.0076    std_error=0.0046    std_dev=0.1451
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = merge
+9.9608 ≤ µ ≤ 9.9930  media=9.9769   h=0.0161    std_error=0.0098    std_dev=0.3108
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = quick
+6.5651 ≤ µ ≤ 6.5895  media=6.5773   h=0.0122    std_error=0.0074    std_dev=0.2342
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.01;  Size = 10000;  Alg = insertion
+14.4371 ≤ µ ≤ 14.4671  media=14.4521   h=0.0150    std_error=0.0091    std_dev=0.2863
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = bubble
+3.8575 ≤ µ ≤ 4.0165  media=3.9370   h=0.0795    std_error=0.0483    std_dev=1.5274
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = merge
+7.5269 ≤ µ ≤ 7.8151  media=7.6710   h=0.1441    std_error=0.0876    std_dev=2.7682
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = quick
+9.3557 ≤ µ ≤ 9.5143  media=9.4350   h=0.0793    std_error=0.0482    std_dev=1.5224
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 100;  Alg = insertion
+14.5028 ≤ µ ≤ 14.7332  media=14.6180   h=0.1152    std_error=0.0700    std_dev=2.2132
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = bubble
+6.1513 ≤ µ ≤ 6.2085  media=6.1799   h=0.0286    std_error=0.0174    std_dev=0.5495
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = merge
+13.2943 ≤ µ ≤ 13.3727  media=13.3335   h=0.0392    std_error=0.0238    std_dev=0.7513
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = quick
+10.4096 ≤ µ ≤ 10.4794  media=10.4445   h=0.0349    std_error=0.0212    std_dev=0.6694
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 1000;  Alg = insertion
+18.5415 ≤ µ ≤ 18.6067  media=18.5741   h=0.0326    std_error=0.0198    std_dev=0.6256
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = bubble
+6.0317 ≤ µ ≤ 6.0517  media=6.0417   h=0.0100    std_error=0.0061    std_dev=0.1935
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = merge
+17.2592 ≤ µ ≤ 17.2908  media=17.2750   h=0.0158    std_error=0.0096    std_dev=0.3046
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = quick
+10.7788 ≤ µ ≤ 10.8048  media=10.7918   h=0.0130    std_error=0.0079    std_dev=0.2497
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.02;  Size = 10000;  Alg = insertion
+18.7887 ≤ µ ≤ 18.8187  media=18.8037   h=0.0150    std_error=0.0091    std_dev=0.2866
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = bubble
+12.6432 ≤ µ ≤ 12.8748  media=12.7590   h=0.1158    std_error=0.0704    std_dev=2.2255
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = merge
+17.1957 ≤ µ ≤ 17.6023  media=17.3990   h=0.2033    std_error=0.1236    std_dev=3.9051
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = quick
+16.9227 ≤ µ ≤ 17.2633  media=17.0930   h=0.1703    std_error=0.1035    std_dev=3.2721
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 100;  Alg = insertion
+21.6197 ≤ µ ≤ 21.8503  media=21.7350   h=0.1153    std_error=0.0701    std_dev=2.2142
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = bubble
+11.6977 ≤ µ ≤ 11.7767  media=11.7372   h=0.0395    std_error=0.0240    std_dev=0.7599
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = merge
+24.4596 ≤ µ ≤ 24.5376  media=24.4986   h=0.0390    std_error=0.0237    std_dev=0.7487
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = quick
+18.8409 ≤ µ ≤ 18.9303  media=18.8856   h=0.0447    std_error=0.0272    std_dev=0.8596
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 1000;  Alg = insertion
+25.5117 ≤ µ ≤ 25.5909  media=25.5513   h=0.0396    std_error=0.0241    std_dev=0.7630
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = bubble
+11.7731 ≤ µ ≤ 11.7991  media=11.7861   h=0.0130    std_error=0.0079    std_dev=0.2490
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = merge
+28.3079 ≤ µ ≤ 28.3343  media=28.3211   h=0.0132    std_error=0.0080    std_dev=0.2541
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = quick
+19.4419 ≤ µ ≤ 19.4731  media=19.4575   h=0.0156    std_error=0.0095    std_dev=0.3010
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.05;  Size = 10000;  Alg = insertion
+25.5627 ≤ µ ≤ 25.5923  media=25.5775   h=0.0148    std_error=0.0090    std_dev=0.2839
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = bubble
+0.4536 ≤ µ ≤ 0.4634  media=0.4585   h=0.0049    std_error=0.0030    std_dev=0.1648
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = merge
+0.8162 ≤ µ ≤ 0.8300  media=0.8231   h=0.0069    std_error=0.0042    std_dev=0.2273
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = quick
+0.9292 ≤ µ ≤ 0.9482  media=0.9387   h=0.0095    std_error=0.0058    std_dev=0.3160
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.001;  Size = 1000;  Alg = insertion
+4.7300 ≤ µ ≤ 4.7612  media=4.7456   h=0.0156    std_error=0.0095    std_dev=0.5182
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = bubble
+0.0539 ≤ µ ≤ 0.0553  media=0.0546   h=0.0007    std_error=0.0004    std_dev=0.0232
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = merge
+0.1069 ≤ µ ≤ 0.1093  media=0.1081   h=0.0012    std_error=0.0007    std_dev=0.0365
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = quick
+0.1387 ≤ µ ≤ 0.1411  media=0.1399   h=0.0012    std_error=0.0007    std_dev=0.0393
+
+percentual_k_unordered
+Coef. Confiança = 0.9;  Prob = 0.0001;  Size = 10000;  Alg = insertion
+1.7914 ≤ µ ≤ 1.7986  media=1.7950   h=0.0036    std_error=0.0022    std_dev=0.1200
+
+
+
