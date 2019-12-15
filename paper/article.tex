@@ -1,8 +1,11 @@
 \documentclass[11pt,conference,onecolumn]{IEEEtran}
 \IEEEoverridecommandlockouts
 % The preceding line is only needed to identify funding in the first footnote. If that is unneeded, please comment it out.
-\usepackage{cite}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{amsthm}
 \usepackage{amsmath,amssymb,amsfonts}
+\usepackage{cite}
 \usepackage{algorithmic}
 \usepackage{multirow}
 \usepackage{graphicx}
@@ -10,6 +13,16 @@
 \usepackage{xcolor}
 \usepackage{setspace}
 \usepackage{verbatimbox}
+\usepackage{thmtools}
+\usepackage{float}
+
+\declaretheoremstyle[spaceabove=6pt, spacebelow=6pt,headfont=\normalfont\bfseries,notefont=\mdseries, notebraces={(}{)},bodyfont=\normalfont,postheadspace=0.6em,
+headpunct=:]{mystyle}
+\declaretheorem[style=mystyle, name=Hypothesis, preheadhook={\renewcommand{\thehyp}{H\textsubscript{\arabic{hyp}}}}]{hyp}
+
+\usepackage{cleveref}
+\crefname{hyp}{hypothesis}{hypotheses}
+\Crefname{hyp}{Hypothesis}{Hypotheses}
 
 \def\BibTeX{{\rm B\kern-.05em{\sc i\kern-.025em b}\kern-.08em
     T\kern-.1667em\lower.7ex\hbox{E}\kern-.125emX}}

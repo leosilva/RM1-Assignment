@@ -4,7 +4,7 @@ data-002/
 data-005/
 
 # General macOS
-.DS_Store
+**/.DS_Store
 .AppleDouble
 .LSOverride
 
