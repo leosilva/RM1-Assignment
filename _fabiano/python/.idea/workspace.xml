@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_Estatistica_Calculos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Estatisticas/_Estatistica_Calculos.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_desordenados.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_maior_array.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_percentual_desordenados.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_percentual_maior_array.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-Medias_por_algoritmo_e_prob_erro.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-Medias_por_algoritmo_e_prob_erro.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.0001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.0001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.01.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.02.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.05.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/teste-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/teste-1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util_graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_graficos.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +21,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>groupb</find>
-    </findStrings>
-    <dirStrings>
-      <dir>$PROJECT_DIR$</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -54,7 +44,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.02-Medias_por_algoritmo_e_prob_erro">
+  <component name="RunManager" selected="Python.06-confidence_intervals_distrib-T">
     <configuration name="02-Medias_por_algoritmo_e_prob_erro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-Medias_por_algoritmo_e_prob_erro_juntando_todos_tamanhos" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="05-confidence_intervals_distrib-Z" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -88,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03-Medias_por_algoritmo_e_prob_erro_juntando_todos_tamanhos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05-confidence_intervals_distrib-Z.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="06-confidence_intervals_distrib-T" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06-confidence_intervals_distrib-T.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste-5-distribuicao_das_medidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-5-distribuicao_das_medidas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste-4-correlacao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="teste-6-confidence_intervals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-4-correlacao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-6-confidence_intervals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,19 +151,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.teste-3" />
-      <item itemvalue="Python.teste-4-correlacao" />
-      <item itemvalue="Python.03-Medias_por_algoritmo_e_prob_erro_juntando_todos_tamanhos" />
-      <item itemvalue="Python.teste-1" />
       <item itemvalue="Python.02-Medias_por_algoritmo_e_prob_erro" />
+      <item itemvalue="Python.teste-5-distribuicao_das_medidas" />
+      <item itemvalue="Python.teste-6-confidence_intervals" />
+      <item itemvalue="Python.05-confidence_intervals_distrib-Z" />
+      <item itemvalue="Python.06-confidence_intervals_distrib-T" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.06-confidence_intervals_distrib-T" />
+        <item itemvalue="Python.05-confidence_intervals_distrib-Z" />
+        <item itemvalue="Python.teste-6-confidence_intervals" />
+        <item itemvalue="Python.teste-5-distribuicao_das_medidas" />
         <item itemvalue="Python.02-Medias_por_algoritmo_e_prob_erro" />
-        <item itemvalue="Python.03-Medias_por_algoritmo_e_prob_erro_juntando_todos_tamanhos" />
-        <item itemvalue="Python.teste-1" />
-        <item itemvalue="Python.teste-4-correlacao" />
-        <item itemvalue="Python.teste-3" />
       </list>
     </recent_temporary>
   </component>
@@ -203,33 +193,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="318" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1576264441302">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="318" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576264441302" />
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576002598338">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576002598338" />
-    <state width="1419" height="166" key="GridCell.Tab.0.bottom" timestamp="1576184809398">
+    <state width="1419" height="166" key="GridCell.Tab.0.bottom" timestamp="1576440768793">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742002" />
-    <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576184809398" />
-    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576019401866" />
-    <state width="1419" height="166" key="GridCell.Tab.0.center" timestamp="1576184809397">
+    <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557754" />
+    <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576440768793" />
+    <state width="1419" height="166" key="GridCell.Tab.0.center" timestamp="1576440768791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742001" />
-    <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576184809397" />
-    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576019401864" />
-    <state width="1419" height="166" key="GridCell.Tab.0.left" timestamp="1576184809396">
+    <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557753" />
+    <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576440768791" />
+    <state width="1419" height="166" key="GridCell.Tab.0.left" timestamp="1576440768791">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742000" />
-    <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576184809396" />
-    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576019401864" />
-    <state width="1419" height="166" key="GridCell.Tab.0.right" timestamp="1576184809397">
+    <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557752" />
+    <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576440768791" />
+    <state width="1419" height="166" key="GridCell.Tab.0.right" timestamp="1576440768792">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742001" />
-    <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576184809397" />
-    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576019401865" />
+    <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557753" />
+    <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576440768792" />
+    <state x="375" y="219" width="995" height="462" key="find.popup" timestamp="1576266143096">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="375" y="219" width="995" height="462" key="find.popup/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266143096" />
   </component>
 </project>

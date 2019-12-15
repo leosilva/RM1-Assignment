@@ -1,0 +1,55 @@
+Para O algoritmo BUBBLE, calcular o [intervalo de confiança] para um grau de confiança de 99%: 
+
+      alfa  = 0.01 -> [nível de significância] (onde alfa é um número entre 0 e 1)
+   (1-alfa) = 0.99 -> [coeficiente de confiança]
+                      [grau de confiança de 99%]
+
+1) Da "% Desornados" para os parâmetros:
+	- probab. de erro  = 0.05
+	- tamanho do array = 100
+	- algoritmo        = BUBBLE
+
+	Dados amostrais: 
+	- média         = 12.76
+	- desvio padrão = 2.23 
+	- sigma/√n      = 0.0705 (erro amostral) (sigma/x_barra) (standard error of the mean - sem)
+
+	para (1-alfa) de 99%, temos k = 2.576  (+k e -k são os limites da área de 99% do gráfico)
+
+	então, µ +/- k•sig/√n => 12.76 +/- 2.576 • 0.0705 => 12.76 +/- 0.1816 
+
+	logo, o intervalo de confiança para 99% -> 12.58 ≤ µ ≤ 12.94
+
+	Com isso, estamos 99% certos de que a "% Desornados" média 
+	da população está contida no intervalo de [12.58; 12.94] 
+	para prob. 0.05, tamanho 100 e algoritmo BUBBLE
+
+
+2) Da "% Maior Array" para os parâmetros:
+	- probab. de erro  = 0.05
+	- tamanho do array =  100
+	- algoritmo        = BUBBLE
+
+	Dados amostrais: 
+	- média         = 29.14
+	- desvio padrão =  8.75
+	- sigma/√n      =  0.2767 (erro amostral) (sigma/x_barra) (standard error of the mean - sem)
+
+	para (1-alfa) de 99%, temos k = 2.576  (+k e -k são os limites da área de 99% do gráfico)
+
+	então, µ +/- k•sig/√n => 29.14 +/- 2.576 • 0.2767 => 29.14 +/- 0.7127 
+
+	logo, o intervalo de confiança para 99% -> 28.43 ≤ µ ≤ 29.85
+
+	Com isso, estamos 99% certos de que a "% Maior Array" média 
+	da população está contida no intervalo de [28.43; 29.85] 
+	para prob. 0.05, tamanho 100 e algoritmo BUBBLE
+
+
+
+* OBSERVAÇÃO: segundo o Teorema do Limite Central, para esse grau de confiança (99%) 
+              o número mínimo de amostras é 508. (nós usamos 1000 amostras)
+
+
+
+ 
