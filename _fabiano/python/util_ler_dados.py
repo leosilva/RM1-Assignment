@@ -18,6 +18,13 @@ TAMANHOS = [100, 1000, 10000]
 
 ALGORTIMOS = ['bubble', 'merge', 'quick', 'insertion']
 
+COLUNAS_DEPENDENTES = ['largest_sorted_subarray','percentual_maior_array','k_unordered_sequence','percentual_k_unordered']
+
+COLUNA_MAIOR_ARRAY = COLUNAS_DEPENDENTES[0]
+COLUNA_MAIOR_ARRAY_PERCENTUAL = COLUNAS_DEPENDENTES[1]
+COLUNA_DESORDENADOS = COLUNAS_DEPENDENTES[2]
+COLUNA_DESORDENADOS_PERCENTUAL = COLUNAS_DEPENDENTES[3]
+
 def obterDados(probs = [0.01, 0.02, 0.05, 0.001, 0.0001], sizes=[100, 1000, 10000]):
     pasta_origem = '../data/data_grouped'
     arq_metadata = open('%s/_metadata.csv' % (pasta_origem), 'w+')
@@ -49,6 +56,7 @@ def filtrarPorAlgoritmo(df, algoritmo):
 
 def filtrarPorTamanhoArray(df, tamanho):
     return df[df['size_of_array'] == tamanho]
+
 
 def obterEstatisticasPorTamanho_Algoritmo(df):
     df_means = df.groupby(['size_of_array', 'algoritmo']).mean()

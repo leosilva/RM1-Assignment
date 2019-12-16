@@ -8,6 +8,12 @@ import numpy as np
 import pandas as pd
 
 import seaborn as sns
+from statsmodels.graphics.gofplots import qqplot
+
+
+def gerarQQPlot(ax, data, line='s'):
+    fig = qqplot(ax=ax, data=data, line=line)
+    return fig
 
 
 def gerarBarplot(ax, data, x, y, hue, title='', order=None, palette='Blues'):

@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_Estatistica_Calculos.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../02-Estatisticas/_Estatistica_Calculos.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_desordenados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_maior_array.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_percentual_desordenados.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../02-Estatisticas/_confidence_intervals_percentual_maior_array.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util_graficos.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_graficos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util_ler_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_ler_dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +31,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$2/Languages" value="Python" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -44,28 +41,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.06-confidence_intervals_distrib-T">
-    <configuration name="02-Medias_por_algoritmo_e_prob_erro" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-Medias_por_algoritmo_e_prob_erro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Teste-7-anova">
     <configuration name="05-confidence_intervals_distrib-Z" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="teste-5-distribuicao_das_medidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Teste-7-anova" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +96,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste-5-distribuicao_das_medidas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teste-7-anova.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lixo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lixo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,19 +148,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.02-Medias_por_algoritmo_e_prob_erro" />
-      <item itemvalue="Python.teste-5-distribuicao_das_medidas" />
       <item itemvalue="Python.teste-6-confidence_intervals" />
       <item itemvalue="Python.05-confidence_intervals_distrib-Z" />
       <item itemvalue="Python.06-confidence_intervals_distrib-T" />
+      <item itemvalue="Python.Teste-7-anova" />
+      <item itemvalue="Python.lixo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Teste-7-anova" />
+        <item itemvalue="Python.lixo" />
         <item itemvalue="Python.06-confidence_intervals_distrib-T" />
         <item itemvalue="Python.05-confidence_intervals_distrib-Z" />
         <item itemvalue="Python.teste-6-confidence_intervals" />
-        <item itemvalue="Python.teste-5-distribuicao_das_medidas" />
-        <item itemvalue="Python.02-Medias_por_algoritmo_e_prob_erro" />
       </list>
     </recent_temporary>
   </component>
@@ -201,33 +198,37 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576002598338" />
-    <state width="1419" height="166" key="GridCell.Tab.0.bottom" timestamp="1576440768793">
+    <state width="1419" height="314" key="GridCell.Tab.0.bottom" timestamp="1576528229713">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742002" />
-    <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557754" />
+    <state width="1419" height="314" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576528229713" />
     <state width="1419" height="166" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576440768793" />
-    <state width="1419" height="166" key="GridCell.Tab.0.center" timestamp="1576440768791">
+    <state width="1419" height="314" key="GridCell.Tab.0.center" timestamp="1576528229711">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742001" />
-    <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557753" />
+    <state width="1419" height="314" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576528229711" />
     <state width="1419" height="166" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576440768791" />
-    <state width="1419" height="166" key="GridCell.Tab.0.left" timestamp="1576440768791">
+    <state width="1419" height="314" key="GridCell.Tab.0.left" timestamp="1576528229710">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742000" />
-    <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557752" />
+    <state width="1419" height="314" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576528229710" />
     <state width="1419" height="166" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576440768791" />
-    <state width="1419" height="166" key="GridCell.Tab.0.right" timestamp="1576440768792">
+    <state width="1419" height="314" key="GridCell.Tab.0.right" timestamp="1576528229712">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576184742001" />
-    <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266557753" />
+    <state width="1419" height="314" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576528229712" />
     <state width="1419" height="166" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576440768792" />
     <state x="375" y="219" width="995" height="462" key="find.popup" timestamp="1576266143096">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="375" y="219" width="995" height="462" key="find.popup/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576266143096" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576521493678">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576521493678" />
   </component>
 </project>
