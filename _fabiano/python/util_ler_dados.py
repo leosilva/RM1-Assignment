@@ -25,24 +25,31 @@ COLUNA_MAIOR_ARRAY_PERCENTUAL = COLUNAS_DEPENDENTES[1]
 COLUNA_DESORDENADOS = COLUNAS_DEPENDENTES[2]
 COLUNA_DESORDENADOS_PERCENTUAL = COLUNAS_DEPENDENTES[3]
 
-def obterDados(probs = [0.01, 0.02, 0.05, 0.001, 0.0001], sizes=[100, 1000, 10000]):
-    pasta_origem = '../data/data_grouped'
-    arq_metadata = open('%s/_metadata.csv' % (pasta_origem), 'w+')
-
-    df_tudo = pd.DataFrame()
-
-    for prob in probs:
-        for size in sizes:
-            filtro_arq = '%s_%s_' % (prob, size)
-
-            arqs_in = os.listdir(pasta_origem)
-            for f in arqs_in:
-                if (f.startswith(filtro_arq)):
-                    # print(filtro_arq)
-                    csv = os.path.join(pasta_origem, f)
-                    df_tudo = df_tudo.append( pd.read_csv(delimiter=';', filepath_or_buffer=csv) )
-
+def obterDados2():
+    csv = 'data-csv-2/dados_extraidos-2.csv'
+    df_tudo = pd.read_csv(delimiter=';', filepath_or_buffer=csv)
     return df_tudo
+
+def obterDados():
+    csv = 'data-csv/dados_extraidos.csv'
+    df_tudo = pd.read_csv(delimiter=';', filepath_or_buffer=csv)
+    return df_tudo
+
+    # pasta_origem = 'data-csv'
+    # df_tudo = pd.DataFrame()
+    #
+    # for prob in probs:
+    #     for size in sizes:
+    #         filtro_arq = '%s_%s_' % (prob, size)
+    #
+    #         arqs_in = os.listdir(pasta_origem)
+    #         for f in arqs_in:
+    #             if (f.startswith(filtro_arq)):
+    #                 # print(filtro_arq)
+    #                 csv = os.path.join(pasta_origem, f)
+    #                 df_tudo = df_tudo.append( pd.read_csv(delimiter=';', filepath_or_buffer=csv) )
+    #
+    # return df_tudo
 
 
 def filtrarPorProbabilidadeErro(df, prob):

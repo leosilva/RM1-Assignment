@@ -1,0 +1,52 @@
+LARGEST_SORTED_SUBARRAY
+=======================
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -----------------------------------
+        - BUBBLE   : W = 0.808788 / p_value = 0.000095
+        - INSERTION: W = 0.956352 / p_value = 0.249223
+        - MERGE    : W = 0.754044 / p_value = 0.000011
+        - QUICK    : W = 0.982085 / p_value = 0.877857
+
+    * ANOVA:
+      -----
+        - f_statistic = 176.890765855863975 / p_value = 0.000000000000000
+
+PERCENTUAL_MAIOR_ARRAY
+======================
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -----------------------------------
+        - BUBBLE   : W = 0.808788 / p_value = 0.000095
+        - INSERTION: W = 0.956352 / p_value = 0.249218
+        - MERGE    : W = 0.754044 / p_value = 0.000011
+        - QUICK    : W = 0.982084 / p_value = 0.877852
+
+    * ANOVA:
+      -----
+        - f_statistic = 176.890765855863606 / p_value = 0.000000000000000
+
+K_UNORDERED_SEQUENCE
+====================
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -----------------------------------
+        - BUBBLE   : W = 0.959276 / p_value = 0.296810
+        - INSERTION: W = 0.953426 / p_value = 0.208652
+        - MERGE    : W = 0.985520 / p_value = 0.945706
+        - QUICK    : W = 0.981050 / p_value = 0.852743
+
+    * ANOVA:
+      -----
+        - f_statistic = 1817.615579213668980 / p_value = 0.000000000000000
+
+PERCENTUAL_K_UNORDERED
+======================
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -----------------------------------
+        - BUBBLE   : W = 0.959276 / p_value = 0.296810
+        - INSERTION: W = 0.953426 / p_value = 0.208647
+        - MERGE    : W = 0.985520 / p_value = 0.945706
+        - QUICK    : W = 0.981051 / p_value = 0.852753
+
+    * ANOVA:
+      -----
+        - f_statistic = 1817.615579213625097 / p_value = 0.000000000000000
+
