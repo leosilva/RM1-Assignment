@@ -4,17 +4,13 @@ We first state our problem, then describe our data, showing all its characterist
 
 \subsection{Problem Statement}
 
-As introduced in the first section of this paper, sorting is a fundamental concept and essential for solving other problems. The content of memory location can change unexpectedly, i.e., faults may happen at any time. Considering this, the main objective of this work is to design experiments to answer the following research question:
-
-\begin{itemize}
-    \item \textit{RQ1:} How are sorting algorithms affected by memory faults?
-\end{itemize}
+As introduced in the first section of this paper, sorting is a fundamental concept and essential for solving other problems. The content of memory location can change unexpectedly, i.e., faults may happen at any time. Considering this, the main objective of this work is to design experiments to answer the following question: \textit{How are sorting algorithms affected by memory faults?}
 
 \subsection{Variables}
 
 For this experimental study, we assume that the dependent and independent variables are as shown in Table \ref{table-variables} below:
 
-\begin{table}[htbp]
+\begin{table}[H]
     \caption{Dependent and independent variables.}
     \begin{center}
     \begin{tabular}{|c|c|}
@@ -62,16 +58,16 @@ The input file looks like follow:
 6 9 1 11 44 26 50 44 12 7 20 30 20 37 20 6 8 13 15 20 49
 \end{verbbox}
 
-\begin{figure}[hbtp]
+\begin{figure}[H]
     \centering
     \fbox{
     \theverbbox
     }
     \caption{Example of input file.}
-    \label{input-file-example}
+    \label{fig-input-file-example}
 \end{figure}
 
-The input data shown in the Figure \ref{input-file-example} is divided as follows:
+The input data shown in the Figure \ref{fig-input-file-example} is divided as follows:
 
 \begin{itemize}
     \item \textit{Probability of Failure}: the first number of the sequence (\texttt{0.01}) is the probability of memory failure when sorting;
@@ -140,7 +136,7 @@ For example, Input A showed in that table with its characteristics was executed 
     \end{center}
 \end{table}
 
-Each execution generates an output file. Then, we generate 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files. Figure \ref{output-file-example} shows an output file.
+Each execution generates an output file. Then, we generate 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files. Figure \ref{fig-output-file-example} shows an output file.
 
 \begin{verbbox}[\mbox{}]
 [1]  9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 34 1
@@ -164,7 +160,7 @@ Each execution generates an output file. Then, we generate 4000 outputs for each
     \theverbbox
     }
     \caption{Example of output file.}
-    \label{output-file-example}
+    \label{fig-output-file-example}
 \end{figure}
 
 The output file gives four essential data, as enumerated below:
@@ -177,9 +173,23 @@ The output file gives four essential data, as enumerated below:
 
 \subsection{Development}
 
-We develop Python scripts to generate input files and analyze our data. To be continued...
+We develop Python scripts to generate our dataset. First, we generate all input files through a given script called \textit{gen.py}. This script considers sequence size and the probability of failure to create a sequence of integers. Were produced nine input files like Figure \ref{fig-input-file-example}, combining the sequence size and probability of failure listed in Table \ref{table-input-data}.
+
+After that, we developed a script called \textit{main\_execution.py} that is responsible for creating output files based on the input files exposed before. At this time, for every input showed in Table \ref{table-input-data} we ran 1000 times to minimize any deviation on the quality of sorting indicator (line \textit{[4]} on Figure \ref{fig-output-file-example}).
+
+As said before, after the execution of this algorithm, 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files.
+
+To be continued...
 
 \subsection{Data Analysis}
+
+In this section, we describe our data and the statistic tests used to test the hypothesis showed before.
+
+\subsubsection{Exploratory Data Analysis (EDA)}
+
+Based on the output files generated before, we produce the ...
+
+
 
 \subsection{Conclusions}
 
