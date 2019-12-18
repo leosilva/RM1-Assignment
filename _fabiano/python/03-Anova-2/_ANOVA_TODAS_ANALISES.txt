@@ -1,0 +1,126 @@
+============================================================
+ ANOVA para Probabilidade = 0.01 e Tamanho = 100
+============================================================
+                sum_sq     df           F        PR(>F)
+algoritmo  1174.466667    3.0  171.368721  1.845762e-42
+Residual    265.000000  116.0         NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.934980 / p_value = 0.066676 
+        - merge    : W = 0.936667 / p_value = 0.073997 
+        - quick    : W = 0.936049 / p_value = 0.071224 
+        - insertion: W = 0.949881 / p_value = 0.167823 
+
+============================================================
+ ANOVA para Probabilidade = 0.01 e Tamanho = 1000
+============================================================
+                sum_sq     df            F        PR(>F)
+algoritmo  1635.180250    3.0  1817.615579  2.610034e-97
+Residual     34.785667  116.0          NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.959276 / p_value = 0.296810 
+        - merge    : W = 0.985520 / p_value = 0.945706 
+        - quick    : W = 0.981051 / p_value = 0.852753 
+        - insertion: W = 0.953426 / p_value = 0.208647 
+
+============================================================
+ ANOVA para Probabilidade = 0.01 e Tamanho = 10000
+============================================================
+                sum_sq     df             F         PR(>F)
+algoritmo  1948.204989    3.0  15831.708335  2.332995e-151
+Residual      4.758210  116.0           NaN            NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.951421 / p_value = 0.184517 
+        - merge    : W = 0.960443 / p_value = 0.317934 
+        - quick    : W = 0.963182 / p_value = 0.372559 
+        - insertion: W = 0.970560 / p_value = 0.554617 
+
+============================================================
+ ANOVA para Probabilidade = 0.02 e Tamanho = 100
+============================================================
+           sum_sq     df          F        PR(>F)
+algoritmo  1106.5    3.0  88.617785  7.054900e-30
+Residual    482.8  116.0        NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.946796 / p_value = 0.138673 
+        - merge    : W = 0.968033 / p_value = 0.486845 
+        - quick    : W = 0.939046 / p_value = 0.085736 
+        - insertion: W = 0.975007 / p_value = 0.682943 
+
+============================================================
+ ANOVA para Probabilidade = 0.02 e Tamanho = 1000
+============================================================
+               sum_sq     df            F        PR(>F)
+algoritmo  2286.83025    3.0  1990.144336  1.507899e-99
+Residual     44.43100  116.0          NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.975836 / p_value = 0.707363 
+        - merge    : W = 0.938542 / p_value = 0.083098 
+        - quick    : W = 0.974005 / p_value = 0.653458 
+        - insertion: W = 0.971814 / p_value = 0.589911 
+
+============================================================
+ ANOVA para Probabilidade = 0.02 e Tamanho = 10000
+============================================================
+                sum_sq     df             F         PR(>F)
+algoritmo  3081.306943    3.0  18442.105239  3.406264e-155
+Residual      6.460427  116.0           NaN            NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.975659 / p_value = 0.702145 
+        - merge    : W = 0.976055 / p_value = 0.713786 
+        - quick    : W = 0.939109 / p_value = 0.086070 
+        - insertion: W = 0.984347 / p_value = 0.925558 
+
+============================================================
+ ANOVA para Probabilidade = 0.05 e Tamanho = 100
+============================================================
+                sum_sq     df          F        PR(>F)
+algoritmo  2274.291667    3.0  225.58173  3.104916e-48
+Residual    389.833333  116.0        NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.940784 / p_value = 0.095491 
+        - merge    : W = 0.942663 / p_value = 0.107300 
+        - quick    : W = 0.958546 / p_value = 0.284226 
+        - insertion: W = 0.972585 / p_value = 0.612046 
+
+============================================================
+ ANOVA para Probabilidade = 0.05 e Tamanho = 1000
+============================================================
+                sum_sq     df           F        PR(>F)
+algoritmo  3704.037583    3.0  1202.21591  3.625400e-87
+Residual    119.132333  116.0         NaN           NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.936459 / p_value = 0.073051 
+        - merge    : W = 0.961920 / p_value = 0.346510 
+        - quick    : W = 0.963954 / p_value = 0.389243 
+        - insertion: W = 0.931681 / p_value = 0.054428 
+
+============================================================
+ ANOVA para Probabilidade = 0.05 e Tamanho = 10000
+============================================================
+                sum_sq     df             F         PR(>F)
+algoritmo  4948.821397    3.0  19487.120298  1.402080e-156
+Residual      9.819533  116.0           NaN            NaN
+
+    * TESTE DE NORMALIDADE (SHAPIRO-WILK):
+      -------------------------------------------------
+        - bubble   : W = 0.967347 / p_value = 0.469356 
+        - merge    : W = 0.972602 / p_value = 0.612541 
+        - quick    : W = 0.973347 / p_value = 0.634189 
+        - insertion: W = 0.970053 / p_value = 0.540621 
+

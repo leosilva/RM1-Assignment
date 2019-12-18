@@ -2,123 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../03-Anova/anova_prob_0.0001_tam_10000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Anova/anova_prob_0.0001_tam_10000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/anova_prob_0.001_tam_1000.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../03-Anova/anova_prob_0.001_tam_1000.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.0001_tam_10000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.0001_tam_10000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.0001_tam_10000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.0001_tam_10000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.001_tam_1000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.001_tam_1000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.001_tam_1000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.001_tam_1000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_10000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_10000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_10000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_10000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_1000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_1000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_1000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_1000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_100_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_100_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_100_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.01_tam_100_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_10000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_10000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_10000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_10000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_1000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_1000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_1000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_1000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_100_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_100_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_100_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.02_tam_100_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_10000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_10000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_10000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_10000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_1000_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_1000_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_1000_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_1000_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_100_K_UNORDERED_SEQUENCE.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_100_LARGEST_SORTED_SUBARRAY.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_100_PERCENTUAL_K_UNORDERED.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../03-Anova/graficos/anova_prob_0.05_tam_100_PERCENTUAL_MAIOR_ARRAY.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-CreateDatasetFromData.py" beforeDir="false" afterPath="$PROJECT_DIR$/01-CreateDatasetFromData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teste-7-anova.py" beforeDir="false" afterPath="$PROJECT_DIR$/Teste-7-anova.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gen.py" beforeDir="false" afterPath="$PROJECT_DIR$/gen.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.0001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.0001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.01.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.02.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.05.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.0001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.0001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.001.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.001.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.01.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.01.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.02.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.02.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.05.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Estatisticas_por_Algoritmo_Prob_0.05.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Graficos.docx" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Graficos.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/Graficos.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/Graficos.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.0001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.0001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.01.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.02.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.02.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.05.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Juntando_os_Tamanhos_Prob_0.05.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.0001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.0001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.001.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.001.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.01.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.01.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.02.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.02.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.05.csv" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/comparacao_entre_algoritmos/csv/Estatisticas_por_Algoritmo_Prob_0.05.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.0001_10000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.0001_10000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.0001_10000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.0001_10000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.0001_10000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.0001_10000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.0001_10000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.0001_10000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.001_1000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.001_1000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.001_1000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.001_1000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.001_1000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.001_1000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.001_1000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.001_1000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_10000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_10000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_10000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_10000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_10000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_10000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_10000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_10000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_1000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_1000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_1000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_1000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_1000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_1000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_1000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_1000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_100_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_100_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_100_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_100_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_100_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_100_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.01_100_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.01_100_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_10000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_10000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_10000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_10000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_10000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_10000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_10000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_10000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_1000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_1000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_1000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_1000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_1000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_1000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_1000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_1000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_100_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_100_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_100_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_100_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_100_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_100_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.02_100_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.02_100_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_10000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_10000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_10000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_10000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_10000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_10000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_10000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_10000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_1000_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_1000_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_1000_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_1000_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_1000_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_1000_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_1000_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_1000_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_100_Bubble.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_100_Bubble.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_100_Insertion.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_100_Insertion.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_100_Merge.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_100_Merge.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/graficos/distribuicao_das_amostras/0.05_100_Quick.png" beforeDir="false" afterPath="$PROJECT_DIR$/graficos_OLD/distribuicao_das_amostras/0.05_100_Quick.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main_execution.py" beforeDir="false" afterPath="$PROJECT_DIR$/main_execution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/__readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/__readme.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/util_ler_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_ler_dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +41,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07-NOVO-2-Gerar Histogramas Distribuicao">
+  <component name="RunManager" selected="Python.10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo">
     <configuration name="02-NOVO-2-Medias_por_algoritmo_e_prob_erro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -170,27 +55,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-NOVO-2-Medias_por_algoritmo_e_prob_erro.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="04-NOVO-2-Distribuicao_das_medidas_escolhidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-NOVO-2-Distribuicao_das_medidas_escolhidas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Teste-7-NOVO-2-anova" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,7 +117,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teste-7-NOVO-2-anova.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Teste-8-Gerar TABELA ANOVA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Teste-8-Gerar TABELA ANOVA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,19 +148,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.04-NOVO-2-Distribuicao_das_medidas_escolhidas" />
-      <item itemvalue="Python.Teste-7-NOVO-2-anova" />
       <item itemvalue="Python.02-NOVO-2-Medias_por_algoritmo_e_prob_erro" />
       <item itemvalue="Python.06-NOVO-2-confidence_intervals_distrib-T" />
       <item itemvalue="Python.07-NOVO-2-Gerar Histogramas Distribuicao" />
+      <item itemvalue="Python.Teste-8-Gerar TABELA ANOVA" />
+      <item itemvalue="Python.10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo" />
+        <item itemvalue="Python.Teste-8-Gerar TABELA ANOVA" />
         <item itemvalue="Python.07-NOVO-2-Gerar Histogramas Distribuicao" />
         <item itemvalue="Python.06-NOVO-2-confidence_intervals_distrib-T" />
         <item itemvalue="Python.02-NOVO-2-Medias_por_algoritmo_e_prob_erro" />
-        <item itemvalue="Python.Teste-7-NOVO-2-anova" />
-        <item itemvalue="Python.04-NOVO-2-Distribuicao_das_medidas_escolhidas" />
       </list>
     </recent_temporary>
   </component>
@@ -313,30 +198,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576002598338" />
-    <state width="1419" height="200" key="GridCell.Tab.0.bottom" timestamp="1576613471066">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="187" key="GridCell.Tab.0.bottom" timestamp="1576693116163">
+      <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609722" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471066" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
-    <state width="1419" height="200" key="GridCell.Tab.0.center" timestamp="1576613471064">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="187" key="GridCell.Tab.0.bottom/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576693116163" />
+    <state width="1419" height="187" key="GridCell.Tab.0.center" timestamp="1576693116162">
+      <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576572448716" />
-    <state width="1419" height="200" key="GridCell.Tab.0.left" timestamp="1576613471064">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="187" key="GridCell.Tab.0.center/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576693116162" />
+    <state width="1419" height="187" key="GridCell.Tab.0.left" timestamp="1576693116161">
+      <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576572448715" />
-    <state width="1419" height="200" key="GridCell.Tab.0.right" timestamp="1576613471065">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1419" height="187" key="GridCell.Tab.0.left/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576693116161" />
+    <state width="1419" height="187" key="GridCell.Tab.0.right" timestamp="1576693116163">
+      <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609721" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471065" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
+    <state width="1419" height="187" key="GridCell.Tab.0.right/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576693116163" />
     <state x="375" y="219" width="995" height="462" key="find.popup" timestamp="1576612530165">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
