@@ -26,8 +26,8 @@ for alg in udata.ALGORTIMOS:
     # print(data.head())
     print(data['probabilidade_erro'].unique())
 
-    moore_lm = ols(formula='percentual_k_unordered ~ probabilidade_erro',data=data).fit()
-    anova = sm.stats.anova_lm(moore_lm, typ=2) # Type 2 ANOVA DataFrame
+    lm = ols(formula='percentual_k_unordered ~ probabilidade_erro', data=data).fit()
+    anova = sm.stats.anova_lm(lm, typ=2) # Type 2 ANOVA DataFrame
 
     tit = ' ANOVA para %s' % (alg.upper())
     hr = '=' * 70 #len(tit)

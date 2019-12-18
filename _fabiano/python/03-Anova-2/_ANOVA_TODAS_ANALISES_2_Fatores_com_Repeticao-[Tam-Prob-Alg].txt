@@ -1,0 +1,13 @@
+============================================================
+ ANOVA para ALgoritmo X Tamanho X Probabilidade
+============================================================
+                                                  sum_sq      df            F        PR(>F)
+algoritmo                                   18493.893567     3.0  1777.772888  0.000000e+00
+probabilidade_erro                          27472.264380     1.0  7922.525338  0.000000e+00
+algoritmo:probabilidade_erro                 1561.373444     3.0   150.091022  4.145962e-81
+size_of_array                                1250.873015     1.0   360.730117  1.708634e-69
+algoritmo:size_of_array                       965.415141     3.0    92.803003  2.365191e-53
+probabilidade_erro:size_of_array               10.325461     1.0     2.977684  8.471033e-02
+algoritmo:probabilidade_erro:size_of_array    192.338045     3.0    18.488987  1.070995e-11
+Residual                                     3689.541914  1064.0          NaN           NaN
+

@@ -90,6 +90,29 @@ def obterDfPorProbTam2(prob, tam, df=pd.DataFrame()):
     #
     return df_retorno
 
+def obterDfPorAlg2(alg, df=pd.DataFrame()):
+    if (df.empty):
+        df = obterDados2()
+    #
+    df_retorno = filtrarPorAlgoritmo(df, algoritmo=alg)
+    #
+    return df_retorno
+
+def obterDfPorTam2(tam, df=pd.DataFrame()):
+    if (df.empty):
+        df = obterDados2()
+    #
+    df_retorno = filtrarPorTamanhoArray(df, tamanho=tam)
+    #
+    return df_retorno
+
+def obterDfPorProb2(prob, df=pd.DataFrame()):
+    if (df.empty):
+        df = obterDados2()
+    #
+    df_retorno = filtrarPorProbabilidadeErro(df, prob=prob)
+    return df_retorno
+
 def obterDfPorProbAlg2(prob, alg, df=pd.DataFrame()):
     if (df.empty):
         df = obterDados2()

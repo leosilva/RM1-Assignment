@@ -26,8 +26,8 @@ for prob in udata.PROBABILIDADES_2:
         data = udata.obterDfPorProbTam2(prob=prob, tam=tam, df=df_tudo)
         # print(data.head())
 
-        moore_lm = ols(formula='percentual_k_unordered ~ algoritmo',data=data).fit()
-        anova = sm.stats.anova_lm(moore_lm, typ=2) # Type 2 ANOVA DataFrame
+        lm = ols(formula='percentual_k_unordered ~ algoritmo', data=data).fit()
+        anova = sm.stats.anova_lm(lm, typ=2) # Type 2 ANOVA DataFrame
 
         tit = ' ANOVA para Probabilidade = %s e Tamanho = %s' % (prob, tam)
         hr = '=' * 60 #len(tit)
