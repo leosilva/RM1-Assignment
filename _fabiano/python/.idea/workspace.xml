@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/09-NOVO-2-Gerar TABELA ANOVA.py" beforeDir="false" afterPath="$PROJECT_DIR$/09-NOVO-2-Gerar TABELA ANOVA.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo.py" beforeDir="false" afterPath="$PROJECT_DIR$/10-NOVO-2-Gerar TABELA ANOVA por Probabilidades de um mesmo Algoritmo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lixo.py" beforeDir="false" afterPath="$PROJECT_DIR$/lixo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/util_ler_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_ler_dados.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,10 +147,10 @@
     </configuration>
     <list>
       <item itemvalue="Python.11-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao" />
-      <item itemvalue="Python.lixo" />
       <item itemvalue="Python.12-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Alg]" />
       <item itemvalue="Python.13-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Prob-Alg]" />
       <item itemvalue="Python.14-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Tam]" />
+      <item itemvalue="Python.lixo" />
     </list>
     <recent_temporary>
       <list>
@@ -200,34 +196,34 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576002598338" />
-    <state width="1787" height="201" key="GridCell.Tab.0.bottom" timestamp="1576702818203">
+    <state width="1787" height="201" key="GridCell.Tab.0.bottom" timestamp="1576703019394">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609722" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471066" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
-    <state width="1787" height="201" key="GridCell.Tab.0.bottom/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576702818203" />
-    <state width="1787" height="201" key="GridCell.Tab.0.center" timestamp="1576702818203">
+    <state width="1787" height="201" key="GridCell.Tab.0.bottom/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019394" />
+    <state width="1787" height="201" key="GridCell.Tab.0.center" timestamp="1576703019393">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576572448716" />
-    <state width="1787" height="201" key="GridCell.Tab.0.center/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576702818203" />
-    <state width="1787" height="201" key="GridCell.Tab.0.left" timestamp="1576702818202">
+    <state width="1787" height="201" key="GridCell.Tab.0.center/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019393" />
+    <state width="1787" height="201" key="GridCell.Tab.0.left" timestamp="1576703019392">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576572448715" />
-    <state width="1787" height="201" key="GridCell.Tab.0.left/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576702818202" />
-    <state width="1787" height="201" key="GridCell.Tab.0.right" timestamp="1576702818203">
+    <state width="1787" height="201" key="GridCell.Tab.0.left/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019392" />
+    <state width="1787" height="201" key="GridCell.Tab.0.right" timestamp="1576703019393">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609721" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471065" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
-    <state width="1787" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576702818203" />
+    <state width="1787" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019393" />
     <state x="375" y="219" width="995" height="462" key="find.popup" timestamp="1576612530165">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
