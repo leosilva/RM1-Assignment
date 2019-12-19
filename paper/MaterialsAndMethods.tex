@@ -1,6 +1,6 @@
 \section{Materials and Methods}
 
-We first state our problem, then describe our data, showing all its characteristics. Then, we provide our hypothesis, define the setup, and perform the testing. Finally, we collect and perform data and regression analysis.
+We first state our problem, then describe our data, showing all its characteristics. Then, we provide our hypothesis, define the setup, and perform the testing. Finally, we collect and perform data analysis.
 
 \subsection{Problem Statement}
 
@@ -8,45 +8,70 @@ As introduced in the first section of this paper, sorting is a fundamental conce
 
 \subsection{Variables}
 
-For this experimental study, we assume that the dependent and independent variables are as shown in Table \ref{table-variables} below:
+For this experimental study, we assume that the independent and dependent variables are as shown in Table \ref{table-independent-variables} and Table \ref{table-dependent-variables} below:
 
 \begin{table}[H]
-    \caption{Dependent and independent variables.}
+    \caption{Independent variables.}
     \begin{center}
-    \begin{tabular}{|c|c|}
+    \begin{tabular}{|l|l|}
     \hline
-    \multicolumn{2}{|c|}{\textbf{Variables}}\\
+    \textbf{Variable} & \textbf{Description} \\
     \hline
-    \textbf{\textit{Dependent}} & \textbf{\textit{Independent}} \\
+    Probability of failure & Probability of a fault to occur \\
     \hline
-    Largest subarray size & Probability of failure \\
-    Percentage of largest subarray size related to the original array & Array size \\
-    Unordered elements size & Sorting algorithm \\
-    Percentage of unordered elements size related to the original array & \\
+    Array size & Size of the array of integers to be sorted \\
+    \hline
+    Sorting algorithm & Algorithm used to sort the array \\
     \hline
     \end{tabular}
-    \label{table-variables}
+    \label{table-independent-variables}
+    \end{center}
+\end{table}
+
+\begin{table}[H]
+    \caption{Dependent variables.}
+    \begin{center}
+    \begin{tabular}{|l|l|}
+    \hline
+    \textbf{Variable} & \textbf{Description} \\
+    \hline
+    Largest subarray size & Size of the largest sorted subarray produced under the memory fault \\
+    \hline
+    Percentage of largest subarray size & Percentage of \textit{largest subarray size} related to \textit{array size} independent variable \\
+    \hline
+    Unordered elements quantity & Quantity of elements out of position after sorting algorithm execution. Adapted of the \\ & \textit{k-unordered sequence} measure of disorder defined in \cite{Ferraro-Petrillo2009} \\
+    \hline
+    Percentage of unordered elements quantity & Percentage of \textit{unordered elements quantity} related to \textit{array size} independent variable \\
+    \hline
+    \end{tabular}
+    \label{table-dependent-variables}
     \end{center}
 \end{table}
 
 \subsection{Hypothesis}
 
-We define a set of hypothesis to test and draw some conclusions. They are:
+The set of hypothesis defined to test and draw some conclusions about this experiment are listed below. The confidence degree defined for hypothesis testing was 95\% ($\alpha = 0.05$ and $\alpha - 1 = 0.95$).
 
-\setcounter{hyp}{-1}
-\begin{hyp}[Test hypothesis] \label{hyp:a}There is no difference in memory faults between tested algorithms.\end{hyp}
-\begin{hyp} \label{hyp:b}There are differences in memory faults between tested algorithms. \end{hyp}
-\begin{hyp} \label{hyp:c} An algorithm is better than others considering all dependent variables. \end{hyp}
+\begin{itemize}
+    \item \textbf{Hypothesis 1:} For a given probability of failure and array size, tested algorithms will produce a different percentage of unordered elements quantity.
+    \item \textbf{Hypothesis 2:} For a given probability of failure and array size, tested algorithms will produce a different percentage of the largest subarray size.
+    \item \textbf{Hypothesis 3:} For each algorithm, the array size and probability of failure have a significative impact on the percentage of unordered elements quantity.
+    \item \textbf{Hypothesis 4:} For each algorithm, the array size and probability of failure have a significative impact on the percentage of the largest subarray size.
+\end{itemize}
 
-\begin{hyp} \label{hyp:d} ... \end{hyp}
+% \setcounter{hyp}{-1}
+% \begin{hyp}[Test hypothesis] \label{hyp:a}There is no difference in memory faults between tested algorithms.\end{hyp}
+% \begin{hyp} \label{hyp:b}There are differences in memory faults between tested algorithms. \end{hyp}
+% \begin{hyp} \label{hyp:c} An algorithm is better than others considering all dependent variables. \end{hyp}
+
+% \begin{hyp} \label{hyp:d} ... \end{hyp}
 
 \subsection{Experimental Setup}
 
 To conduct the proposed study we get a set of files with the basic setup and instructions, that was composed by:
 \begin{itemize}
-    \item A file that contains a sequence of integers that are the input data;
+    \item A script that generates input files;
     \item Four files, one for each os those algorithms: quicksort, bubblesort, insertion sort, and mergesort, that are used to sorting the input data;
-    \item An output file with the sorted data.
 \end{itemize}
 
 The input file looks like follow:

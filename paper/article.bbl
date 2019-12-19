@@ -48,4 +48,9 @@ K.~{Mansotra, V; Sourabh}, ``{Implementing Bubble Sort Using a New Approach},''
 P.~Prajapati, N.~Bhatt, and N.~Bhatt, ``{Performance Comparison of Different
   Sorting Algorithms},'' vol.~VI, no.~Vi, pp.~39--41, 2017.
 
+\bibitem{Ferraro-Petrillo2009}
+U.~Ferraro-Petrillo, I.~Finocchi, and G.~F. Italiano, ``{The price of
+  resiliency: A case study on sorting with memory faults},'' {\em Algorithmica
+  (New York)}, vol.~53, no.~4, pp.~597--620, 2009.
+
 \end{thebibliography}
