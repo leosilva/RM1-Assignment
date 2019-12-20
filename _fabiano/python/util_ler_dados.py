@@ -28,10 +28,25 @@ COLUNA_MAIOR_ARRAY_PERCENTUAL = COLUNAS_DEPENDENTES[1]
 COLUNA_DESORDENADOS = COLUNAS_DEPENDENTES[2]
 COLUNA_DESORDENADOS_PERCENTUAL = COLUNAS_DEPENDENTES[3]
 
+COL_NAMES = {'probabilidade_erro': 'Probability_of_failure',
+             'size_of_array': 'Array_size',
+             'algoritmo': 'Sorting_algorithm',
+             'largest_sorted_subarray': 'Largest_subarray_size',
+             'percentual_maior_array': 'Perc_largest_subarray_size',
+             'k_unordered_sequence': 'Unordered_elements_quantity',
+             'percentual_k_unordered': 'Perc_unordered_elements_quantity'}
+
+def renomearColunas(df):
+    df_retorno = df.rename(columns=COL_NAMES)
+    return df_retorno
+
+def obterNomeColuna(key):
+    return COL_NAMES.get(key)
 
 def obterDados2():
     csv = 'data-csv-2/dados_extraidos-2.csv'
     df_tudo = pd.read_csv(delimiter=';', filepath_or_buffer=csv)
+    df_tudo = renomearColunas(df_tudo)
     return df_tudo
 
 
@@ -61,15 +76,15 @@ def filtrarPorProbabilidadeErro(df, prob):
     if (type(prob) != float):
         prob = float(prob)
 
-    return df[df.probabilidade_erro == prob]
+    return df[df[obterNomeColuna('probabilidade_erro')] == prob]
 
 
 def filtrarPorAlgoritmo(df, algoritmo):
-    return df[df.algoritmo == algoritmo]
+    return df[df[obterNomeColuna('algoritmo')] == algoritmo]
 
 
 def filtrarPorTamanhoArray(df, tamanho):
-    return df[df['size_of_array'] == tamanho]
+    return df[df[obterNomeColuna('size_of_array')] == tamanho]
 
 
 def obterEstatisticasPorTamanho_Algoritmo(df):

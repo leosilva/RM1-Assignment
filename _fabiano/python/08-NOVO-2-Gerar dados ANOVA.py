@@ -12,7 +12,7 @@ import util_graficos as graf
 import seaborn as sns
 plt.style.use('seaborn-whitegrid')
 
-path_arq_destino = '03-Anova-2'
+path_arq_destino = '../resultados/03-Anova-2'
 
 # def gerarGraficosQQPlot(ind_graf, col_desc, df_bubble, df_insertion, df_merge, df_quick, arq_destino):
 def gerarGraficosQQPlot(ind_graf, ax, col_desc, algoritmo, data):
@@ -28,7 +28,7 @@ def gerarGraficosBoxPlot(ax, col, col_desc, dfs):
         data = data.append(other=df)
 
     plt.title('%s' % (col_desc))
-    sns.boxplot(data=data, x='algoritmo', y=col, ax=ax)
+    sns.boxplot(data=data, x=udata.obterNomeColuna('algoritmo'), y=col, ax=ax)
 
 
 
@@ -80,10 +80,7 @@ def printAnova(col, df_bubble, df_insertion, df_merge, df_quick, arq_destino):
 
 
 
-colunas_desc={'largest_sorted_subarray':'maior_array',
-              'percentual_maior_array':'maior_array_percentual',
-              'k_unordered_sequence':'desordenados',
-              'percentual_k_unordered':'desordenados_percentual'}
+colunas_desc = udata.COL_NAMES
 
 
 for prob in udata.PROBABILIDADES:
@@ -103,16 +100,17 @@ for prob in udata.PROBABILIDADES:
             csv_destino = os.path.join(path_arq_destino, 'csv/%s' % (arq_name))
 
             head_n = 1000
-            df_bubble = df[df['algoritmo'] == 'bubble']#.head(head_n)
-            df_merge = df[df['algoritmo'] == 'merge']#.head(head_n)
-            df_insertion = df[df['algoritmo'] == 'insertion']#.head(head_n)
-            df_quick = df[df['algoritmo'] == 'quick']#.head(head_n)
+            df_bubble = df[df[udata.obterNomeColuna('algoritmo')] == 'bubble']#.head(head_n)
+            df_merge = df[df[udata.obterNomeColuna('algoritmo')] == 'merge']#.head(head_n)
+            df_insertion = df[df[udata.obterNomeColuna('algoritmo')] == 'insertion']#.head(head_n)
+            df_quick = df[df[udata.obterNomeColuna('algoritmo')] == 'quick']#.head(head_n)
 
             print('=================================================================')
             print('Probabilidade = %s / Tamanho = %s' % (prob, size))
             print('=================================================================')
 
-            for col in udata.COLUNAS_DEPENDENTES:
+            for col_dep in udata.COLUNAS_DEPENDENTES:
+                col = udata.obterNomeColuna(col_dep)
                 df_dados_csv = pd.DataFrame()
                 df_b = pd.DataFrame(df_bubble[col].reset_index())
                 df_i = pd.DataFrame(df_insertion[col].reset_index())
@@ -132,7 +130,7 @@ for prob in udata.PROBABILIDADES:
                 #remove a coluna INDEX
                 df_dados_csv = df_dados_csv.drop(columns=['index'])
 
-                df_dados_csv.to_csv('%s_%s.csv' % ( csv_destino, colunas_desc[col].upper()),
+                df_dados_csv.to_csv('%s_%s.csv' % ( csv_destino, col),
                                     sep=',',
                                     index=False )
 
@@ -149,7 +147,7 @@ for prob in udata.PROBABILIDADES:
                 print('')
                 arq_destino.write('\n')
 
-                gerarGraficos = False
+                gerarGraficos = True
 
                 if (gerarGraficos):
                     #gera os graficos de QQPlot
@@ -157,12 +155,13 @@ for prob in udata.PROBABILIDADES:
                     plt.rcParams.update({'font.size': 20})
                     plt.suptitle('QQPlot - Teste de Normalidade - Prob. Erro: %s - Tam. Array: %s' % (prob, size))
                     ax = plt.gca()
+                    col
                     gerarGraficosQQPlot(1, ax, col, 'BUBBLE', df_bubble[col])
                     gerarGraficosQQPlot(2, ax, col, 'INSERTION', df_insertion[col])
                     gerarGraficosQQPlot(3, ax, col, 'MERGE', df_merge[col])
                     gerarGraficosQQPlot(4, ax, col, 'QUICK', df_quick[col])
 
-                    fig.savefig('%s/graficos/qqplot/%s_%s.png' % (path_arq_destino, arq_name, colunas_desc[col].upper()),
+                    fig.savefig('%s/graficos/qqplot/%s_%s.png' % (path_arq_destino, arq_name, col),
                                 bbox_inches='tight',
                                 pad_inches=2)
                     plt.close(fig)
@@ -174,7 +173,7 @@ for prob in udata.PROBABILIDADES:
                     ax = plt.gca()
                     dfs = [df_bubble, df_insertion, df_merge, df_quick]
                     gerarGraficosBoxPlot(ax, col, col, dfs)
-                    fig.savefig('%s/graficos/boxplot/%s_%s_boxplot.png' % (path_arq_destino, arq_name, colunas_desc[col].upper()),
+                    fig.savefig('%s/graficos/boxplot/%s_%s_boxplot.png' % (path_arq_destino, arq_name, col),
                                 bbox_inches='tight',
                                 pad_inches=2)
                     plt.close(fig)
