@@ -1,0 +1,13 @@
+Array_size,Sorting_algorithm,Perc_unordered_elements_quantity_mean,Perc_largest_subarray_size_mean,Probability_of_failure,Perc_unordered_elements_quantity_median,Perc_largest_subarray_size_median,Perc_unordered_elements_quantity_std,Perc_largest_subarray_size_std,Perc_unordered_elements_quantity_min,Perc_largest_subarray_size_min,Perc_unordered_elements_quantity_max,Perc_largest_subarray_size_max
+100,bubble,3.07,67.4,0.01,3.0,71.0,1.64,15.84,0.0,38.0,6.0,100.0
+100,insertion,10.87,19.77,0.01,11.0,20.0,1.59,3.11,8.0,14.0,14.0,27.0
+100,merge,3.5,54.47,0.01,3.5,54.5,1.11,15.44,1.0,33.0,6.0,88.0
+100,quick,4.83,39.03,0.01,5.0,33.5,1.64,14.21,2.0,20.0,8.0,75.0
+1000,bubble,3.93,29.57,0.01,3.85,27.9,0.43,10.1,2.8,17.8,4.7,50.5
+1000,insertion,13.99,2.77,0.01,13.75,2.6,0.84,0.49,12.3,2.0,15.7,3.9
+1000,merge,7.46,6.33,0.01,7.5,5.85,0.32,1.18,6.8,5.3,8.2,10.2
+1000,quick,6.69,5.8,0.01,6.7,5.85,0.46,0.85,5.8,4.2,7.9,8.0
+10000,bubble,3.66,5.91,0.01,3.65,5.82,0.21,1.59,3.22,2.96,3.99,10.23
+10000,insertion,14.5,0.36,0.01,14.5,0.35,0.28,0.04,13.92,0.29,15.0,0.47
+10000,merge,10.0,0.74,0.01,9.99,0.7,0.15,0.17,9.74,0.5,10.32,1.14
+10000,quick,6.64,0.9,0.01,6.6,0.89,0.14,0.15,6.39,0.67,6.89,1.46

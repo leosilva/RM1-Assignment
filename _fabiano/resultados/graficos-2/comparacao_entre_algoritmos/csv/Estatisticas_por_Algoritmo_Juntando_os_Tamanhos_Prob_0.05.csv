@@ -1,0 +1,5 @@
+Probability_of_failure,Sorting_algorithm,Perc_unordered_elements_quantity_mean,Perc_largest_subarray_size_mean,Perc_unordered_elements_quantity_std,Perc_largest_subarray_size_std,Perc_unordered_elements_quantity_min,Perc_largest_subarray_size_min,Perc_unordered_elements_quantity_max,Perc_largest_subarray_size_max
+0.05,bubble,12.158222222222223,11.90722222222222,1.1726782730505803,11.089092426747047,9.0,1.04,15.0,39.0
+0.05,insertion,25.10911111111112,4.024555555555559,1.7959465248441757,4.8314527001211705,18.0,0.16,28.8,16.0
+0.05,merge,24.132444444444445,5.03577777777778,3.934083366564706,6.012615945814284,16.0,0.15,28.86,18.0
+0.05,quick,17.43711111111111,6.756555555555555,2.798980249475479,8.167328467414038,10.0,0.23,20.4,26.0

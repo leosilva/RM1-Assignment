@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="" />
+    <list default="true" id="13498788-d423-48ed-9b98-20cd8826e1d5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02-NOVO-2-Medias_por_algoritmo_e_prob_erro.py" beforeDir="false" afterPath="$PROJECT_DIR$/02-NOVO-2-Medias_por_algoritmo_e_prob_erro.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04-NOVO-2-Distribuicao_das_medidas_escolhidas.py" beforeDir="false" afterPath="$PROJECT_DIR$/04-NOVO-2-Distribuicao_das_medidas_escolhidas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07-NOVO-2-Gerar Histogramas Distribuicao.py" beforeDir="false" afterPath="$PROJECT_DIR$/07-NOVO-2-Gerar Histogramas Distribuicao.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08-NOVO-2-Gerar dados ANOVA.py" beforeDir="false" afterPath="$PROJECT_DIR$/08-NOVO-2-Gerar dados ANOVA.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/util_ler_dados.py" beforeDir="false" afterPath="$PROJECT_DIR$/util_ler_dados.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,8 +44,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Tam]">
-    <configuration name="11-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.08-NOVO-2-Gerar dados ANOVA">
+    <configuration name="02-NOVO-2-Medias_por_algoritmo_e_prob_erro" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -50,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Alg].py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/02-NOVO-2-Medias_por_algoritmo_e_prob_erro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -59,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Alg]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="04-NOVO-2-Distribuicao_das_medidas_escolhidas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -71,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Alg].py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04-NOVO-2-Distribuicao_das_medidas_escolhidas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -80,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Prob-Alg]" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="07-NOVO-2-Gerar Histogramas Distribuicao" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,7 +99,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Prob-Alg].py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/07-NOVO-2-Gerar Histogramas Distribuicao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="08-NOVO-2-Gerar dados ANOVA" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08-NOVO-2-Gerar dados ANOVA.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,41 +150,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lixo" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lixo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="Python.11-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao" />
-      <item itemvalue="Python.12-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Alg]" />
-      <item itemvalue="Python.13-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Prob-Alg]" />
       <item itemvalue="Python.14-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Tam]" />
-      <item itemvalue="Python.lixo" />
+      <item itemvalue="Python.04-NOVO-2-Distribuicao_das_medidas_escolhidas" />
+      <item itemvalue="Python.02-NOVO-2-Medias_por_algoritmo_e_prob_erro" />
+      <item itemvalue="Python.07-NOVO-2-Gerar Histogramas Distribuicao" />
+      <item itemvalue="Python.08-NOVO-2-Gerar dados ANOVA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08-NOVO-2-Gerar dados ANOVA" />
+        <item itemvalue="Python.02-NOVO-2-Medias_por_algoritmo_e_prob_erro" />
+        <item itemvalue="Python.07-NOVO-2-Gerar Histogramas Distribuicao" />
+        <item itemvalue="Python.04-NOVO-2-Distribuicao_das_medidas_escolhidas" />
         <item itemvalue="Python.14-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Tam]" />
-        <item itemvalue="Python.lixo" />
-        <item itemvalue="Python.13-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Tam-Prob-Alg]" />
-        <item itemvalue="Python.12-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao-[Prob-Alg]" />
-        <item itemvalue="Python.11-NOVO-2-Gerar TABELA ANOVA 2 Fatores com repeticao" />
       </list>
     </recent_temporary>
   </component>
@@ -194,43 +201,44 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="408" y="186" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1440.900@0.0.1440.900" timestamp="1576002598338" />
-    <state width="1787" height="201" key="GridCell.Tab.0.bottom" timestamp="1576703019394">
+    <state width="1896" height="122" key="GridCell.Tab.0.bottom" timestamp="1576878156959">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609722" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471066" />
     <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
-    <state width="1787" height="201" key="GridCell.Tab.0.bottom/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019394" />
-    <state width="1787" height="201" key="GridCell.Tab.0.center" timestamp="1576703019393">
+    <state width="1896" height="122" key="GridCell.Tab.0.bottom/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576878156959" />
+    <state width="1896" height="122" key="GridCell.Tab.0.center" timestamp="1576878156958">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1576572448716" />
-    <state width="1787" height="201" key="GridCell.Tab.0.center/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019393" />
-    <state width="1787" height="201" key="GridCell.Tab.0.left" timestamp="1576703019392">
+    <state width="1896" height="122" key="GridCell.Tab.0.center/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576878156958" />
+    <state width="1896" height="122" key="GridCell.Tab.0.left" timestamp="1576878156958">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609720" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471064" />
     <state width="1419" height="200" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1576572448715" />
-    <state width="1787" height="201" key="GridCell.Tab.0.left/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019392" />
-    <state width="1787" height="201" key="GridCell.Tab.0.right" timestamp="1576703019393">
+    <state width="1896" height="122" key="GridCell.Tab.0.left/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576878156958" />
+    <state width="1896" height="122" key="GridCell.Tab.0.right" timestamp="1576878156959">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1057.1920.1057@0.0.1440.900" timestamp="1576589609721" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576613471065" />
     <state width="1419" height="200" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1576572448717" />
-    <state width="1787" height="201" key="GridCell.Tab.0.right/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576703019393" />
-    <state x="375" y="219" width="995" height="462" key="find.popup" timestamp="1576612530165">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1896" height="122" key="GridCell.Tab.0.right/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576878156959" />
+    <state x="255" y="-800" width="1327" height="543" key="find.popup" timestamp="1576871543310">
+      <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state x="375" y="219" width="995" height="462" key="find.popup/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576612530165" />
     <state x="375" y="219" width="995" height="528" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1576542903139" />
-    <state x="268" y="-827" width="894" height="794" key="search.everywhere.popup" timestamp="1576701622806">
+    <state x="255" y="-800" width="1327" height="543" key="find.popup/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576871543310" />
+    <state x="268" y="-827" width="894" height="794" key="search.everywhere.popup" timestamp="1576859702897">
       <screen x="-245" y="-1057" width="1920" height="1057" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-245.-1080.1920.1080@0.0.1440.900" timestamp="1576521493678" />
-    <state x="268" y="-827" width="894" height="794" key="search.everywhere.popup/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576701622806" />
+    <state x="268" y="-827" width="894" height="794" key="search.everywhere.popup/0.23.1440.877/-245.-1057.1920.1057@-245.-1057.1920.1057" timestamp="1576859702897" />
   </component>
 </project>
