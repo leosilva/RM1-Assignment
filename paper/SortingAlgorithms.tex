@@ -1,8 +1,8 @@
-\section{Sorting Algorithms}
+\subsection{Sorting Algorithms}
 
 Sorting algorithms are widely used in many aspects of data processing, information searches, business finance, computer encryption, etc. This work uses four sorting algorithms: quicksort, mergesort, insertionsort, and bubblesort. In the following subsections, we'll give an overview of them.
 
-\subsection{Quicksort}
+\subsubsection{Quicksort}
 
 Quicksort algorithm, created by Hoare \cite{Hoare1962}, is considered as one of the fastest and best sorting algorithms \cite{Wang2011}. The algorithm is based on the paradigm of divide and conquer.
 
@@ -15,7 +15,7 @@ The basic steps of this algorithm are \cite{Wang2011}:
     \item Recursively sort the sub-list of smaller elements and the sub-list of the bigger elements.
 \end{itemize}
 
-\subsection{Mergesort}
+\subsubsection{Mergesort}
 
 Mergesort was invented by John Von Newman and is one of the most elegant algorithms to appear in the sorting literature. It is the first sorting algorithm to have $\theta(n lg n)$ execution time bound. It is important to observe that this algorithm spends a lot of time on data transfer operations. In fact, standard Mergesort incurs about 2n data move operations \cite{Abhyankar2011}.
 
@@ -26,7 +26,7 @@ Conceptually, Mergesort works as follows \cite{Abhyankar2011}:
     \item Merge the two sub arrays back into one array.
 \end{itemize}
 
-\subsection{Insertionsort}
+\subsubsection{Insertionsort}
 
 This algorithm sorts the array by shifting the elements one at time. It is efficient in sorting a small number of elements. The overall execution time of this algorithm is $\theta(n^2)$ \cite{Cormen2009}. The basic sorting steps are:
 \begin{itemize}
@@ -37,9 +37,9 @@ This algorithm sorts the array by shifting the elements one at time. It is effic
     \item Repeat until list is sorted.
 \end{itemize}
 
-\subsection{Bubblesort}
+\subsubsection{Bubblesort}
 
-The bubble sort is the oldest and simplest sorting method in use. It works by comparing each item in the list with the item next to it, and swapping them if required. The algorithm repeats this process until it makes a pass all the way through the list without swapping any items (in other words, all items are in the correct order) \cite{Mansotra2011}.
+The bubble sort is the oldest and simplest sorting method in use. It works by comparing each item in the list with the item next to it, and swapping them if required. The algorithm repeats this process until it makes a pass all the way through the list without swapping any items (in other words, all items are in the correct order) \cite{Mansotra2011}.\\
 
 Table \ref{table1} below shows the time complexity comparison between the sorting algorithms presented. The \textit{n} is the number of input elements.
 
