@@ -68,13 +68,32 @@ The set of hypothesis defined to test and draw some conclusions about this exper
 
 \subsection{Experimental Setup}
 
-To conduct the proposed study we get a set of files with the basic setup and instructions, that was composed by:
-\begin{itemize}
-    \item A script that generates input files;
-    \item Four files, one for each os those algorithms: quicksort, bubblesort, insertion sort, and mergesort, that are used to sorting the input data;
-\end{itemize}
+To conduct the proposed study, we define the values of the independent variables, as shown in Table \ref{table-independent-variables-values}:
 
-The input file looks like follow:
+\begin{table}[H]
+    \caption{Values of the independent variables.}
+    \begin{center}
+    \begin{tabular}{|c|c|}
+    \hline
+    \textbf{Variable} & \textbf{Values} \\
+    \hline
+    Probability of failure & 1\%, 2\% and 5\% \\
+    \hline
+    Array size & 100, 1000 and 10000 \\
+    \hline
+    Sorting algorithm & Bubblesort, Quicksort, Mergesort and Insertion sort \\
+    \hline
+    \end{tabular}
+    \label{table-independent-variables-values}
+    \end{center}
+\end{table}
+
+Based on these variables, we ran an existing script \textit{gen.py} to produce input files. We define that our sample was composed by 30 input files for a given combination of the probability of failure and array size. So, considering this, we ran 30 times for each combination of these independent variables, producing 30 inputs, totalizing 270 files. Figure \ref{fig-input-file-example} shows an example of produced input files:
+
+% \begin{itemize}
+%     \item A script that generates input files;
+%     \item Four files, one for each of those algorithms: quicksort, bubblesort, insertion sort, and mergesort, that are used to sorting the input data;
+% \end{itemize}
 
 \begin{verbbox}[\mbox{}]
 0.01 100 9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 
@@ -100,68 +119,70 @@ The input data shown in the Figure \ref{fig-input-file-example} is divided as fo
     \item \textit{Sequence}: the rest of the numbers indicates the sequence itself.
 \end{itemize}
 
-We run 1000 times each algorithm with each file listed in Table \ref{table-input-data} below. We chose this number of executions to reduce possible noise in the generated data. Table \ref{table-input-data} shows 9 different input files with its sequence sizes and probabilities of failure. Plus, the number of executions and each sorting algorithm.
+With this input data, we ran, for each one of these, all four algorithms considered in this study. The sorting algorithms used already existed. For example, using all 270 input files, we ran bubblesort, creating 270 output files, and so on for the other algorithms. At the end of executions, we get a total of 1080 output files. An output file look like shown in Figure \ref{fig-output-file-example}:
 
-For example, Input A showed in that table with its characteristics was executed 1000 times for each algorithm -  bubblesort, quicksort, mergesort, and insertion sort - totalizing 4000 executions.
+% We run 1000 times each algorithm with each file listed in Table \ref{table-input-data} below. We chose this number of executions to reduce possible noise in the generated data. Table \ref{table-input-data} shows 9 different input files with its sequence sizes and probabilities of failure. Plus, the number of executions and each sorting algorithm.
 
-\begin{table}[H]
-    \caption{Generated input data.}
-    \begin{center}
-    \begin{tabular}{|c|c|c|c|c|}
-    \hline
-    \textbf{Input} & \textbf{Sequence Size} & \textbf{Probability of Failure} & \textbf{Executions} & \textbf{Algorithm} \\ 
-    \hline
-    \multirow{4}{*}{Input A} & \multirow{4}{*}{100} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input B} & \multirow{4}{*}{100} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input C} & \multirow{4}{*}{100} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input D} & \multirow{4}{*}{1000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input E} & \multirow{4}{*}{1000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input F} & \multirow{4}{*}{1000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input G} & \multirow{4}{*}{10000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input H} & \multirow{4}{*}{10000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \multirow{4}{*}{Input I} & \multirow{4}{*}{10000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-    & & & & Quicksort \\
-    & & & & Mergesort \\
-    & & & & Insertion Sort \\
-    \hline
-    \end{tabular}
-    \label{table-input-data}
-    \end{center}
-\end{table}
+% For example, Input A showed in that table with its characteristics was executed 1000 times for each algorithm -  bubblesort, quicksort, mergesort, and insertion sort - totalizing 4000 executions.
 
-Each execution generates an output file. Then, we generate 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files. Figure \ref{fig-output-file-example} shows an output file.
+% \begin{table}[H]
+%     \caption{Generated input data.}
+%     \begin{center}
+%     \begin{tabular}{|c|c|c|c|c|}
+%     \hline
+%     \textbf{Input} & \textbf{Sequence Size} & \textbf{Probability of Failure} & \textbf{Executions} & \textbf{Algorithm} \\ 
+%     \hline
+%     \multirow{4}{*}{Input A} & \multirow{4}{*}{100} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input B} & \multirow{4}{*}{100} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input C} & \multirow{4}{*}{100} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input D} & \multirow{4}{*}{1000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input E} & \multirow{4}{*}{1000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input F} & \multirow{4}{*}{1000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input G} & \multirow{4}{*}{10000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input H} & \multirow{4}{*}{10000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \multirow{4}{*}{Input I} & \multirow{4}{*}{10000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
+%     & & & & Quicksort \\
+%     & & & & Mergesort \\
+%     & & & & Insertion Sort \\
+%     \hline
+%     \end{tabular}
+%     \label{table-input-data}
+%     \end{center}
+% \end{table}
+
+% Each execution generates an output file. Then, we generate 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files. Figure \ref{fig-output-file-example} shows an output file.
 
 \begin{verbbox}[\mbox{}]
 [1]  9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 34 1
@@ -195,6 +216,37 @@ The output file gives four essential data, as enumerated below:
     \item \textit{[3]}: the sequence sorted correctlty;
     \item \textit{[4]}: the size of the largest sorted subsequence in [2]. This number can be interpreted as the quality of sorting. As higher, most successful was the sorting operation.
 \end{itemize}
+
+After generating the dataset, we developed a Python script that reads the 1080 output files and produces a single CSV file (first lines showed in Figure \ref{fig-output-csv-file-example} below), containing the following columns:
+\begin{itemize}
+    \item \textit{algorithm}: the algorithm used to sort the array;
+    \item \textit{probability\_of\_failure}: the probability of failure used when sorting;
+    \item \textit{size\_of\_array}: the size of the array to be sorted;
+    \item \textit{largest\_sorted\_subarray}: the largest sorted subarray after sorting;
+    \item \textit{k\_unordered\_sequence}: number of unordered sequence after sorting.
+    \item \textit{percentage\_k\_unordered}: percentage of unordered sequence after sorting related to original array;
+    \item \textit{percentage\_largest\_sorted\_subarray}: percentage of largest sorted subarray after sorting related to original array.
+\end{itemize}
+
+\begin{verbbox}[\mbox{}]
+algorithm;probability_of_failure;size_of_array;largest_sorted_subarray;
+k_unordered_sequence;percentage_k_unordered;
+percentage_largest_sorted_subarray
+quick;0.01;100;35;4;4.00;35.00
+quick;0.01;100;36;8;8.00;36.00
+quick;0.01;100;31;5;5.00;31.00
+quick;0.01;100;20;6;6.00;20.00
+quick;0.01;100;31;5;5.00;31.00
+\end{verbbox}
+        
+\begin{figure}[H]
+    \centering
+    \fbox{
+    \theverbbox
+    }
+    \caption{Example of output CSV file.}
+    \label{fig-output-csv-file-example}
+\end{figure}
 
 \subsection{Development}
 

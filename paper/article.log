@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  19 DEC 2019 17:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  20 DEC 2019 19:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -631,52 +631,58 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 )) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MaterialsAndMethods.tex [3]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 79.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 98.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (2.84935pt too wide) in paragraph at lines 90--91
+Overfull \hbox (2.84935pt too wide) in paragraph at lines 109--110
  [][] 
  []
 
 [4]
-Overfull \hbox (2.84935pt too wide) in paragraph at lines 186--187
+Overfull \hbox (2.84935pt too wide) in paragraph at lines 207--208
  [][] 
  []
 
 [5]
+
+LaTeX Warning: Reference `table-input-data' on page 6 undefined on input line 253.
+
+
+LaTeX Warning: Reference `table-input-data' on page 6 undefined on input line 255.
+
 <figures/0_01_10000_Bubble_distribution_graph.png, id=28, 2092.2165pt x 1646.3106pt>
 File: figures/0_01_10000_Bubble_distribution_graph.png Graphic file (type png)
 <use figures/0_01_10000_Bubble_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Bubble_distribution_graph.png  used on input line 221.
+Package pdftex.def Info: figures/0_01_10000_Bubble_distribution_graph.png  used on input line 273.
 (pdftex.def)             Requested size: 251.05515pt x 197.54874pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 222.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
+LaTeX Font Info:    Try loading font information for T1+phv on input line 274.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
 <figures/0_01_10000_Insertion_distribution_graph.png, id=30, 2124.738pt x 1646.3106pt>
 File: figures/0_01_10000_Insertion_distribution_graph.png Graphic file (type png)
 <use figures/0_01_10000_Insertion_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Insertion_distribution_graph.png  used on input line 226.
+Package pdftex.def Info: figures/0_01_10000_Insertion_distribution_graph.png  used on input line 278.
 (pdftex.def)             Requested size: 254.95757pt x 197.54874pt.
 <figures/0_01_10000_Merge_distribution_graph.png, id=31, 2073.4263pt x 1646.3106pt>
 File: figures/0_01_10000_Merge_distribution_graph.png Graphic file (type png)
 <use figures/0_01_10000_Merge_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Merge_distribution_graph.png  used on input line 231.
+Package pdftex.def Info: figures/0_01_10000_Merge_distribution_graph.png  used on input line 283.
 (pdftex.def)             Requested size: 248.80042pt x 197.54874pt.
 <figures/0_01_10000_Quick_distribution_graph.png, id=32, 2051.0226pt x 1646.3106pt>
 File: figures/0_01_10000_Quick_distribution_graph.png Graphic file (type png)
 <use figures/0_01_10000_Quick_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Quick_distribution_graph.png  used on input line 236.
+Package pdftex.def Info: figures/0_01_10000_Quick_distribution_graph.png  used on input line 288.
 (pdftex.def)             Requested size: 246.11209pt x 197.54874pt.
  [6]
 <figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png, id=36, 1474.308pt x 1528.5105pt>
 File: figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png Graphic file (type png)
 <use figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png>
-Package pdftex.def Info: figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png  used on input line 247.
+Package pdftex.def Info: figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png  used on input line 299.
 (pdftex.def)             Requested size: 545.48543pt x 565.54004pt.
 
-Overfull \hbox (29.48543pt too wide) in paragraph at lines 247--248
+Overfull \hbox (29.48543pt too wide) in paragraph at lines 299--300
  [][] 
  []
 
@@ -706,15 +712,15 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8612 strings out of 492616
- 147071 string characters out of 6129481
- 243576 words of memory out of 5000000
- 12319 multiletter control sequences out of 15000+600000
+ 8615 strings out of 492616
+ 147188 string characters out of 6129481
+ 231576 words of memory out of 5000000
+ 12322 multiletter control sequences out of 15000+600000
  115835 words of font info for 136 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,12n,40p,753b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (12 pages, 989160 bytes).
+Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (12 pages, 988616 bytes).
 PDF statistics:
  95 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream

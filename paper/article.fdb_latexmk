@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex article"] 1576787296 "article.aux" "article.bbl" "article" 1576787301
+["bibtex article"] 1576879958 "article.aux" "article.bbl" "article" 1576880540
   "/usr/local/texlive/2019/texmf-dist/bibtex/bst/base/ieeetr.bst" 1292289607 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
   "RM1_Assignment.bib" 1575587314 9480 61ce51a6de88293fd2080f3795266efb ""
-  "article.aux" 1576787300 8231 b68ddebd6b31e7711407ab9c9126c29e "pdflatex"
+  "article.aux" 1576880540 8537 aa61dab26464e2f08dc60877c09810f9 "pdflatex"
   (generated)
-  "article.bbl"
   "article.blg"
-["pdflatex"] 1576787296 "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.tex" "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf" "article" 1576787301
-  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux" 1576787300 8231 b68ddebd6b31e7711407ab9c9126c29e ""
+  "article.bbl"
+["pdflatex"] 1576880536 "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.tex" "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf" "article" 1576880540
+  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux" 1576880540 8537 aa61dab26464e2f08dc60877c09810f9 ""
   "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.tex" 1576779927 11675 f84d55545ec09ccc5e5c7e15b0051a7b ""
   "/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1511824771 3332 103109f5612ad95229751940c61aada0 ""
@@ -142,12 +142,12 @@
   "Discussion.tex" 1575655008 20 0e9daa63e73e84f4a684b671b2ca76db ""
   "IEEEtran.cls" 1570459949 288304 b67b6fc6c2abb39f9b461923f5199343 ""
   "Introduction.tex" 1571661301 1840 24d9cdb70a25eec37d30f0c80a4dc7f5 ""
-  "MaterialsAndMethods.tex" 1576787292 13359 045ad0faf99a4690f5a2372ac7c323c9 ""
+  "MaterialsAndMethods.tex" 1576880536 16229 a330ab8eb328e895559caffa12cb0a8e ""
   "MemoryFaults.tex" 1576781077 1245 92a881ce38de88c2f0ef5f45b329fc18 ""
   "Results.tex" 1575655029 17 e5aa29df4c37f93cdad04a47e60f71d0 ""
   "SortingAlgorithms.tex" 1576780098 3916 8d024095b207a72fd7f70422d65af2c3 ""
-  "article.aux" 1576787300 8231 b68ddebd6b31e7711407ab9c9126c29e "pdflatex"
-  "article.bbl" 1576787296 2093 bb89abf2d1bf45e3c59c3c7b3688405b "bibtex article"
+  "article.aux" 1576880540 8537 aa61dab26464e2f08dc60877c09810f9 "pdflatex"
+  "article.bbl" 1576879958 2093 bb89abf2d1bf45e3c59c3c7b3688405b "bibtex article"
   "article.tex" 1576779927 11675 f84d55545ec09ccc5e5c7e15b0051a7b ""
   "figures/0_01_10000_Bubble_distribution_graph.png" 1576696282 186319 042daab6d6cbe62bb9dc7ea79c627570 ""
   "figures/0_01_10000_Insertion_distribution_graph.png" 1576696292 183828 3141340efa6c4993d2953202e4863300 ""
@@ -155,8 +155,8 @@
   "figures/0_01_10000_Quick_distribution_graph.png" 1576696288 167323 e825e76f4d699e73bd3da52a0e11b77e ""
   "figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png" 1576614082 212811 8d1464b8285b0ec0ba685f22eb5d5754 ""
   (generated)
-  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.log"
   "article.pdf"
-  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf"
+  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.log"
   "article.aux"
   "article.log"
+  "/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf"
