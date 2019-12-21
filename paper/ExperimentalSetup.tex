@@ -1,4 +1,4 @@
-\section{Materials and Methods}
+\section{Experimental Setup}
 
 We first state our problem, then describe our data, showing all its characteristics. Then, we provide our hypothesis, define the setup, and perform the testing. Finally, we collect and perform data analysis.
 
@@ -66,7 +66,7 @@ The set of hypothesis defined to test and draw some conclusions about this exper
 
 % \begin{hyp} \label{hyp:d} ... \end{hyp}
 
-\subsection{Experimental Setup}
+\subsection{Dataset}
 
 To conduct the proposed study, we define the values of the independent variables, as shown in Table \ref{table-independent-variables-values}:
 
@@ -258,57 +258,47 @@ We use Python libraries to make data analysis and plot graphs. These libraries w
     \item \textit{Seaborn\footnote{https://seaborn.pydata.org}}: data visualization library based on matplotlib.
 \end{itemize}
 
-\subsection{Development}
+% \subsection{Data Analysis}
 
-We develop Python scripts to generate our dataset. First, we generate all input files through a given script called \textit{gen.py}. This script considers sequence size and the probability of failure to create a sequence of integers. Were produced nine input files like Figure \ref{fig-input-file-example}, combining the sequence size and probability of failure listed in Table \ref{table-input-data}.
+% In this section, we describe our data and the statistic tests used to test the hypothesis showed before.
 
-After that, we developed a script called \textit{main\_execution.py} that is responsible for creating output files based on the input files exposed before. At this time, for every input showed in Table \ref{table-input-data} we ran 1000 times to minimize any deviation on the quality of sorting indicator (line \textit{[4]} on Figure \ref{fig-output-file-example}).
+% \subsubsection{Exploratory Data Analysis (EDA)}
 
-As said before, after the execution of this algorithm, 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files.
+% Based on the output files generated before, our starting point was to test if the dataset had a normal distribution. To achieve this, we use Shapiro-Wilk normality test. After we run these tests, only the distribution related to the dependent variable \textit{unordered elements size} was considered normal. Figure \ref{fig-distribution-graph} shows an example of this distribution. In these graphs, the red vertical line means the mean, and the blue vertical line means the median. The distributions were normal in all combinations of independent variables for dependent variable \textit{unordered elements size}.
 
-\textcolor{red}{To be continued...}
+% \begin{figure}[H]
+%     \centering
+%      \begin{subfigure}{.5\textwidth}
+%      \centering
+%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Bubble_distribution_graph}}
+%      \textsf{\caption[Distribution Graph for bubblesort.]{Distribution Graph for bubblesort.\label{fig-dist-bubble-001-100}}}
+%      \end{subfigure}%
+%      \begin{subfigure}{.5\textwidth}
+%      \centering
+%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Insertion_distribution_graph.png}}
+%      \textsf{\caption[Distribution Graph for insertion sort.]{Distribution Graph for insertion sort.\label{fig-dist-insertion-001-100}}}
+%      \end{subfigure}
+%      \begin{subfigure}{.5\textwidth}
+%      \centering
+%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Merge_distribution_graph.png}}
+%      \textsf{\caption[Distribution Graph for mergesort.]{Distribution Graph for mergesort.\label{fig-dist-merge-001-100}}}
+%      \end{subfigure}%
+%      \begin{subfigure}{.5\textwidth}
+%      \centering
+%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Quick_distribution_graph.png}}
+%      \textsf{\caption[Distribution Graph for quicksort.]{Distribution Graph for quicksort.\label{fig-dist-quick-001-100}}}
+%      \end{subfigure}
+%      \caption{Distribution graph for a probability failure of 1\% and a sequence size of 10000.}
+%     \label{fig-distribution-graph}
+% \end{figure}
 
-\subsection{Data Analysis}
+% Q-Q plot shows that how much more blue points close to the red line, most normal is the distribution. Figure \ref{fig-qqplot} below presents this graph for a probability failure of 1\% and a sequence size of 10000 for considered sorting algorithms.
 
-In this section, we describe our data and the statistic tests used to test the hypothesis showed before.
-
-\subsubsection{Exploratory Data Analysis (EDA)}
-
-Based on the output files generated before, our starting point was to test if the dataset had a normal distribution. To achieve this, we use Shapiro-Wilk normality test. After we run these tests, only the distribution related to the dependent variable \textit{unordered elements size} was considered normal. Figure \ref{fig-distribution-graph} shows an example of this distribution. In these graphs, the red vertical line means the mean, and the blue vertical line means the median. The distributions were normal in all combinations of independent variables for dependent variable \textit{unordered elements size}.
-
-\begin{figure}[H]
-    \centering
-     \begin{subfigure}{.5\textwidth}
-     \centering
-     \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Bubble_distribution_graph}}
-     \textsf{\caption[Distribution Graph for bubblesort.]{Distribution Graph for bubblesort.\label{fig-dist-bubble-001-100}}}
-     \end{subfigure}%
-     \begin{subfigure}{.5\textwidth}
-     \centering
-     \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Insertion_distribution_graph.png}}
-     \textsf{\caption[Distribution Graph for insertion sort.]{Distribution Graph for insertion sort.\label{fig-dist-insertion-001-100}}}
-     \end{subfigure}
-     \begin{subfigure}{.5\textwidth}
-     \centering
-     \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Merge_distribution_graph.png}}
-     \textsf{\caption[Distribution Graph for mergesort.]{Distribution Graph for mergesort.\label{fig-dist-merge-001-100}}}
-     \end{subfigure}%
-     \begin{subfigure}{.5\textwidth}
-     \centering
-     \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Quick_distribution_graph.png}}
-     \textsf{\caption[Distribution Graph for quicksort.]{Distribution Graph for quicksort.\label{fig-dist-quick-001-100}}}
-     \end{subfigure}
-     \caption{Distribution graph for a probability failure of 1\% and a sequence size of 10000.}
-    \label{fig-distribution-graph}
-\end{figure}
-
-Q-Q plot shows that how much more blue points close to the red line, most normal is the distribution. Figure \ref{fig-qqplot} below presents this graph for a probability failure of 1\% and a sequence size of 10000 for considered sorting algorithms.
-
-\begin{figure}[H]
-    \centering
-    \includegraphics[scale=0.37]{figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png}
-    \textsf{\caption[Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.]{Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.\label{fig-qqplot}}}
- \end{figure}
+% \begin{figure}[H]
+%     \centering
+%     \includegraphics[scale=0.37]{figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png}
+%     \textsf{\caption[Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.]{Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.\label{fig-qqplot}}}
+%  \end{figure}
 
 \subsection{Conclusions}
 

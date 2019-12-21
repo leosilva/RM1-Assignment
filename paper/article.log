@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.11)  20 DEC 2019 21:01
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.11)  20 DEC 2019 22:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -630,7 +630,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
 
  []
 
-)) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MaterialsAndMethods.tex [3]
+)) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/ExperimentalSetup.tex [3]
 LaTeX Font Info:    Try loading font information for T1+pcr on input line 98.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
@@ -644,57 +644,40 @@ Overfull \hbox (2.84935pt too wide) in paragraph at lines 207--208
  [][] 
  []
 
-[5]
-
-LaTeX Warning: Reference `table-input-data' on page 6 undefined on input line 263.
-
-
-LaTeX Warning: Reference `table-input-data' on page 6 undefined on input line 265.
-
-<figures/0_01_10000_Bubble_distribution_graph.png, id=28, 2092.2165pt x 1646.3106pt>
-File: figures/0_01_10000_Bubble_distribution_graph.png Graphic file (type png)
-<use figures/0_01_10000_Bubble_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Bubble_distribution_graph.png  used on input line 283.
-(pdftex.def)             Requested size: 251.05515pt x 197.54874pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 284.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-<figures/0_01_10000_Insertion_distribution_graph.png, id=30, 2124.738pt x 1646.3106pt>
-File: figures/0_01_10000_Insertion_distribution_graph.png Graphic file (type png)
-<use figures/0_01_10000_Insertion_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Insertion_distribution_graph.png  used on input line 288.
-(pdftex.def)             Requested size: 254.95757pt x 197.54874pt.
-<figures/0_01_10000_Merge_distribution_graph.png, id=31, 2073.4263pt x 1646.3106pt>
-File: figures/0_01_10000_Merge_distribution_graph.png Graphic file (type png)
-<use figures/0_01_10000_Merge_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Merge_distribution_graph.png  used on input line 293.
-(pdftex.def)             Requested size: 248.80042pt x 197.54874pt.
-<figures/0_01_10000_Quick_distribution_graph.png, id=32, 2051.0226pt x 1646.3106pt>
-File: figures/0_01_10000_Quick_distribution_graph.png Graphic file (type png)
-<use figures/0_01_10000_Quick_distribution_graph.png>
-Package pdftex.def Info: figures/0_01_10000_Quick_distribution_graph.png  used on input line 298.
-(pdftex.def)             Requested size: 246.11209pt x 197.54874pt.
+[5]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/DataAnalysis.tex
+<figures/0_01_100_Bubble.png, id=28, 4866.6618pt x 4119.39pt>
+File: figures/0_01_100_Bubble.png Graphic file (type png)
+<use figures/0_01_100_Bubble.png>
+Package pdftex.def Info: figures/0_01_100_Bubble.png  used on input line 13.
+(pdftex.def)             Requested size: 510.97745pt x 432.51729pt.
  [6]
-<figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png, id=36, 1474.308pt x 1528.5105pt>
-File: figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png Graphic file (type png)
-<use figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png>
-Package pdftex.def Info: figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png  used on input line 309.
-(pdftex.def)             Requested size: 545.48543pt x 565.54004pt.
+<figures/0_01_100_Insertion.png, id=33, 4866.6618pt x 4119.39pt>
+File: figures/0_01_100_Insertion.png Graphic file (type png)
+<use figures/0_01_100_Insertion.png>
+Package pdftex.def Info: figures/0_01_100_Insertion.png  used on input line 38.
+(pdftex.def)             Requested size: 510.97745pt x 432.51729pt.
+ [7 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Bubble.png>]
+<figures/0_05_10000_Merge.png, id=39, 4950.495pt x 4119.39pt>
+File: figures/0_05_10000_Merge.png Graphic file (type png)
+<use figures/0_05_10000_Merge.png>
+Package pdftex.def Info: figures/0_05_10000_Merge.png  used on input line 45.
+(pdftex.def)             Requested size: 519.77956pt x 432.51729pt.
 
-Overfull \hbox (29.48543pt too wide) in paragraph at lines 309--310
+Overfull \hbox (3.77956pt too wide) in paragraph at lines 45--46
  [][] 
  []
 
-[7 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_10000_Bubble_distribution_graph.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_10000_Insertion_distribution_graph.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_10000_Merge_distribution_graph.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_10000_Quick_distribution_graph.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Results.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Discussion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex) [8 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png>] [9]
+[8 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Insertion.png>]
+<figures/0_05_10000_Quick.png, id=44, 4917.2508pt x 4119.39pt>
+File: figures/0_05_10000_Quick.png Graphic file (type png)
+<use figures/0_05_10000_Quick.png>
+Package pdftex.def Info: figures/0_05_10000_Quick.png  used on input line 52.
+(pdftex.def)             Requested size: 516.28906pt x 432.51729pt.
+ [9 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Merge.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Results.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Discussion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex)
 
-LaTeX Warning: Citation `b7' on page 10 undefined on input line 162.
+LaTeX Warning: Reference `fig' on page 10 undefined on input line 79.
 
-[10]
-
-LaTeX Warning: Reference `fig' on page 11 undefined on input line 198.
-
-(/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl [11])
+[10 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png>] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -706,24 +689,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[12] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
+[11] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
 
 LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 8616 strings out of 492616
- 147194 string characters out of 6129480
+ 8541 strings out of 492616
+ 145671 string characters out of 6129480
  231576 words of memory out of 5000000
- 12322 multiletter control sequences out of 15000+600000
- 116913 words of font info for 137 fonts, out of 8000000 for 9000
+ 12249 multiletter control sequences out of 15000+600000
+ 113425 words of font info for 135 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,12n,40p,753b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,11n,40p,806b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (12 pages, 989338 bytes).
+Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (11 pages, 3101740 bytes).
 PDF statistics:
- 95 PDF objects out of 1000 (max. 8388607)
- 60 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 

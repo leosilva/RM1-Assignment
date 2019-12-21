@@ -3,7 +3,6 @@ Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: article.aux
 The style file: ieeetr.bst
 Database file #1: RM1_Assignment.bib
-Warning--I didn't find a database entry for "b7"
 Warning--there's a number but no series in Finocchi2004
 Warning--can't use both volume and number fields in Hamdioui2003
 Warning--empty publisher in Hamdioui2003
@@ -14,7 +13,7 @@ Warning--empty journal in Mansotra2011
 Warning--empty journal in Prajapati2017
 You've used 11 entries,
             1876 wiz_defined-function locations,
-            556 strings with 5241 characters,
+            555 strings with 5239 characters,
 and the built_in function-call counts, 3187 in all, are:
 = -- 333
 > -- 90
@@ -53,4 +52,4 @@ warning$ -- 8
 while$ -- 39
 width$ -- 13
 write$ -- 112
-(There were 9 warnings)
+(There were 8 warnings)
