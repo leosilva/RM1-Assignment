@@ -11,45 +11,45 @@ Warning--can't use both author and editor fields in Cormen2009
 Warning--empty journal in Abhyankar2011
 Warning--empty journal in Mansotra2011
 Warning--empty journal in Prajapati2017
-You've used 11 entries,
+You've used 12 entries,
             1876 wiz_defined-function locations,
-            555 strings with 5239 characters,
-and the built_in function-call counts, 3187 in all, are:
-= -- 333
-> -- 90
+            564 strings with 5393 characters,
+and the built_in function-call counts, 3519 in all, are:
+= -- 371
+> -- 98
 < -- 0
-+ -- 35
-- -- 24
-* -- 231
-:= -- 435
-add.period$ -- 12
-call.type$ -- 11
-change.case$ -- 10
++ -- 38
+- -- 26
+* -- 254
+:= -- 478
+add.period$ -- 13
+call.type$ -- 12
+change.case$ -- 11
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 166
-empty$ -- 307
-format.name$ -- 24
-if$ -- 781
+cite$ -- 20
+duplicate$ -- 183
+empty$ -- 337
+format.name$ -- 26
+if$ -- 864
 int.to.chr$ -- 0
-int.to.str$ -- 11
-missing$ -- 12
-newline$ -- 37
-num.names$ -- 11
-pop$ -- 33
+int.to.str$ -- 12
+missing$ -- 13
+newline$ -- 40
+num.names$ -- 12
+pop$ -- 34
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 118
+skip$ -- 133
 stack$ -- 0
-substring$ -- 242
-swap$ -- 72
+substring$ -- 274
+swap$ -- 81
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 8
-while$ -- 39
-width$ -- 13
-write$ -- 112
+while$ -- 43
+width$ -- 14
+write$ -- 123
 (There were 8 warnings)

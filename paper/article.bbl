@@ -53,4 +53,8 @@ U.~Ferraro-Petrillo, I.~Finocchi, and G.~F. Italiano, ``{The price of
   resiliency: A case study on sorting with memory faults},'' {\em Algorithmica
   (New York)}, vol.~53, no.~4, pp.~597--620, 2009.
 
+\bibitem{shapiro1965analysis}
+S.~S. Shapiro and M.~B. Wilk, ``An analysis of variance test for normality
+  (complete samples),'' {\em Biometrika}, vol.~52, no.~3/4, pp.~591--611, 1965.
+
 \end{thebibliography}
