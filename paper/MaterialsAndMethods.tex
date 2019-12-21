@@ -248,6 +248,16 @@ quick;0.01;100;31;5;5.00;31.00
     \label{fig-output-csv-file-example}
 \end{figure}
 
+We use Python libraries to make data analysis and plot graphs. These libraries were:
+\begin{itemize}
+    \item \textit{Pandas\footnote{https://pandas.pydata.org}}: open source library providing data structures and data analysis tools;
+    \item \textit{NumPy\footnote{https://numpy.org}}: library for scientific computing with Python;
+    \item \textit{SciPy\footnote{https://www.scipy.org}}: ecosystem of open-source software for mathematics, science, and engineering;
+    \item \textit{StatsModels\footnote{https://www.statsmodels.org}}: module that provides classes and functions for the estimation of many different statistical models, as well as for conducting statistical tests, and statistical data exploration;
+    \item \textit{Matplotlib\footnote{https://matplotlib.org}}: plotting library;
+    \item \textit{Seaborn\footnote{https://seaborn.pydata.org}}: data visualization library based on matplotlib.
+\end{itemize}
+
 \subsection{Development}
 
 We develop Python scripts to generate our dataset. First, we generate all input files through a given script called \textit{gen.py}. This script considers sequence size and the probability of failure to create a sequence of integers. Were produced nine input files like Figure \ref{fig-input-file-example}, combining the sequence size and probability of failure listed in Table \ref{table-input-data}.
