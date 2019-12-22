@@ -1,1 +1,15 @@
 \section{Conclusion}
+
+This work proposes a study and discussion of how sorting algorithms, particularly Quicksort, Mergesort, Insertion Sort, and Bubblesort, are affected by memory faults. To achieve this, we define the experimental setup, showing the dependent and independent variables, then the used dataset with its characteristics. Next, we performed data analysis after the execution of sorting algorithms over the dataset. As explained in this work, we analyzed only the dependent variables \textit{percentage of the largest subarray size ((\%LSS)} and \textit{percentage of unordered elements quantity (\%UEQ)}. These variables, because they are a percentage value, already were normalized (i.e., the same order of magnitude) related to dependent variable \textit{array size}.
+
+We ran a normality test and, after that, we determined that only the dependent variable \%UEQ (\textit{percentage of unordered elements quantity}) has a normal distribution related to mean for all algorithms, so we choosed to test just the hypothesis associated with the dependent variable \%UEQ.
+
+After data analysis and discussion, we can conclude that, in this experiment, the worse algorithm related to \%UEQ variable was Insertion sort. This algorithm had the highest mean values in almost all combinations of study. These values were much higher than other algorithms when tested with \textit{probability of failure} of 1\% (0.01). Finally, our tests shows that, in general, Quicksort algorithm was better than Mergesort.
+
+We can, then, with our results, elaborate a ranking of the performance of algorithms when considering memory faults:
+\begin{enumerate}
+    \item Bubblesort
+    \item Quicksort
+    \item Mergesort
+    \item Insertion sort
+\end{enumerate}

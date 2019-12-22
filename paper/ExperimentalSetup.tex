@@ -1,6 +1,6 @@
 \section{Experimental Setup}
 
-We first state our problem, then describe our data, showing all its characteristics. Then, we provide our hypothesis, define the setup, and perform the testing. Finally, we collect and perform data analysis.
+In this section, we present the setup of this study. We first state our problem, then define the independent and dependent variables. After that, we show the hypothesis and describe our dataset, showing all its characteristics.
 
 \subsection{Problem Statement}
 
@@ -59,13 +59,6 @@ The set of hypothesis defined to test and draw some conclusions about this exper
     \item \textbf{Hypothesis 4:} For each algorithm, the array size and probability of failure have a significative impact on the percentage of the largest subarray size.
 \end{itemize}
 
-% \setcounter{hyp}{-1}
-% \begin{hyp}[Test hypothesis] \label{hyp:a}There is no difference in memory faults between tested algorithms.\end{hyp}
-% \begin{hyp} \label{hyp:b}There are differences in memory faults between tested algorithms. \end{hyp}
-% \begin{hyp} \label{hyp:c} An algorithm is better than others considering all dependent variables. \end{hyp}
-
-% \begin{hyp} \label{hyp:d} ... \end{hyp}
-
 \subsection{Dataset}
 
 To conduct the proposed study, we define the values of the independent variables, as shown in Table \ref{table-independent-variables-values}:
@@ -89,11 +82,6 @@ To conduct the proposed study, we define the values of the independent variables
 \end{table}
 
 Based on these variables, we ran an existing script \textit{gen.py} to produce input files. We define that our sample was composed by 30 input files for a given combination of the probability of failure and array size. So, considering this, we ran 30 times for each combination of these independent variables, producing 30 inputs, totalizing 270 files. Figure \ref{fig-input-file-example} shows an example of produced input files:
-
-% \begin{itemize}
-%     \item A script that generates input files;
-%     \item Four files, one for each of those algorithms: quicksort, bubblesort, insertion sort, and mergesort, that are used to sorting the input data;
-% \end{itemize}
 
 \begin{verbbox}[\mbox{}]
 0.01 100 9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 
@@ -120,69 +108,6 @@ The input data shown in the Figure \ref{fig-input-file-example} is divided as fo
 \end{itemize}
 
 With this input data, we ran, for each one of these, all four algorithms considered in this study. The sorting algorithms used already existed. For example, using all 270 input files, we ran bubblesort, creating 270 output files, and so on for the other algorithms. At the end of executions, we get a total of 1080 output files. An output file look like shown in Figure \ref{fig-output-file-example}:
-
-% We run 1000 times each algorithm with each file listed in Table \ref{table-input-data} below. We chose this number of executions to reduce possible noise in the generated data. Table \ref{table-input-data} shows 9 different input files with its sequence sizes and probabilities of failure. Plus, the number of executions and each sorting algorithm.
-
-% For example, Input A showed in that table with its characteristics was executed 1000 times for each algorithm -  bubblesort, quicksort, mergesort, and insertion sort - totalizing 4000 executions.
-
-% \begin{table}[H]
-%     \caption{Generated input data.}
-%     \begin{center}
-%     \begin{tabular}{|c|c|c|c|c|}
-%     \hline
-%     \textbf{Input} & \textbf{Sequence Size} & \textbf{Probability of Failure} & \textbf{Executions} & \textbf{Algorithm} \\ 
-%     \hline
-%     \multirow{4}{*}{Input A} & \multirow{4}{*}{100} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input B} & \multirow{4}{*}{100} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input C} & \multirow{4}{*}{100} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input D} & \multirow{4}{*}{1000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input E} & \multirow{4}{*}{1000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input F} & \multirow{4}{*}{1000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input G} & \multirow{4}{*}{10000} & \multirow{4}{*}{1\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input H} & \multirow{4}{*}{10000} & \multirow{4}{*}{2\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \multirow{4}{*}{Input I} & \multirow{4}{*}{10000} & \multirow{4}{*}{5\%} & \multirow{4}{*}{1000} & Bubblesort \\ 
-%     & & & & Quicksort \\
-%     & & & & Mergesort \\
-%     & & & & Insertion Sort \\
-%     \hline
-%     \end{tabular}
-%     \label{table-input-data}
-%     \end{center}
-% \end{table}
-
-% Each execution generates an output file. Then, we generate 4000 outputs for each combination of sequence size, and the probability of failure, totalizing 36000 files. Figure \ref{fig-output-file-example} shows an output file.
 
 \begin{verbbox}[\mbox{}]
 [1]  9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 34 1
@@ -217,7 +142,7 @@ The output file gives four essential data, as enumerated below:
     \item \textit{[4]}: the size of the largest sorted subsequence in [2]. This number can be interpreted as the quality of sorting. As higher, most successful was the sorting operation.
 \end{itemize}
 
-After generating the dataset, we developed a Python script that reads the 1080 output files and produces a single CSV file (first lines showed in Figure \ref{fig-output-csv-file-example} below), containing the following columns:
+After generating the dataset, we developed a Python script that reads the 1080 output files and produces a single CSV file (first lines showed in Figure \ref{fig-output-csv-file-example} below). This file was used to run the statistical tests, and contains the following columns:
 \begin{itemize}
     \item \textit{algorithm}: the algorithm used to sort the array;
     \item \textit{probability\_of\_failure}: the probability of failure used when sorting;
@@ -257,48 +182,3 @@ We use Python libraries to make data analysis and plot graphs. These libraries w
     \item \textit{Matplotlib\footnote{https://matplotlib.org}}: plotting library;
     \item \textit{Seaborn\footnote{https://seaborn.pydata.org}}: data visualization library based on matplotlib.
 \end{itemize}
-
-% \subsection{Data Analysis}
-
-% In this section, we describe our data and the statistic tests used to test the hypothesis showed before.
-
-% \subsubsection{Exploratory Data Analysis (EDA)}
-
-% Based on the output files generated before, our starting point was to test if the dataset had a normal distribution. To achieve this, we use Shapiro-Wilk normality test. After we run these tests, only the distribution related to the dependent variable \textit{unordered elements size} was considered normal. Figure \ref{fig-distribution-graph} shows an example of this distribution. In these graphs, the red vertical line means the mean, and the blue vertical line means the median. The distributions were normal in all combinations of independent variables for dependent variable \textit{unordered elements size}.
-
-% \begin{figure}[H]
-%     \centering
-%      \begin{subfigure}{.5\textwidth}
-%      \centering
-%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Bubble_distribution_graph}}
-%      \textsf{\caption[Distribution Graph for bubblesort.]{Distribution Graph for bubblesort.\label{fig-dist-bubble-001-100}}}
-%      \end{subfigure}%
-%      \begin{subfigure}{.5\textwidth}
-%      \centering
-%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Insertion_distribution_graph.png}}
-%      \textsf{\caption[Distribution Graph for insertion sort.]{Distribution Graph for insertion sort.\label{fig-dist-insertion-001-100}}}
-%      \end{subfigure}
-%      \begin{subfigure}{.5\textwidth}
-%      \centering
-%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Merge_distribution_graph.png}}
-%      \textsf{\caption[Distribution Graph for mergesort.]{Distribution Graph for mergesort.\label{fig-dist-merge-001-100}}}
-%      \end{subfigure}%
-%      \begin{subfigure}{.5\textwidth}
-%      \centering
-%      \frame{\includegraphics[scale=0.12]{figures/0_01_10000_Quick_distribution_graph.png}}
-%      \textsf{\caption[Distribution Graph for quicksort.]{Distribution Graph for quicksort.\label{fig-dist-quick-001-100}}}
-%      \end{subfigure}
-%      \caption{Distribution graph for a probability failure of 1\% and a sequence size of 10000.}
-%     \label{fig-distribution-graph}
-% \end{figure}
-
-% Q-Q plot shows that how much more blue points close to the red line, most normal is the distribution. Figure \ref{fig-qqplot} below presents this graph for a probability failure of 1\% and a sequence size of 10000 for considered sorting algorithms.
-
-% \begin{figure}[H]
-%     \centering
-%     \includegraphics[scale=0.37]{figures/anova_prob_0_01_tam_10000_DESORDENADOS_PERCENTUAL.png}
-%     \textsf{\caption[Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.]{Q-Q plot showing normal distribution for a probability failure of 1\% and a sequence size of 10000.\label{fig-qqplot}}}
-%  \end{figure}
-
-\subsection{Conclusions}
-

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.11)  21 DEC 2019 18:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.11)  22 DEC 2019 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -515,7 +515,20 @@ Package caption Info: float package is loaded.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/cleveref/cleveref.sty
 Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
 Package cleveref Info: `amsthm' support loaded on input line 3026.
-) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
+) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux
+
+LaTeX Warning: Label `hyp:a' multiply defined.
+
+
+LaTeX Warning: Label `hyp:a@cref' multiply defined.
+
+
+LaTeX Warning: Label `hyp:b' multiply defined.
+
+
+LaTeX Warning: Label `hyp:b@cref' multiply defined.
+
+)
 \openout1 = `article.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -631,16 +644,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 42--43
  []
 
 )) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/ExperimentalSetup.tex [3]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 98.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 86.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
-Overfull \hbox (2.84935pt too wide) in paragraph at lines 109--110
+Overfull \hbox (2.84935pt too wide) in paragraph at lines 97--98
  [][] 
  []
 
 [4]
-Overfull \hbox (2.84935pt too wide) in paragraph at lines 207--208
+Overfull \hbox (2.84935pt too wide) in paragraph at lines 132--133
  [][] 
  []
 
@@ -680,21 +693,51 @@ File: figures/Estatisticas_por_Algoritmo_Prob_001.png Graphic file (type png)
 Package pdftex.def Info: figures/Estatisticas_por_Algoritmo_Prob_001.png  used on input line 89.
 (pdftex.def)             Requested size: 493.16176pt x 381.57884pt.
  [10 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png>] [11 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png>]
-<figures/anova_prob_0_01_tam_100_Largest_subarray_size.png, id=58, 1469.2491pt x 1528.5105pt>
-File: figures/anova_prob_0_01_tam_100_Largest_subarray_size.png Graphic file (type png)
-<use figures/anova_prob_0_01_tam_100_Largest_subarray_size.png>
-Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Largest_subarray_size.png  used on input line 150.
+<figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png, id=58, 1469.2491pt x 1528.5105pt>
+File: figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png Graphic file (type png)
+<use figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png>
+Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png  used on input line 150.
 (pdftex.def)             Requested size: 440.77814pt x 458.55669pt.
 LaTeX Font Info:    Try loading font information for T1+phv on input line 151.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-) [12 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Largest_subarray_size.png>]
+) [12 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png>]
 <figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png, id=63, 1459.1313pt x 1528.5105pt>
 File: figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png Graphic file (type png)
 <use figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>
 Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png  used on input line 158.
 (pdftex.def)             Requested size: 437.74277pt x 458.55669pt.
-) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Results.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Discussion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl [13 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>])
+ [13 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>]
+<figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png, id=69, 1463.4675pt x 1528.5105pt>
+File: figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png Graphic file (type png)
+<use figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png>
+Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png  used on input line 210.
+(pdftex.def)             Requested size: 439.04364pt x 458.55669pt.
+<figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png, id=70, 1469.9718pt x 1528.5105pt>
+File: figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png Graphic file (type png)
+<use figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png>
+Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png  used on input line 216.
+(pdftex.def)             Requested size: 440.99495pt x 458.55669pt.
+ [14 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png>] [15 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png>]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7.69997> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 235.
+ [16] [17]
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png, id=85, 426.393pt x 195.6108pt>
+File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png Graphic file (type png)
+<use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png>
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png  used on input line 396.
+(pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png, id=86, 426.393pt x 195.6108pt>
+File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png Graphic file (type png)
+<use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png>
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png  used on input line 402.
+(pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png, id=87, 426.393pt x 195.6108pt>
+File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png Graphic file (type png)
+<use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png>
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png  used on input line 408.
+(pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
+ [18 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex [19 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -706,20 +749,24 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[14] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux) ) 
+[20] (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 8614 strings out of 492616
- 147602 string characters out of 6129480
- 231576 words of memory out of 5000000
- 12315 multiletter control sequences out of 15000+600000
- 115161 words of font info for 136 fonts, out of 8000000 for 9000
+ 8659 strings out of 492616
+ 149456 string characters out of 6129480
+ 236576 words of memory out of 5000000
+ 12360 multiletter control sequences out of 15000+600000
+ 117964 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,46p,806b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 42i,10n,46p,882b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (14 pages, 3717596 bytes).
+Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (20 pages, 4161223 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 65 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 78 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
