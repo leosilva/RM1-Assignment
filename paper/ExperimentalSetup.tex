@@ -110,19 +110,19 @@ The input data shown in the Figure \ref{fig-input-file-example} is divided as fo
 With this input data, we ran, for each one of these, all four algorithms considered in this study. The sorting algorithms used already existed. For example, using all 270 input files, we ran bubblesort, creating 270 output files, and so on for the other algorithms. At the end of executions, we get a total of 1080 output files. An output file looks like shown in Figure \ref{fig-output-file-example}:
 
 \begin{verbbox}[\mbox{}]
-[1]  9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 34 1
+#1  9 48 37 6 26 7 24 44 17 50 48 30 49 33 22 13 42 29 39 13 19 13 9 28 34 1
 33 27 14 45 48 40 11 17 6 50 9 44 20 16 37 45 23 14 38 29 10 49 44 46 35 45  
 15 2 22 1 46 40 8 48 23 23 32 35 3 15 8 36 17 24 27 48 28 5 28 50 44 4 25 6 9
 1 11 44 26 50 44 12 7 20 30 20 37 20 6 8 13 15 20 49
-[2]  1 1 1 2 3 4 5 6 6 6 6 7 7 8 8 8 9 9 9 9 10 11 11 12 13 13 13 13 14 14 15 
+#2  1 1 1 2 3 4 5 6 6 6 6 7 7 8 8 8 9 9 9 9 10 11 11 12 13 13 13 13 14 14 15 
 15 15 16 17 17 17 19 20 20 20 20 22 22 23 23 23 24 24 25 26 26 27 27 28 28 28 
 29 29 30 30 32 33 33 34 35 35 36 37 37 37 38 39 40 40 42 44 44 44 44 44 44 20 
 45 45 45 46 46 48 48 48 48 48 49 49 50 49 50 50 50
-[3]  1 1 1 2 3 4 5 6 6 6 6 7 7 8 8 8 9 9 9 9 10 11 11 12 13 13 13 13 14 14 15 
+#3  1 1 1 2 3 4 5 6 6 6 6 7 7 8 8 8 9 9 9 9 10 11 11 12 13 13 13 13 14 14 15 
 15 15 16 17 17 17 19 20 20 20 20 20 22 22 23 23 23 24 24 25 26 26 27 27 28 28 
 28 29 29 30 30 32 33 33 34 35 35 36 37 37 37 38 39 40 40 42 44 44 44 44 44 44 
 45 45 45 46 46 48 48 48 48 48 49 49 49 50 50 50 50
-[4]  82
+#4  82
 \end{verbbox}
     
 \begin{figure}[H]
@@ -136,10 +136,10 @@ With this input data, we ran, for each one of these, all four algorithms conside
 
 The output file gives four essential data, as enumerated below:
 \begin{itemize}
-    \item \textit{1)} the original sequence of integers contained in the input file;
-    \item \textit{2)} the sequence processed by the sorting algorithm under the memory fault model;
-    \item \textit{3)} the sequence sorted correctly;
-    \item \textit{4)} the size of the largest sorted subsequence in item \textit{2}. This number can be interpreted as a quality measure. As higher, most successful was the sorting operation.
+    \item \textit{\#1}: the original sequence of integers contained in the input file;
+    \item \textit{\#2}: the sequence processed by the sorting algorithm under the memory fault model;
+    \item \textit{\#3}: the sequence sorted correctly;
+    \item \textit{\#4}: the size of the largest sorted subsequence in item \textit{2}. This number can be interpreted as a quality measure. As higher, most successful was the sorting operation.
 \end{itemize}
 
 After generating the dataset, we developed a Python program that reads the 1080 output files and produces a single CSV file (first lines showed in Figure \ref{fig-output-csv-file-example}). This file contains the columns listed below and was used to perform the exploratory data analysis and to run the statistical tests.
