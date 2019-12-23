@@ -1,354 +1,381 @@
-PWD /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper
-INPUT /usr/local/texlive/2019/texmf.cnf
-INPUT /usr/local/texlive/2019/texmf-dist/web2c/texmf.cnf
-INPUT /usr/local/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.tex
-OUTPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.log
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/IEEEtran.cls
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/IEEEtran.cls
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi7t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1ptm.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amscls/amsthm.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/algorithms/algorithmic.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/algorithms/algorithmic.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/multirow/multirow.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/verbatimbox/verbatimbox.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/verbatimbox/verbatimbox.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/readarray/readarray.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/readarray/readarray.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/listofitems/listofitems.tex
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thmtools.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thmtools.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-patch.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-patch.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/parseargs.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/parseargs.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-kv.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-kv.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-autoref.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-autoref.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/aliasctr.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/aliasctr.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/carlisle/remreset.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/carlisle/remreset.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-listof.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-listof.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-restate.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-restate.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/thmtools/thm-amsthm.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/subcaption.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cleveref/cleveref.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/cleveref/cleveref.sty
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux
-OUTPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Abstract.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Abstract.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Introduction.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Introduction.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmrc8t.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Background.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Background.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MemoryFaults.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/MemoryFaults.tex
-OUTPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmrc8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/SortingAlgorithms.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/SortingAlgorithms.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/ExperimentalSetup.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/ExperimentalSetup.tex
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1pcr.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/courier/pcrr8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmri8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmri8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/courier/pcrr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/courier/pcrr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8t.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/DataAnalysis.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/DataAnalysis.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Bubble.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Bubble.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Bubble.png
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmr8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmr8r.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Insertion.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Insertion.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Insertion.png
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmbi8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmbi8r.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Merge.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Merge.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Merge.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-INPUT /usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/helvetic/phvr8t.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8t.tfm
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/vf/adobe/times/ptmb8t.vf
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/tfm/adobe/times/ptmb8r.tfm
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl
-INPUT /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb
-INPUT /usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb
+PWD /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/data/miktex/data/le/pdftex/pdflatex.fmt
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.tex
+OUTPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.log
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/IEEEtran.cls
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/IEEEtran.cls
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/ot1ptm.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi7t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/inputenc.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/fontenc.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1enc.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/t1enc.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1ptm.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amscls/amsthm.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsmath.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amstext.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsgen.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsbsy.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsmath/amsopn.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amssymb.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/amsfonts.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/cite.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cite/cite.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithms/algorithmic.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/algorithms/algorithmic.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ifthen.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/keyval.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/multirow/multirow.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphicx.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/graphics.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics/trig.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-def/pdftex.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/textcomp.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.def
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.dfu
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1enc.dfu
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolor/xcolor.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graphics-cfg/color.cfg
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/setspace/setspace.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/verbatimbox/verbatimbox.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/verbatimbox/verbatimbox.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/tools/verbatim.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/readarray/readarray.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/readarray/readarray.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listofitems/listofitems.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/listofitems/listofitems.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/listofitems/listofitems.tex
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thmtools.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thmtools.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-patch.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-patch.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/parseargs.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/parseargs.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-kv.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-kv.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/etexcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/etexcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-autoref.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-autoref.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/aliasctr.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/aliasctr.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-listof.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-listof.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-restate.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-restate.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-amsthm.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/thmtools/thm-amsthm.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/float/float.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/subcaption.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/caption/caption3.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cleveref/cleveref.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/cleveref/cleveref.sty
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.aux
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.aux
+OUTPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.aux
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1cmr.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/ts1cmr.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/grfext.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/grfext.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Abstract.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Abstract.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Introduction.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Introduction.tex
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmrc8t.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Background.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Background.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/MemoryFaults.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/MemoryFaults.tex
+OUTPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.pdf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/data/pdftex/config/pdftex.map
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmrc8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr8.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmex10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsa.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/amsfonts/umsb.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/SortingAlgorithms.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/SortingAlgorithms.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/ExperimentalSetup.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/ExperimentalSetup.tex
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr9.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmr6.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi9.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy9.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex9.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msam5.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmbi8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pcr.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1pcr.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmri8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmri8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/courier/pcrr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/courier/pcrr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8t.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/DataAnalysis.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/DataAnalysis.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Bubble.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Bubble.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Bubble.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Bubble.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Bubble.png
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmr8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmr8r.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Insertion.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Insertion.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Insertion.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Insertion.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_01_100_Insertion.png
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmbi8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmbi8r.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Merge.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Merge.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Merge.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Merge.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Merge.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Quick.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Quick.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Quick.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Quick.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/0_05_10000_Quick.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1phv.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/tex/latex/psnfss/t1phv.fd
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/helvetic/phvr8t.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8t.tfm
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/vf/adobe/times/ptmb8t.vf
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/tfm/adobe/times/ptmb8r.tfm
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Conclusion.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/Conclusion.tex
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.bbl
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.bbl
+INPUT /Users/papaiz/Lixo/_0_rm-assignment/proj_gitlab/rm1-assignment/paper/article.aux
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/enc/dvips/base/8r.enc
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/courier/ucrr8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmb8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmbi8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmr8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb
+INPUT /Users/papaiz/Library/Application Support/MiKTeX/texmfs/install/fonts/type1/urw/times/utmri8a.pfb

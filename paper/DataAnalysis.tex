@@ -1,6 +1,6 @@
 \section{Data Analysis}
 
-In this section, we present our results after the execution of sorting algorithms over the input files. We analyzed only the dependent variables \textit{percentage of the largest subarray size ((\%LSS)} and \textit{percentage of unordered elements quantity (\%UEQ)}. These variables, because they are a percentage value, already were normalized (i.e., the same order of magnitude) related to dependent variable \textit{array size}.
+In this section, we present our results after the execution of sorting algorithms over the input files. We analyzed only two of the four dependent variables, which were \textit{percentage of the largest subarray size (\%LSS)} and \textit{percentage of unordered elements quantity (\%UEQ)}. These variables, because they are a percentage value, already were normalized (i.e., the same order of magnitude) related to dependent variable \textit{array size}.
 
 \subsection{Exploratory Data Analysis (EDA)}
 
@@ -95,9 +95,9 @@ We produced graphs with the same data showed in Tables \ref{tab-distribution-dep
 
 An essential step to continue the analysis is to verify if dependent variables have a normal distribution. In this work, we produced the Q-Q plot to analyze the normality visually. We also ran the Shapiro-Wilk \cite{shapiro1965analysis} test to confirm if they follow a normal distribution or not.
 
-After the Shapiro-Wilk test, we determine that only the dependent variable \%UEQ (\textit{percentage of unordered elements quantity}) has a normal distribution related to mean for all algorithms. This situation occurs considering all possible combinations between independent variables: \textit{sorting algorithm}, \textit{probability of failure} and \textit{array size}.
+After the Shapiro-Wilk test, we determine that only the dependent variable \%UEQ (\textit{percentage of unordered elements quantity}) has a normal distribution related to mean for all algorithms. This situation occurred considering all possible combinations between independent variables: \textit{sorting algorithm}, \textit{probability of failure} and \textit{array size}.
 
-Based on these results, we choose to test just the hypothesis associated with the dependent variable \%UEQ. We make use of the ANOVA method to test the hypothesis, and this method is premised the normal distribution of variables values.
+Based on these results, we choose to test just the hypothesis associated with the dependent variable \%UEQ. We made use of the ANOVA method to test the hypothesis, and this method is premised the normal distribution of variables values.
 
 Tables \ref{table-shapiro-test-lss-001-100} and \ref{table-shapiro-test-ueq-001-100} shows examples of results we got running Shapiro-Wilk test. The independent variables assume these values: \textit{probability of failure} of 0.01 and \textit{array size} of 100. The bold \textit{p-values} confirms that the data is normally distributed.
 
@@ -169,9 +169,9 @@ Tables \ref{table-shapiro-test-lss-005-1000} and \ref{table-shapiro-test-ueq-005
         \hline
         \textbf{Algorithm} & \textbf{W} & \textbf{p-value} \\
         \hline
-        Bubblesort & 0.891642 & 0.00052 \\
+        Bubblesort & 0.891642 & 0.0052 \\
         \hline
-        Insertion Sort & 0.921918 & 0.3000 \\
+        Insertion Sort & 0.921918 & 0.0300 \\
         \hline
         Mergesort & 0.878308 & 0.0025 \\
         \hline
@@ -366,7 +366,7 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
     \hline
     residual & 980.841817 & 266.0 & &  \\
     \hline
-    \multirow{2}{*}{\hfill}&\multicolumn{4}{|c|}{\textbf{Insertion sort}} \\
+    \multirow{2}{*}{\hfill}&\multicolumn{4}{|c|}{\textbf{Insertionsort}} \\
     \cline{2-5}
     &\textbf{\textit{sum\_sq}} & \textbf{\textit{df}} & \textbf{\textit{F}} & \textbf{\textit{PR(>F)}} \\
     \hline
@@ -383,13 +383,13 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
 
 Based on these results, we reject the null hypothesis ($H_{0}$) for algorithms Mergesort, Quicksort, and Insertion sort. Therefore, we can affirm with 95\% of confidence that the values of variables \textit{probability of failure} and \textit{array size} have a significant impact on values of \%UEQ variable.
 
-For Bubblesort algorithm, however, there is no confidence to reject the null hypothesis ($H_{0}$). Analyzing the result, we can affirm with 95\% of confidence that the value of \textit{probability of failure} variable had a significant impact on the value of the dependent variable \%UEQ. But we can't affirm the same related to independent variable \textit{array size}. These results demonstrate that, for Bubblesort algorithm, the array sizes used in this experiment were not decisive to define values concerning the percentage of unordered elements quantity.
+For Bubblesort algorithm, however, there is no confidence to reject the null hypothesis ($H_{0}$). Analyzing the result, we can affirm with 95\% of confidence that the value of \textit{probability of failure} variable had a significant impact on the value of the dependent variable \%UEQ. But we can not affirm the same related to independent variable \textit{array size}. These results demonstrate that, for the Bubblesort algorithm, the array sizes used in this experiment were not decisive to define values concerning the percentage of unordered elements quantity.
 
 \subsection{Performance analysis related to \textit{percentage of unordered elements quantity} variable}
 
-In this section, we present an analysis of overall performance related to dependent variable \textit{percentage of unordered elements quantity}. To help this analysis, we show below 3 bar graphs, each of these for a different value of \textit{probability of failure} independent variable. These graphs shows informations about values of \%UEQ variable grouped by \textit{array size} and \textit{sorting algorithm} variables. Figures \ref{fig-barplot-pof-001}, \ref{fig-barplot-pof-002}, and \ref{fig-barplot-pof-005} below exhibit these graphs.
+In this section, we present an analysis of overall performance related to dependent variable \textit{percentage of unordered elements quantity}. To help this analysis, we show below 3 bar graphs, each of these for a different value of \textit{probability of failure} independent variable. These graphs show information about values of \%UEQ variable grouped by \textit{array size} and \textit{sorting algorithm} variables. Figures \ref{fig-barplot-pof-001}, \ref{fig-barplot-pof-002}, and \ref{fig-barplot-pof-005} below exhibit these graphs.
 
-The bars in each graph represents the sample mean value for variable \%UEQ inside each group. Above each bar, there is a vertical line that indicates the lower and upper limits of a confidence interval for a significance level of 5\% ($\alpha = 0.05$).
+The bars in each graph represent the sample mean value for variable \%UEQ inside each group. Above each bar, there is a vertical line that indicates the lower and upper limits of a confidence interval for a significance level of 5\% ($\alpha = 0.05$).
 
 \begin{figure}[H]
     \centering
@@ -409,6 +409,6 @@ The bars in each graph represents the sample mean value for variable \%UEQ insid
     \textsf{\caption[Data for \textit{probability of failure} of 5\%.]{Data for \textit{probability of failure} of 5\%.\label{fig-barplot-pof-005}}}
 \end{figure}
 
-Considering the data in the graphs, we can conclude that Bubblesort generates lower mean value for variable \%UEQ for all defined combinations (\textit{probability of failure} X \textit{array size} X \textit{sorting algorithm}). These data demonstrate that Bubblesort was the less affected algorithm by the memory faults simulated in this experiment. We believe that this fact happens because of the operation of the algorithm itself, where all elements order are verified each iteration, causing an element incorrectly positioned in an iteration (because of a memory fault) can have its location corrected in an upcoming iteration.
+Considering the data in the graphs, we can conclude that Bubblesort generates lower mean value for variable \%UEQ for all defined combinations (\textit{probability of failure} X \textit{array size} X \textit{sorting algorithm}). These data demonstrate that Bubblesort was the less affected algorithm by the memory faults simulated in this experiment. We believe that this fact happened because of the operation of the algorithm itself, where all elements order are verified each iteration, causing an element incorrectly positioned in an iteration (because of a memory fault) can have its location corrected in an upcoming iteration.
 
-Related to Bubblesort yet, we could identify that despite different sizes of input arrays (100, 1000, and 10000), there wasn't a significant impact on the mean value obtained for \%UEQ variable, proving what we verify with ANOVA when doing hypothesis 3 testing for this algorithm.
+Related to Bubblesort yet, we could identify that despite different sizes of input arrays (100, 1000, and 10000), there was not a significant impact on the mean value obtained for \%UEQ variable, proving what we verify with ANOVA when doing hypothesis 3 testing for this algorithm.
