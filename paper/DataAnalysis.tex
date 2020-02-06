@@ -6,19 +6,38 @@ In this section, we present our results after the execution of sorting algorithm
 
 Firstly, we performed an analysis of the distribution of the dependent variables \%LSS and \%UEQ. To help in this task, we produced histograms, boxplot graphs, tables containing data about mean, median, standard deviation, and the minimum and maximum values.
 
-The following Figures \ref{fig-histogram-boxplot-bubble-001100}, \ref{fig-histogram-boxplot-insertion-001100}, \ref{fig-histogram-boxplot-merge-00510000} and \ref{fig-histogram-boxplot-quick-00510000} illustrates examples of histograms and boxplot graphs for each combination of \textit{Algorithm X Probability of Failure X Array Size}. In each of those figures, the graphs were exhibited over the dependent variables \%LSS and \%UEQ.  In the histogram, the red vertical line means the mean, and the blue vertical line means the median. On the other hand, in the boxplot, the red horizontal line means the mean, and the blue horizontal line means the median.
+The following Figures \ref{fig-histogram-lss-001-100}, \ref{fig-histogram-ueq-001-100} and \ref{fig-boxplots-001-100} illustrates examples of histograms and boxplot graphs for each combination of \textit{Algorithm X Probability of Failure X Array Size}. In each of those figures, the graphs were exhibited over the dependent variables \%LSS and \%UEQ.
 
 \begin{figure}[H]
     \centering
-    \frame{\includegraphics[scale=0.105]{figures/0_01_100_Bubble.png}}
-    \caption{Histograms and Boxplot for Bubblesort, with \textit{probability of failure} of 0.01 and \textit{array size} of 100.}
-    \label{fig-histogram-boxplot-bubble-001100}
-\end{figure}
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_bubble_LSS_001_100.png}}
+     \textsf{\caption[Histogram for Bubblesort.]{Histogram for Bubblesort.\label{fig-histogram-bubble-lss-001-100}}}
+     \end{subfigure}%
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_insertion_LSS_001_100.png}}
+     \textsf{\caption[Histogram for Bubblesort.]{Histogram for Bubblesort.\label{fig-histogram-insertion-lss-001-100}}}
+     \end{subfigure}
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_merge_LSS_001_100.png}}
+     \textsf{\caption[Histogram for Mergesort.]{Histogram for Mergesort.\label{fig-histogram-mergesort-lss-001-100}}}
+     \end{subfigure}%
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_quick_LSS_001_100.png}}
+     \textsf{\caption[Histogram for Quicksort.]{Histogram for Quicksort.\label{fig-histogram-quicksort-lss-001-100}}}
+     \end{subfigure}
+     \caption{Histograms for \%LSS, with \textit{probability of failure} of 0.01 and \textit{array size} of 100.}
+    \label{fig-histogram-lss-001-100}
+  \end{figure}
 
-Based on Figures \ref{fig-histogram-boxplot-bubble-001100}, \ref{fig-histogram-boxplot-insertion-001100}, \ref{fig-histogram-boxplot-merge-00510000} and \ref{fig-histogram-boxplot-quick-00510000}, the following Tables \ref{tab-distribution-depentent-variable-ueq} and \ref{tab-distribution-depentent-variable-lss} illustrates the information about the dependent variables (\%LSS and \%UEQ) distribution.
+Based on Figures \ref{fig-histogram-lss-001-100}, \ref{fig-histogram-ueq-001-100} and \ref{fig-boxplots-001-100}, the following Tables \ref{tab-distribution-depentent-variable-ueq} and \ref{tab-distribution-depentent-variable-lss} illustrates the information about the dependent variables (\%LSS and \%UEQ) distribution.
 
 \begin{table}[H]
-    \caption{Table Type Styles}
+    \caption{Dependent variable \%UEQ distribution.}
     \begin{center}
     \begin{tabular}{|c|c|c|c|c|c|c|c|}
     \hline
@@ -41,13 +60,32 @@ Based on Figures \ref{fig-histogram-boxplot-bubble-001100}, \ref{fig-histogram-b
 
 \begin{figure}[H]
     \centering
-    \frame{\includegraphics[scale=0.105]{figures/0_01_100_Insertion.png}}
-    \caption{Histograms and Boxplot for Insertion sort, with \textit{probability of failure} of 0.01 and \textit{array size} of 100.}
-    \label{fig-histogram-boxplot-insertion-001100}
-\end{figure}
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_bubble_UEQ_001_100.png}}
+     \textsf{\caption[Histogram for Bubblesort.]{Histogram for Bubblesort.\label{fig-histogram-bubble-ueq-001-100}}}
+     \end{subfigure}%
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_insertion_UEQ_001_100.png}}
+     \textsf{\caption[Histogram for Bubblesort.]{Histogram for Bubblesort.\label{fig-histogram-insertion-ueq-001-100}}}
+     \end{subfigure}
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_merge_UEQ_001_100.png}}
+     \textsf{\caption[Histogram for Mergesort.]{Histogram for Mergesort.\label{fig-histogram-mergesort-ueq-001-100}}}
+     \end{subfigure}%
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/histogram_quick_UEQ_001_100.png}}
+     \textsf{\caption[Histogram for Quicksort.]{Histogram for Quicksort.\label{fig-histogram-quicksort-ueq-001-100}}}
+     \end{subfigure}
+     \caption{Histograms for \%UEQ, with \textit{probability of failure} of 0.01 and \textit{array size} of 100.}
+    \label{fig-histogram-ueq-001-100}
+  \end{figure}
 
 \begin{table}[H]
-    \caption{Table Type Styles}
+    \caption{Dependent variable \%LSS distribution.}
     \begin{center}
     \begin{tabular}{|c|c|c|c|c|c|c|c|}
     \hline
@@ -68,21 +106,23 @@ Based on Figures \ref{fig-histogram-boxplot-bubble-001100}, \ref{fig-histogram-b
     \end{center}
 \end{table}
 
-\begin{figure}[H]
-    \centering
-    \frame{\includegraphics[scale=0.105]{figures/0_05_10000_Merge.png}}
-    \caption{Histograms and Boxplot for Mergesort, with \textit{probability of failure} of 0.05 and \textit{array size} of 10000.}
-    \label{fig-histogram-boxplot-merge-00510000}
-\end{figure}
-
-\begin{figure}[H]
-    \centering
-    \frame{\includegraphics[scale=0.105]{figures/0_05_10000_Quick.png}}
-    \caption{Histograms and Boxplot for Quicksort, with \textit{probability of failure} of 0.05 and \textit{array size} of 10000.}
-    \label{fig-histogram-boxplot-quick-00510000}
-\end{figure}
-
 We produced graphs with the same data showed in Tables \ref{tab-distribution-depentent-variable-ueq} and \ref{tab-distribution-depentent-variable-lss}. Figure \ref{fig-distribution-all-algorithms-001-all-sizes} shows an example of these graphs. On it, we illustrate on the top-left graph that, considering the mean, bubblesort produces fewer unordered elements related to the total than other algorithms.
+
+\begin{figure}[H]
+    \centering
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/boxplot_lss_001_100.png}}
+     \textsf{\caption[Boxplot for \%LSS.]{Boxplot for \%LSS.\label{fig-boxplot-lss-001-100}}}
+     \end{subfigure}%
+     \begin{subfigure}{.5\textwidth}
+     \centering
+     \frame{\includegraphics[scale=0.45]{figures/boxplot_ueq_001_100.png}}
+     \textsf{\caption[Boxplot for \%UEQ.]{Boxplot for \%UEQ.\label{fig-boxplot-ueq-001-100}}}
+     \end{subfigure}
+     \caption{Boxplots for \%LSS and \%UEQ variables, with \textit{probability of failure} of 0.01 and \textit{array size} of 100.}
+    \label{fig-boxplots-001-100}
+\end{figure}
 
 \begin{figure}[H]
     \centering
@@ -340,9 +380,9 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
     \cline{2-5}
     &\textbf{\textit{sum\_sq}} & \textbf{\textit{df}} & \textbf{\textit{F}} & \textbf{\textit{PR(>F)}} \\
     \hline
-    size\_of\_array & 0.019548 & 1.0 & 0.01350 & \textbf{0.90759} \\
+    size\_of\_array & 0.019548 & 2.0 & 0.01350 & \textbf{0.90759} \\
     \hline
-    probability\_of\_failure & 3590.644437 & 1.0 & 2479.71637 & \textbf{7.570027e-137} \\
+    probability\_of\_failure & 3590.644437 & 2.0 & 2479.71637 & \textbf{7.570027e-137} \\
     \hline
     residual & 385.169623 & 266.0 & &  \\
     \hline
@@ -350,9 +390,9 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
     \cline{2-5}
     &\textbf{\textit{sum\_sq}} & \textbf{\textit{df}} & \textbf{\textit{F}} & \textbf{\textit{PR(>F)}} \\
     \hline
-    size\_of\_array & 1784.873256 & 1.0 & 383.585800 & \textbf{1.702008e-53} \\
+    size\_of\_array & 1784.873256 & 2.0 & 383.585800 & \textbf{1.702008e-53} \\
     \hline
-    probability\_of\_failure & 13009.963175 & 1.0 & 2795.961630 & \textbf{3.801570e-143} \\
+    probability\_of\_failure & 13009.963175 & 2.0 & 2795.961630 & \textbf{3.801570e-143} \\
     \hline
     residual & 1237.731651 & 266.0 & &  \\
     \hline
@@ -360,9 +400,9 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
     \cline{2-5}
     &\textbf{\textit{sum\_sq}} & \textbf{\textit{df}} & \textbf{\textit{F}} & \textbf{\textit{PR(>F)}} \\
     \hline
-    size\_of\_array & 121.551362 & 1.0 & 32.964196 & \textbf{2.556033e-08} \\
+    size\_of\_array & 121.551362 & 2.0 & 32.964196 & \textbf{2.556033e-08} \\
     \hline
-    probability\_of\_failure & 5626.955128 & 1.0 & 1526.005558 & \textbf{3.457996e-112} \\
+    probability\_of\_failure & 5626.955128 & 2.0 & 1526.005558 & \textbf{3.457996e-112} \\
     \hline
     residual & 980.841817 & 266.0 & &  \\
     \hline
@@ -370,9 +410,9 @@ After we run the testing method, we got the following results (Table \ref{tab-hy
     \cline{2-5}
     &\textbf{\textit{sum\_sq}} & \textbf{\textit{df}} & \textbf{\textit{F}} & \textbf{\textit{PR(>F)}} \\
     \hline
-    size\_of\_array & 309.843991 & 1.0 & 75.905868 & \textbf{3.236586e-16} \\
+    size\_of\_array & 309.843991 & 2.0 & 75.905868 & \textbf{3.236586e-16} \\
     \hline
-    probability\_of\_failure & 6806.075083 & 1.0 & 1667.358570 & \textbf{1.414758e-116} \\
+    probability\_of\_failure & 6806.075083 & 2.0 & 1667.358570 & \textbf{1.414758e-116} \\
     \hline
     residual & 1085.798822 & 116.0 & & \\
     \hline

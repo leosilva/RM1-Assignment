@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.11)  23 DEC 2019 14:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.10.7)  6 FEB 2020 10:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -768,96 +768,162 @@ Overfull \hbox (2.84935pt too wide) in paragraph at lines 132--133
  []
 
 [5]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/DataAnalysis.tex
-<figures/0_01_100_Bubble.png, id=175, 4866.6618pt x 4119.39pt>
-File: figures/0_01_100_Bubble.png Graphic file (type png)
-<use figures/0_01_100_Bubble.png>
-Package pdftex.def Info: figures/0_01_100_Bubble.png  used on input line 13.
-(pdftex.def)             Requested size: 510.97745pt x 432.51729pt.
+<figures/histogram_bubble_LSS_001_100.png, id=178, 562.1pt x 421.575pt>
+File: figures/histogram_bubble_LSS_001_100.png Graphic file (type png)
+<use figures/histogram_bubble_LSS_001_100.png>
+Package pdftex.def Info: figures/histogram_bubble_LSS_001_100.png  used on input line 15.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 16.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+)
+<figures/histogram_insertion_LSS_001_100.png, id=179, 562.1pt x 421.575pt>
+File: figures/histogram_insertion_LSS_001_100.png Graphic file (type png)
+<use figures/histogram_insertion_LSS_001_100.png>
+Package pdftex.def Info: figures/histogram_insertion_LSS_001_100.png  used on input line 20.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/histogram_merge_LSS_001_100.png, id=180, 562.1pt x 421.575pt>
+File: figures/histogram_merge_LSS_001_100.png Graphic file (type png)
+<use figures/histogram_merge_LSS_001_100.png>
+Package pdftex.def Info: figures/histogram_merge_LSS_001_100.png  used on input line 25.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/histogram_quick_LSS_001_100.png, id=181, 562.1pt x 421.575pt>
+File: figures/histogram_quick_LSS_001_100.png Graphic file (type png)
+<use figures/histogram_quick_LSS_001_100.png>
+Package pdftex.def Info: figures/histogram_quick_LSS_001_100.png  used on input line 30.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
  [6]
-<figures/0_01_100_Insertion.png, id=197, 4866.6618pt x 4119.39pt>
-File: figures/0_01_100_Insertion.png Graphic file (type png)
-<use figures/0_01_100_Insertion.png>
-Package pdftex.def Info: figures/0_01_100_Insertion.png  used on input line 44.
-(pdftex.def)             Requested size: 510.97745pt x 432.51729pt.
- [7 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Bubble.png>]
-<figures/0_05_10000_Merge.png, id=206, 4950.495pt x 4119.39pt>
-File: figures/0_05_10000_Merge.png Graphic file (type png)
-<use figures/0_05_10000_Merge.png>
-Package pdftex.def Info: figures/0_05_10000_Merge.png  used on input line 73.
-(pdftex.def)             Requested size: 519.77956pt x 432.51729pt.
-
-Overfull \hbox (3.77956pt too wide) in paragraph at lines 73--74
- [][] 
- []
-
-[8 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_01_100_Insertion.png>]
-<figures/0_05_10000_Quick.png, id=212, 4917.2508pt x 4119.39pt>
-File: figures/0_05_10000_Quick.png Graphic file (type png)
-<use figures/0_05_10000_Quick.png>
-Package pdftex.def Info: figures/0_05_10000_Quick.png  used on input line 80.
-(pdftex.def)             Requested size: 516.28906pt x 432.51729pt.
- [9 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Merge.png>]
+<figures/histogram_bubble_UEQ_001_100.png, id=200, 562.1pt x 421.575pt>
+File: figures/histogram_bubble_UEQ_001_100.png Graphic file (type png)
+<use figures/histogram_bubble_UEQ_001_100.png>
+Package pdftex.def Info: figures/histogram_bubble_UEQ_001_100.png  used on input line 65.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/histogram_insertion_UEQ_001_100.png, id=201, 562.1pt x 421.575pt>
+File: figures/histogram_insertion_UEQ_001_100.png Graphic file (type png)
+<use figures/histogram_insertion_UEQ_001_100.png>
+Package pdftex.def Info: figures/histogram_insertion_UEQ_001_100.png  used on input line 70.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/histogram_merge_UEQ_001_100.png, id=202, 562.1pt x 421.575pt>
+File: figures/histogram_merge_UEQ_001_100.png Graphic file (type png)
+<use figures/histogram_merge_UEQ_001_100.png>
+Package pdftex.def Info: figures/histogram_merge_UEQ_001_100.png  used on input line 75.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/histogram_quick_UEQ_001_100.png, id=203, 562.1pt x 421.575pt>
+File: figures/histogram_quick_UEQ_001_100.png Graphic file (type png)
+<use figures/histogram_quick_UEQ_001_100.png>
+Package pdftex.def Info: figures/histogram_quick_UEQ_001_100.png  used on input line 80.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+ [7 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_bubble_LSS_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_insertion_LSS_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_merge_LSS_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_quick_LSS_001_100.png (PNG copy)>]
+<figures/boxplot_lss_001_100.png, id=214, 562.1pt x 421.575pt>
+File: figures/boxplot_lss_001_100.png Graphic file (type png)
+<use figures/boxplot_lss_001_100.png>
+Package pdftex.def Info: figures/boxplot_lss_001_100.png  used on input line 115.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/boxplot_ueq_001_100.png, id=215, 562.1pt x 421.575pt>
+File: figures/boxplot_ueq_001_100.png Graphic file (type png)
+<use figures/boxplot_ueq_001_100.png>
+Package pdftex.def Info: figures/boxplot_ueq_001_100.png  used on input line 120.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+ [8 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_bubble_UEQ_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_insertion_UEQ_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_merge_UEQ_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/histogram_quick_UEQ_001_100.png (PNG copy)>]
 <figures/Estatisticas_por_Algoritmo_Prob_001.png, id=221, 2465.8524pt x 1907.928pt>
 File: figures/Estatisticas_por_Algoritmo_Prob_001.png Graphic file (type png)
 <use figures/Estatisticas_por_Algoritmo_Prob_001.png>
-Package pdftex.def Info: figures/Estatisticas_por_Algoritmo_Prob_001.png  used on input line 89.
+Package pdftex.def Info: figures/Estatisticas_por_Algoritmo_Prob_001.png  used on input line 129.
 (pdftex.def)             Requested size: 493.16176pt x 381.57884pt.
- [10 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/0_05_10000_Quick.png>] [11 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png>]
-<figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png, id=239, 1469.2491pt x 1528.5105pt>
+ [9 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/boxplot_lss_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/boxplot_ueq_001_100.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Estatisticas_por_Algoritmo_Prob_001.png>]
+<figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png, id=232, 1469.2491pt x 1528.5105pt>
 File: figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png Graphic file (type png)
 <use figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png>
-Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png  used on input line 150.
+Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png  used on input line 190.
 (pdftex.def)             Requested size: 440.77814pt x 458.55669pt.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 151.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-) [12 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png>]
-<figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png, id=247, 1459.1313pt x 1528.5105pt>
+ [10]
+<figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png, id=241, 1459.1313pt x 1528.5105pt>
 File: figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png Graphic file (type png)
 <use figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>
-Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png  used on input line 158.
+Package pdftex.def Info: figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png  used on input line 198.
 (pdftex.def)             Requested size: 437.74277pt x 458.55669pt.
- [13 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>]
-<figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png, id=259, 1463.4675pt x 1528.5105pt>
+ [11 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_largest_subarray_size.png>] [12 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_01_tam_100_Perc_unordered_elements_quantity.png>]
+<figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png, id=257, 1463.4675pt x 1528.5105pt>
 File: figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png Graphic file (type png)
 <use figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png>
-Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png  used on input line 210.
+Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png  used on input line 250.
 (pdftex.def)             Requested size: 439.04364pt x 458.55669pt.
-<figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png, id=260, 1469.9718pt x 1528.5105pt>
+<figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png, id=258, 1469.9718pt x 1528.5105pt>
 File: figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png Graphic file (type png)
 <use figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png>
-Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png  used on input line 216.
+Package pdftex.def Info: figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png  used on input line 256.
 (pdftex.def)             Requested size: 440.99495pt x 458.55669pt.
- [14 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png>] [15 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png>]
+ [13 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_largest_subarray_size.png>] [14 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/anova_prob_0_05_tam_1000_Perc_unordered_elements_quantity.png>]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <7.69997> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 235.
-Package hyperref Info: bookmark level for unknown hyp defaults to 0 on input line 235.
- [16]pdfTeX warning (ext4): destination with the same identifier (name{hyp.1}) has been already used, duplicate ignored
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 275.
+Package hyperref Info: bookmark level for unknown hyp defaults to 0 on input line 275.
+ [15]pdfTeX warning (ext4): destination with the same identifier (name{hyp.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.330 \begin{hyp} \label
-                        {hyp:b} The values of variables \textit{probability ... [17pdfTeX warning (ext4): destination with the same identifier (name{hyp.0}) has been already used, duplicate ignored
+l.370 \begin{hyp} \label
+                        {hyp:b} The values of variables \textit{probability ... [16pdfTeX warning (ext4): destination with the same identifier (name{hyp.0}) has been already used, duplicate ignored
 
 \AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
                                                   \fi \fi 
-l.393 
+l.433 
       ]
-<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png, id=298, 426.393pt x 195.6108pt>
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png, id=297, 426.393pt x 195.6108pt>
 File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png Graphic file (type png)
 <use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png>
-Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png  used on input line 396.
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png  used on input line 436.
 (pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
-<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png, id=299, 426.393pt x 195.6108pt>
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png, id=298, 426.393pt x 195.6108pt>
 File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png Graphic file (type png)
 <use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png>
-Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png  used on input line 402.
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png  used on input line 442.
 (pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
-<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png, id=300, 426.393pt x 195.6108pt>
+<figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png, id=299, 426.393pt x 195.6108pt>
 File: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png Graphic file (type png)
 <use figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png>
-Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png  used on input line 408.
+Package pdftex.def Info: figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png  used on input line 448.
 (pdftex.def)             Requested size: 490.34813pt x 224.95065pt.
- [18 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex [19 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl)
+ [17 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_01.png> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_02.png>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/LinearRegression.tex [18 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/Barplot_Estatisticas_por_Algoritmo_Prob_0_05.png>]
+<figures/linear_regression_scatter_plot_lss_bubble.png, id=314, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_lss_bubble.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_lss_bubble.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_lss_bubble.png  used on input line 25.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_lss_insertion.png, id=315, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_lss_insertion.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_lss_insertion.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_lss_insertion.png  used on input line 30.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_lss_merge.png, id=316, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_lss_merge.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_lss_merge.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_lss_merge.png  used on input line 35.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_lss_quick.png, id=317, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_lss_quick.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_lss_quick.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_lss_quick.png  used on input line 40.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_ueq_bubble.png, id=318, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_ueq_bubble.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_ueq_bubble.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_ueq_bubble.png  used on input line 51.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_ueq_insertion.png, id=319, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_ueq_insertion.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_ueq_insertion.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_ueq_insertion.png  used on input line 56.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_ueq_merge.png, id=320, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_ueq_merge.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_ueq_merge.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_ueq_merge.png  used on input line 61.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+<figures/linear_regression_scatter_plot_ueq_quick.png, id=321, 562.1pt x 421.575pt>
+File: figures/linear_regression_scatter_plot_ueq_quick.png Graphic file (type png)
+<use figures/linear_regression_scatter_plot_ueq_quick.png>
+Package pdftex.def Info: figures/linear_regression_scatter_plot_ueq_quick.png  used on input line 66.
+(pdftex.def)             Requested size: 252.94266pt x 189.70699pt.
+ [19 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_lss_bubble.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_lss_insertion.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_lss_merge.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_lss_quick.png (PNG copy)>] [20 </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_ueq_bubble.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_ueq_insertion.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_ueq_merge.png (PNG copy)> </Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/figures/linear_regression_scatter_plot_ueq_quick.png (PNG copy)>]) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/Conclusion.tex) (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.bbl [21])
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -869,33 +935,33 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
-[20]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 75.
+[22]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 75.
  (/Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 73.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 75.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 75.
 Package rerunfilecheck Info: File `article.out' has not changed.
-(rerunfilecheck)             Checksum: 82C05019F0FB3BE478568CC22F07F998;1459.
+(rerunfilecheck)             Checksum: 35B1128DFF6575208E8369D24B398B6D;1512.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 73.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 75.
  ) 
 Here is how much of TeX's memory you used:
- 12165 strings out of 492616
- 203596 string characters out of 6129480
+ 12332 strings out of 492616
+ 211019 string characters out of 6129481
  320695 words of memory out of 5000000
- 15741 multiletter control sequences out of 15000+600000
+ 15884 multiletter control sequences out of 15000+600000
  117964 words of font info for 138 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,10n,46p,882b,444s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (20 pages, 4168009 bytes).
+ 42i,12n,46p,882b,540s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on /Users/leosilva/development/doutorado/researchMethods1/Assignment/paper/article.pdf (22 pages, 1443128 bytes).
 PDF statistics:
- 379 PDF objects out of 1000 (max. 8388607)
- 318 compressed objects within 4 object streams
- 96 named destinations out of 1000 (max. 500000)
- 237 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 417 PDF objects out of 1000 (max. 8388607)
+ 342 compressed objects within 4 object streams
+ 103 named destinations out of 1000 (max. 500000)
+ 315 words of extra memory for PDF output out of 10000 (max. 10000000)
 
